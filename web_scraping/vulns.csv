@@ -1,0 +1,333 @@
+Improper Control of Generation of Code ('Code Injection'),CVE-2022-22965,04/01/2022,9.8,245
+Insufficient Information,CVE-2020-5421,09/19/2020,8.7,228
+Allocation of Resources Without Limits or Throttling,CVE-2022-22950,04/01/2022,6.5,185
+Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),CVE-2021-43980,09/28/2022,3.7,152
+Deserialization of Untrusted Data,CVE-2022-42003,10/02/2022,7.5,144
+Deserialization of Untrusted Data,CVE-2022-42004,10/02/2022,7.5,144
+Deserialization of Untrusted Data,CVE-2016-1000027,01/02/2020,9.8,136
+Use of Incorrectly-Resolved Name or Reference,CVE-2021-24122,01/14/2021,5.9,130
+Allocation of Resources Without Limits or Throttling,CVE-2022-22970,05/12/2022,5.3,127
+Allocation of Resources Without Limits or Throttling,CVE-2022-22971,05/12/2022,6.5,127
+Improper Handling of Case Sensitivity,CVE-2022-22968,04/14/2022,5.3,124
+Image user should not be �root�,ds002,,7,122
+No HEALTHCHECK defined,ds026,,3,122
+Process can elevate its own privileges,ksv001,,5,119
+Runs with low group ID,ksv021,,3,119
+Default Seccomp profile not set,ksv030,,3,119
+Container capabilities must only include NET_BIND_SERVICE,ksv106,,3,118
+Out-of-bounds Write,CVE-2020-36518,03/11/2022,7.5,110
+Runs as root user,ksv012,,5,101
+Runs with low user ID,ksv020,,3,101
+Deserialization of Untrusted Data,CVE-2021-42550,12/16/2021,6.6,100
+Root file system is not read-only,ksv014,,3,92
+Default capabilities not dropped,ksv003,,3,91
+Uncontrolled Resource Consumption,CVE-2022-25857,08/30/2022,7.5,86
+Out-of-bounds Write,CVE-2022-38749,09/05/2022,6.5,86
+Out-of-bounds Write,CVE-2022-38750,09/05/2022,6.5,86
+Out-of-bounds Write,CVE-2022-38751,09/05/2022,6.5,86
+Out-of-bounds Write,CVE-2022-38752,09/05/2022,6.5,86
+Out-of-bounds Write,CVE-2022-41854,11/11/2022,5.8,86
+CPU not limited,ksv011,,3,81
+CPU requests not specified,ksv015,,3,81
+Memory requests not specified,ksv016,,3,81
+Memory not limited,ksv018,,3,81
+Exposure of Resource to Wrong Sphere,CVE-2022-27772,03/30/2022,7.8,80
+Improper Restriction of XML External Entity Reference,CVE-2020-25649,12/03/2020,7.5,78
+Deserialization of Untrusted Data,CVE-2020-9546,03/01/2020,9.8,70
+Deserialization of Untrusted Data,CVE-2020-9547,03/01/2020,9.8,70
+Deserialization of Untrusted Data,CVE-2020-9548,03/01/2020,9.8,70
+Deserialization of Untrusted Data,CVE-2020-10650,12/26/2022,8.1,70
+Other,CVE-2020-10672,03/18/2020,8.8,70
+Other,CVE-2020-10673,03/18/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-10968,03/26/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-10969,03/26/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-11111,03/31/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-11112,03/31/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-11113,03/31/2020,8.8,70
+Deserialization of Untrusted Data,CVE-2020-11619,04/07/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-11620,04/07/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-14060,06/14/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-14061,06/14/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-14062,06/14/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-14195,06/16/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-24616,08/25/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-24750,09/17/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-35490,12/17/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-35491,12/17/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-35728,12/27/2020,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36179,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36180,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36181,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36182,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36183,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36184,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36185,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36186,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36187,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36188,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2020-36189,01/06/2021,8.1,70
+Deserialization of Untrusted Data,CVE-2021-20190,01/19/2021,8.1,70
+Incorrect Permission Assignment for Critical Resource,CVE-2020-8908,12/10/2020,3.3,66
+Allocation of Resources Without Limits or Throttling,CVE-2023-24998,02/20/2023,7.5,66
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2020-17527,12/03/2020,7.5,65
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2021-25122,03/01/2021,7.5,65
+Insufficient Information,CVE-2021-25329,03/01/2021,7.0,65
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CVE-2021-29425,04/13/2021,4.8,60
+Exposure of Resource to Wrong Sphere,CVE-2022-24823,05/06/2022,5.5,54
+Exposure of Resource to Wrong Sphere,CVE-2021-21290,02/08/2021,6.2,53
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2021-21409,03/30/2021,5.9,53
+Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),CVE-2020-15522,05/20/2021,5.9,52
+NULL Pointer Dereference,CVE-2020-13934,07/14/2020,7.5,50
+Loop with Unreachable Exit Condition ('Infinite Loop'),CVE-2020-13935,07/14/2020,7.5,50
+Improper Input Validation,CVE-2020-10693,05/06/2020,5.3,48
+Download of Code Without Integrity Check,CVE-2020-5398,01/16/2020,8.0,46
+Allocation of Resources Without Limits or Throttling,CVE-2018-10237,04/26/2018,5.9,42
+Deserialization of Untrusted Data,CVE-2020-9484,05/20/2020,7.0,42
+Image tag �:latest� used,ksv013,,5,40
+Insufficient Information,CVE-2022-3171,10/12/2022,4.3,39
+Insufficient Information,CVE-2021-22060,01/10/2022,4.3,38
+Insufficient Information,CVE-2022-4492,02/23/2023,7.5,38
+Insufficient Information,CVE-2021-22569,01/10/2022,7.5,37
+Out-of-bounds Write,CVE-2022-40151,09/16/2022,6.5,32
+Out-of-bounds Write,CVE-2022-40152,09/16/2022,6.5,32
+Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection'),CVE-2022-45143,01/03/2023,7.5,31
+ADD instead of COPY,ds005,,3,30
+Insufficient Information,CVE-2022-21363,01/19/2022,6.6,30
+Improper Authentication,CVE-2021-43116,07/05/2022,8.8,29
+Allocation of Resources Without Limits or Throttling,CVE-2020-11612,04/07/2020,7.5,29
+Deserialization of Untrusted Data,CVE-2023-24162,01/31/2023,9.8,29
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2023-24163,01/31/2023,9.8,29
+Other,CVE-2021-22096,10/28/2021,4.3,28
+Insufficient Information,CVE-2020-2934,04/15/2020,5.0,28
+Insufficient Information,CVE-2021-2471,10/20/2021,5.9,28
+Uncontrolled Resource Consumption,CVE-2019-0199,04/10/2019,7.5,27
+Non-default capabilities added,ksv022,,5,26
+Exposure of Resource to Wrong Sphere,CVE-2021-22118,05/27/2021,7.8,26
+Deserialization of Untrusted Data,CVE-2022-25845,06/10/2022,8.1,22
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2019-14379,07/29/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-14540,09/15/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-14892,03/02/2020,7.5,22
+Deserialization of Untrusted Data,CVE-2019-14893,03/02/2020,7.5,22
+Deserialization of Untrusted Data,CVE-2019-16335,09/15/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-16942,10/01/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-16943,10/01/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-17267,10/06/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-17531,10/12/2019,9.8,22
+Deserialization of Untrusted Data,CVE-2019-20330,01/02/2020,9.8,22
+Deserialization of Untrusted Data,CVE-2020-8840,02/10/2020,9.8,22
+Deserialization of Untrusted Data,CVE-2019-12086,05/17/2019,7.5,22
+Deserialization of Untrusted Data,CVE-2019-14439,07/30/2019,7.5,22
+Deserialization of Untrusted Data,CVE-2019-12384,06/24/2019,5.9,22
+Deserialization of Untrusted Data,CVE-2019-12814,06/19/2019,5.9,22
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2019-20444,01/29/2020,9.1,22
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2019-20445,01/29/2020,9.1,22
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2019-10219,11/08/2019,6.5,21
+Cross-Site Request Forgery (CSRF),CVE-2019-17495,10/10/2019,9.8,21
+Improper Input Validation,CVE-2018-1000873,12/20/2018,6.5,19
+Other,CVE-2020-1938,02/24/2020,9.8,19
+Improper Locking,CVE-2019-10072,06/21/2019,7.5,19
+Insufficient Information,CVE-2019-12418,12/23/2019,7.0,19
+Session Fixation,CVE-2019-17563,12/23/2019,7.5,19
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2020-1935,02/24/2020,4.8,19
+Deserialization of Untrusted Data,CVE-2022-41966,12/27/2022,8.2,17
+Insufficient Information,CVE-2022-31684,10/19/2022,4.3,17
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2021-43797,12/09/2021,6.5,16
+Deserialization of Untrusted Data,CVE-2022-25647,05/01/2022,7.7,16
+Deserialization of Untrusted Data,CVE-2020-26945,10/10/2020,8.1,16
+Incorrect Authorization,CVE-2022-22978,05/19/2022,9.8,16
+Integer Overflow or Wraparound,CVE-2022-22976,05/19/2022,5.3,16
+Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression La,CVE-2021-28170,05/26/2021,5.3,15
+Incorrect Permission Assignment for Critical Resource,CVE-2020-15250,10/12/2020,4.4,15
+�:latest� tag used,ds001,,5,14
+Insufficient Information,CVE-2020-13956,12/02/2020,5.3,14
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2022-28111,05/04/2022,9.8,14
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2020-25638,12/02/2020,7.4,13
+Deserialization of Untrusted Data,CVE-2019-10202,10/01/2019,8.1,12
+Exposure of Resource to Wrong Sphere,CVE-2021-22044,10/28/2021,7.5,11
+Out-of-bounds Write,CVE-2021-31684,06/01/2021,7.5,10
+Improper Check for Unusual or Exceptional Conditions,CVE-2021-27568,02/22/2021,5.9,10
+Deserialization of Untrusted Data,CVE-2018-19360,01/02/2019,9.8,10
+Deserialization of Untrusted Data,CVE-2018-19361,01/02/2019,9.8,10
+Deserialization of Untrusted Data,CVE-2018-19362,01/02/2019,9.8,10
+Use of Insufficiently Random Values,CVE-2019-3795,04/09/2019,3.8,10
+Deserialization of Untrusted Data,CVE-2019-10086,08/20/2019,7.3,10
+Improper Control of Generation of Code ('Code Injection'),CVE-2022-46166,12/09/2022,8.0,10
+Deserialization of Untrusted Data,CVE-2021-29505,05/28/2021,7.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39139,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39141,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39144,08/23/2021,8.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39145,08/23/2021,8.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39146,08/23/2021,8.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39147,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39148,08/23/2021,8.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39149,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39150,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39151,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39152,08/23/2021,8.5,10
+Deserialization of Untrusted Data,CVE-2021-39153,08/23/2021,8.5,10
+Unrestricted Upload of File with Dangerous Type,CVE-2021-39154,08/23/2021,8.5,10
+Uncontrolled Resource Consumption,CVE-2021-43859,02/01/2022,7.5,10
+Loop with Unreachable Exit Condition ('Infinite Loop'),CVE-2021-39140,08/23/2021,6.5,10
+Allocation of Resources Without Limits or Throttling,CVE-2022-26336,03/04/2022,5.5,10
+The minimum TLS version for Storage Accounts should be TLS1_2,avd-azu-0011,,10,9
+Out-of-bounds Write,CVE-2022-40149,09/16/2022,6.5,9
+Uncontrolled Resource Consumption,CVE-2022-40150,09/16/2022,6.5,9
+Out-of-bounds Write,CVE-2022-45685,12/13/2022,7.5,9
+Out-of-bounds Write,CVE-2022-45693,12/13/2022,7.5,9
+Improper Restriction of XML External Entity Reference,CVE-2021-33813,06/16/2021,7.5,9
+hostPath volumes mounted,ksv023,,5,9
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2019-16869,09/26/2019,7.5,8
+Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),CVE-2019-0232,04/15/2019,8.1,8
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2019-0221,05/28/2019,6.1,8
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2021-44667,03/11/2022,6.1,8
+Improper Restriction of XML External Entity Reference,CVE-2019-10172,11/18/2019,5.9,8
+Insufficient Information,CVE-2016-3720,06/10/2016,9.8,8
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2021-21295,03/09/2021,5.9,8
+Insufficient Information,CVE-2021-22112,02/23/2021,8.8,8
+Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression La,CVE-2022-22980,06/23/2022,9.8,7
+Deserialization of Untrusted Data,CVE-2019-17571,12/20/2019,9.8,7
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2022-23305,01/18/2022,9.8,7
+Deserialization of Untrusted Data,CVE-2021-4104,12/14/2021,7.5,7
+Deserialization of Untrusted Data,CVE-2022-23302,01/18/2022,8.8,7
+Deserialization of Untrusted Data,CVE-2022-23307,01/18/2022,8.8,7
+Improper Certificate Validation,CVE-2020-9488,04/27/2020,3.7,7
+Improper Locking,CVE-2022-24329,02/25/2022,5.3,7
+Uncontrolled Recursion,CVE-2021-22144,07/26/2021,6.5,6
+Improper Privilege Management,CVE-2022-31690,10/31/2022,8.1,6
+Deserialization of Untrusted Data,CVE-2021-21342,03/22/2021,5.3,6
+Deserialization of Untrusted Data,CVE-2021-21344,03/22/2021,5.3,6
+Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),CVE-2021-21345,03/22/2021,5.8,6
+Deserialization of Untrusted Data,CVE-2021-21346,03/22/2021,6.1,6
+Deserialization of Untrusted Data,CVE-2021-21347,03/22/2021,6.1,6
+Unrestricted Upload of File with Dangerous Type,CVE-2021-21350,03/22/2021,5.3,6
+Unrestricted Upload of File with Dangerous Type,CVE-2021-21351,03/22/2021,5.4,6
+Server-Side Request Forgery (SSRF),CVE-2020-26258,12/15/2020,7.7,6
+Deserialization of Untrusted Data,CVE-2021-21341,03/22/2021,7.5,6
+Deserialization of Untrusted Data,CVE-2021-21343,03/22/2021,5.3,6
+Uncontrolled Resource Consumption,CVE-2021-21348,03/22/2021,5.3,6
+Server-Side Request Forgery (SSRF),CVE-2021-21349,03/22/2021,6.1,6
+Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),CVE-2020-26259,12/15/2020,6.8,6
+Loop with Unreachable Exit Condition ('Infinite Loop'),CVE-2021-35515,07/13/2021,7.5,6
+Allocation of Resources Without Limits or Throttling,CVE-2021-35516,07/13/2021,7.5,6
+Allocation of Resources Without Limits or Throttling,CVE-2021-35517,07/13/2021,7.5,6
+Other,CVE-2021-36090,07/13/2021,7.5,6
+Ensure that the cluster-admin role is only used where required,ksv111,,5,5
+Improper Control of Generation of Code ('Code Injection'),CVE-2021-22053,11/19/2021,8.8,5
+Other,CVE-2020-17521,12/07/2020,5.5,4
+Improper Restriction of XML External Entity Reference,CVE-2020-10683,05/01/2020,9.8,4
+XML Injection (aka Blind XPath Injection),CVE-2018-1000632,08/20/2018,7.5,4
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2019-3797,05/06/2019,3.5,4
+Other,CVE-2019-3802,06/03/2019,3.5,4
+Improper Certificate Validation,CVE-2018-20200,04/18/2019,5.9,4
+Other,CVE-2019-7611,03/25/2019,8.1,4
+Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition'),CVE-2019-7614,07/30/2019,5.9,4
+Insertion of Sensitive Information into Log File,CVE-2020-7021,02/10/2021,4.9,4
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2021-22135,05/13/2021,5.3,4
+Improper Privilege Management,CVE-2020-7020,10/22/2020,3.1,4
+Improper Input Validation,CVE-2014-0114,04/30/2014,,4
+Deserialization of Untrusted Data,CVE-2015-7501,11/09/2017,9.8,4
+Deserialization of Untrusted Data,CVE-2015-6420,12/15/2015,,4
+Incorrect Authorization,CVE-2022-31692,10/31/2022,9.8,4
+Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'),CVE-2020-26217,11/16/2020,8.0,4
+Use of Insufficiently Random Values,CVE-2020-5408,05/14/2020,6.5,4
+Improper Restriction of XML External Entity Reference,CVE-2019-12415,10/23/2019,5.5,4
+�apk add� is missing ��no-cache�,ds025,,7,4
+Missing description for security group rule.,avd-aws-0124,,3,4
+Do not allow management of secrets,ksv041,,10,3
+Improper Authentication,CVE-2017-8028,11/27/2017,8.1,3
+Do not allow management of configmaps,ksv049,,5,2
+Other,CVE-2022-37599,10/11/2022,7.5,2
+Other,CVE-2022-37603,10/14/2022,7.5,2
+Require Vpc Flow Logs For All Vpcs,avd-aws-0178,,5,2
+�RUN cd �� to change directory,ds013,,5,2
+WORKDIR path not absolute,ds009,,7,2
+Improper Preservation of Permissions,CVE-2021-22137,05/13/2021,5.3,2
+URL Redirection to Untrusted Site ('Open Redirect'),CVE-2019-11269,06/12/2019,4.2,2
+URL Redirection to Untrusted Site ('Open Redirect'),CVE-2019-3778,03/07/2019,6.5,2
+Insufficient Information,CVE-2022-3509,12/12/2022,7.5,2
+Insufficient Information,CVE-2022-3510,12/12/2022,7.5,2
+Generation of Error Message Containing Sensitive Information,CVE-2021-22145,07/21/2021,6.5,2
+Missing Authorization,CVE-2021-22147,09/15/2021,6.5,2
+Improper Neutralization,CVE-2022-4348,12/08/2022,3.5,2
+Insufficiently Protected Credentials,CVE-2019-11284,10/17/2019,6.8,2
+Insufficiently Protected Credentials,CVE-2020-5404,03/03/2020,6.5,2
+Uncontrolled Recursion,CVE-2022-41881,12/12/2022,5.3,2
+Uncontrolled Resource Consumption,CVE-2021-37136,10/19/2021,7.5,2
+Uncontrolled Resource Consumption,CVE-2021-37137,10/19/2021,7.5,2
+Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion'),CVE-2021-23926,01/14/2021,9.1,2
+Incorrect Default Permissions,CVE-2020-29582,02/03/2021,5.3,2
+ConfigMap with secrets,avd-ksv-0109,,7,2
+aws_instance should activate session tokens for Instance Metadata Service.,avd-aws-0028,,7,2
+Instance with unencrypted block device.,avd-aws-0131,,7,2
+Storage accounts should be configured to only accept transfers that are over secure connections,avd-azu-0008,,7,1
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2022-31042,06/09/2022,7.5,1
+Incorrect Authorization,CVE-2022-31043,06/09/2022,7.5,1
+Exposure of Sensitive Information to an Unauthorized Actor,CVE-2022-31090,06/27/2022,7.7,1
+Insufficient Information,CVE-2022-31091,06/27/2022,7.7,1
+Loop with Unreachable Exit Condition ('Infinite Loop'),CVE-2023-27560,03/03/2023,7.5,1
+Improper Input Validation,CVE-2022-38900,11/28/2022,7.5,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2022-46175,12/23/2022,7.1,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2022-37601,10/12/2022,9.8,1
+Other,CVE-2022-3517,10/17/2022,7.5,1
+Other,CVE-2021-3803,09/17/2021,7.5,1
+Other,CVE-2022-25858,07/15/2022,5.3,1
+Privileged container,ksv017,,7,1
+Deserialization of Untrusted Data,CVE-2018-11307,07/09/2019,9.8,1
+Deserialization of Untrusted Data,CVE-2018-14718,01/02/2019,9.8,1
+Deserialization of Untrusted Data,CVE-2018-14719,01/02/2019,9.8,1
+Deserialization of Untrusted Data,CVE-2018-14720,01/02/2019,9.8,1
+Server-Side Request Forgery (SSRF),CVE-2018-14721,01/02/2019,10.0,1
+Deserialization of Untrusted Data,CVE-2018-7489,02/26/2018,9.8,1
+Deserialization of Untrusted Data,CVE-2018-12022,03/21/2019,7.5,1
+Deserialization of Untrusted Data,CVE-2018-12023,03/21/2019,7.5,1
+Improperly Implemented Security Check for Standard,CVE-2018-1270,04/06/2018,9.8,1
+Improperly Implemented Security Check for Standard,CVE-2018-1275,04/11/2018,9.8,1
+Inclusion of Functionality from Untrusted Control Sphere,CVE-2018-11040,06/25/2018,7.5,1
+Insufficient Information,CVE-2018-1272,04/06/2018,7.5,1
+Insufficient Information,CVE-2018-15756,10/18/2018,7.5,1
+Insufficient Information,CVE-2018-11039,06/25/2018,5.9,1
+Insufficient Information,CVE-2018-1257,05/11/2018,6.5,1
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CVE-2018-1271,04/06/2018,5.9,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2022-32065,07/13/2022,5.4,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2019-10768,11/19/2019,7.5,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2020-7676,06/08/2020,5.4,1
+Allocation of Resources Without Limits or Throttling,CVE-2022-25844,05/01/2022,5.3,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2022-25869,07/15/2022,4.2,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2021-43138,04/06/2022,7.8,1
+,CVE-2016-1000227,,,1
+Uncontrolled Resource Consumption,CVE-2019-17592,10/14/2019,7.5,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2020-11022,04/29/2020,6.9,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2020-11023,04/29/2020,6.9,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2020-8203,07/15/2020,7.4,1
+Improper Control of Generation of Code ('Code Injection'),CVE-2021-23337,02/15/2021,7.2,1
+Other,CVE-2020-28500,02/15/2021,5.3,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2021-44906,03/17/2022,9.8,1
+Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution'),CVE-2020-7598,03/11/2020,5.6,1
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CVE-2022-24785,04/04/2022,7.5,1
+Other,CVE-2022-31129,07/06/2022,7.5,1
+Use of a Broken or Risky Cryptographic Algorithm,CVE-2020-8911,08/11/2020,5.6,1
+Use of a Broken or Risky Cryptographic Algorithm,CVE-2020-8912,08/11/2020,2.5,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2019-3826,03/26/2019,6.1,1
+Do not allow privilege escalation from node proxy,ksv047,,7,1
+Access to host network,ksv009,,7,1
+Access to host PID,ksv010,,7,1
+Access to host ports,ksv024,,7,1
+Deprecated MAINTAINER used,ds022,,7,1
+�RUN  update� instruction alone,ds017,,7,1
+Load balancer is exposed to the internet.,avd-aws-0053,,7,1
+An egress security group rule allows traffic to /0.,avd-aws-0104,,10,1
+An ingress security group rule allows traffic from /0.,avd-aws-0107,,10,1
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2019-7164,02/19/2019,9.8,1
+Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection'),CVE-2019-7548,02/06/2019,7.8,1
+Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling'),CVE-2022-29361,05/24/2022,9.8,1
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CVE-2019-14322,07/28/2019,7.5,1
+Insufficient Entropy,CVE-2019-14806,08/09/2019,7.5,1
+Allocation of Resources Without Limits or Throttling,CVE-2023-25577,02/14/2023,7.5,1
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CVE-2016-10516,10/23/2017,6.1,1
+Insufficient Information,CVE-2023-23934,02/14/2023,2.6,1
+Loop with Unreachable Exit Condition ('Infinite Loop'),CVE-2017-18361,02/01/2019,7.5,1
+Insufficiently Protected Credentials,CVE-2018-18074,10/09/2018,7.5,1
+Always-Incorrect Control Flow Implementation,CVE-2022-31116,07/05/2022,7.5,1
+Double Free,CVE-2022-31117,07/05/2022,5.9,1
+Missing Authorization,CVE-2020-14001,07/17/2020,9.8,1
+Insufficient Information,CVE-2021-28834,03/19/2021,9.8,1

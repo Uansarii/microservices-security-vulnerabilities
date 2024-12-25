@@ -1,0 +1,307 @@
+Enumerating objects: 964, done.
+Counting objects:   0% (1/964)Counting objects:   1% (10/964)Counting objects:   2% (20/964)Counting objects:   3% (29/964)Counting objects:   4% (39/964)Counting objects:   5% (49/964)Counting objects:   6% (58/964)Counting objects:   7% (68/964)Counting objects:   8% (78/964)Counting objects:   9% (87/964)Counting objects:  10% (97/964)Counting objects:  11% (107/964)Counting objects:  12% (116/964)Counting objects:  13% (126/964)Counting objects:  14% (135/964)Counting objects:  15% (145/964)Counting objects:  16% (155/964)Counting objects:  17% (164/964)Counting objects:  18% (174/964)Counting objects:  19% (184/964)Counting objects:  20% (193/964)Counting objects:  21% (203/964)Counting objects:  22% (213/964)Counting objects:  23% (222/964)Counting objects:  24% (232/964)Counting objects:  25% (241/964)Counting objects:  26% (251/964)Counting objects:  27% (261/964)Counting objects:  28% (270/964)Counting objects:  29% (280/964)Counting objects:  30% (290/964)Counting objects:  31% (299/964)Counting objects:  32% (309/964)Counting objects:  33% (319/964)Counting objects:  34% (328/964)Counting objects:  35% (338/964)Counting objects:  36% (348/964)Counting objects:  37% (357/964)Counting objects:  38% (367/964)Counting objects:  39% (376/964)Counting objects:  40% (386/964)Counting objects:  41% (396/964)Counting objects:  42% (405/964)Counting objects:  43% (415/964)Counting objects:  44% (425/964)Counting objects:  45% (434/964)Counting objects:  46% (444/964)Counting objects:  47% (454/964)Counting objects:  48% (463/964)Counting objects:  49% (473/964)Counting objects:  50% (482/964)Counting objects:  51% (492/964)Counting objects:  52% (502/964)Counting objects:  53% (511/964)Counting objects:  54% (521/964)Counting objects:  55% (531/964)Counting objects:  56% (540/964)Counting objects:  57% (550/964)Counting objects:  58% (560/964)Counting objects:  59% (569/964)Counting objects:  60% (579/964)Counting objects:  61% (589/964)Counting objects:  62% (598/964)Counting objects:  63% (608/964)Counting objects:  64% (617/964)Counting objects:  65% (627/964)Counting objects:  66% (637/964)Counting objects:  67% (646/964)Counting objects:  68% (656/964)Counting objects:  69% (666/964)Counting objects:  70% (675/964)Counting objects:  71% (685/964)Counting objects:  72% (695/964)Counting objects:  73% (704/964)Counting objects:  74% (714/964)Counting objects:  75% (723/964)Counting objects:  76% (733/964)Counting objects:  77% (743/964)Counting objects:  78% (752/964)Counting objects:  79% (762/964)Counting objects:  80% (772/964)Counting objects:  81% (781/964)Counting objects:  82% (791/964)Counting objects:  83% (801/964)Counting objects:  84% (810/964)Counting objects:  85% (820/964)Counting objects:  86% (830/964)Counting objects:  87% (839/964)Counting objects:  88% (849/964)Counting objects:  89% (858/964)Counting objects:  90% (868/964)Counting objects:  91% (878/964)Counting objects:  92% (887/964)Counting objects:  93% (897/964)Counting objects:  94% (907/964)Counting objects:  95% (916/964)Counting objects:  96% (926/964)Counting objects:  97% (936/964)Counting objects:  98% (945/964)Counting objects:  99% (955/964)Counting objects: 100% (964/964)Counting objects: 100% (964/964), done.
+Compressing objects:   0% (1/539)Compressing objects:   1% (6/539)Compressing objects:   2% (11/539)Compressing objects:   3% (17/539)Compressing objects:   4% (22/539)Compressing objects:   5% (27/539)Compressing objects:   6% (33/539)Compressing objects:   7% (38/539)Compressing objects:   8% (44/539)Compressing objects:   9% (49/539)Compressing objects:  10% (54/539)Compressing objects:  11% (60/539)Compressing objects:  12% (65/539)Compressing objects:  13% (71/539)Compressing objects:  14% (76/539)Compressing objects:  15% (81/539)Compressing objects:  16% (87/539)Compressing objects:  17% (92/539)Compressing objects:  18% (98/539)Compressing objects:  19% (103/539)Compressing objects:  20% (108/539)Compressing objects:  21% (114/539)Compressing objects:  22% (119/539)Compressing objects:  23% (124/539)Compressing objects:  24% (130/539)Compressing objects:  25% (135/539)Compressing objects:  26% (141/539)Compressing objects:  27% (146/539)Compressing objects:  28% (151/539)Compressing objects:  29% (157/539)Compressing objects:  30% (162/539)Compressing objects:  31% (168/539)Compressing objects:  32% (173/539)Compressing objects:  33% (178/539)Compressing objects:  34% (184/539)Compressing objects:  35% (189/539)Compressing objects:  36% (195/539)Compressing objects:  37% (200/539)Compressing objects:  38% (205/539)Compressing objects:  39% (211/539)Compressing objects:  40% (216/539)Compressing objects:  41% (221/539)Compressing objects:  42% (227/539)Compressing objects:  43% (232/539)Compressing objects:  44% (238/539)Compressing objects:  45% (243/539)Compressing objects:  46% (248/539)Compressing objects:  47% (254/539)Compressing objects:  48% (259/539)Compressing objects:  49% (265/539)Compressing objects:  50% (270/539)Compressing objects:  51% (275/539)Compressing objects:  52% (281/539)Compressing objects:  53% (286/539)Compressing objects:  54% (292/539)Compressing objects:  55% (297/539)Compressing objects:  56% (302/539)Compressing objects:  57% (308/539)Compressing objects:  58% (313/539)Compressing objects:  59% (319/539)Compressing objects:  60% (324/539)Compressing objects:  61% (329/539)Compressing objects:  62% (335/539)Compressing objects:  63% (340/539)Compressing objects:  64% (345/539)Compressing objects:  65% (351/539)Compressing objects:  66% (356/539)Compressing objects:  67% (362/539)Compressing objects:  68% (367/539)Compressing objects:  69% (372/539)Compressing objects:  70% (378/539)Compressing objects:  71% (383/539)Compressing objects:  72% (389/539)Compressing objects:  73% (394/539)Compressing objects:  74% (399/539)Compressing objects:  75% (405/539)Compressing objects:  76% (410/539)Compressing objects:  77% (416/539)Compressing objects:  78% (421/539)Compressing objects:  79% (426/539)Compressing objects:  80% (432/539)Compressing objects:  81% (437/539)Compressing objects:  82% (442/539)Compressing objects:  83% (448/539)Compressing objects:  84% (453/539)Compressing objects:  85% (459/539)Compressing objects:  86% (464/539)Compressing objects:  87% (469/539)Compressing objects:  88% (475/539)Compressing objects:  89% (480/539)Compressing objects:  90% (486/539)Compressing objects:  91% (491/539)Compressing objects:  92% (496/539)Compressing objects:  93% (502/539)Compressing objects:  94% (507/539)Compressing objects:  95% (513/539)Compressing objects:  96% (518/539)Compressing objects:  97% (523/539)Compressing objects:  98% (529/539)Compressing objects:  99% (534/539)Compressing objects: 100% (539/539)Compressing objects: 100% (539/539), done.
+Total 964 (delta 348), reused 754 (delta 264), pack-reused 0
+
+pom.xml (pom)
+=============
+Total: 18 (UNKNOWN: 0, LOW: 1, MEDIUM: 9, HIGH: 6, CRITICAL: 2)
+
+┌─────────────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                   Library                   │  Vulnerability   │ Severity │ Installed Version │     Fixed Version      │                            Title                             │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba.nacos:nacos-client              │ CVE-2021-43116   │ HIGH     │ 1.4.1             │                        │ Use of Hard-coded Credentials in Nacos                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2021-43116                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba:fastjson                        │ CVE-2022-25845   │ CRITICAL │ 1.2.71            │ 1.2.83                 │ fastjson: autoType shutdown restriction bypass leads to      │
+│                                             │                  │          │                   │                        │ deserialization                                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25845                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003   │ HIGH     │ 2.13.2.1          │ 2.12.7.1, 2.13.4.1     │ jackson-databind: deep wrapper array nesting wrt             │
+│                                             │                  │          │                   │                        │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004   │          │                   │ 2.12.7.1, 2.13.4       │ jackson-databind: use of deeply nested arrays                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava                      │ CVE-2020-8908    │ LOW      │ 24.1.1-jre        │ 30.0                   │ guava: local information disclosure via temporary directory  │
+│                                             │                  │          │                   │                        │ created with unsafe permissions                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload       │ CVE-2023-24998   │ HIGH     │ 1.4               │ 1.5                    │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                             │                  │          │                   │                        │ parts                                                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-io:commons-io                       │ CVE-2021-29425   │ MEDIUM   │ 2.2               │ 2.7                    │ apache-commons-io: Limited path traversal in Apache Commons  │
+│                                             │                  │          │                   │                        │ IO 2.2 to 2.6                                                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2021-29425                   │
+├─────────────────────────────────────────────┼──────────────────┤          ├───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http  │ CVE-2022-31684   │          │ 1.0.18            │ 1.0.24                 │ reactor-netty-http: Log request headers in some cases of     │
+│                                             │                  │          │                   │                        │ invalid HTTP requests                                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-31684                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core   │ CVE-2022-45143   │ HIGH     │ 9.0.62            │ 9.0.69                 │ tomcat: JsonErrorReportValve injection                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-45143                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core             │ CVE-2022-22970   │ MEDIUM   │ 5.3.19            │ 5.2.22.RELEASE, 5.3.20 │ springframework: DoS via data binding to multipartFile or    │
+│                                             │                  │          │                   │                        │ servlet part                                                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-22971   │          │                   │                        │ springframework: DoS with STOMP over WebSocket               │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┤                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web              │ CVE-2016-1000027 │ CRITICAL │                   │ 6.0.0                  │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                             │                  │          │                   │                        │ method untrusted java deserialization                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                          │ CVE-2022-25857   │ HIGH     │ 1.29              │ 1.31                   │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                             │                  │          │                   │                        │ limitation for collections...                                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                             ├──────────────────┼──────────┤                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38749   │ MEDIUM   │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38750   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                             │                  │          │                   │                        │ ect                                                          │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38751   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38752   │          │                   │ 1.32                   │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.ArrayList.hashCode                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-41854   │          │                   │                        │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+sc-consumer/pom.xml (pom)
+=========================
+Total: 17 (UNKNOWN: 0, LOW: 1, MEDIUM: 8, HIGH: 6, CRITICAL: 2)
+
+┌─────────────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                   Library                   │  Vulnerability   │ Severity │ Installed Version │     Fixed Version      │                            Title                             │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba.nacos:nacos-client              │ CVE-2021-43116   │ HIGH     │ 1.4.1             │                        │ Use of Hard-coded Credentials in Nacos                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2021-43116                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba:fastjson                        │ CVE-2022-25845   │ CRITICAL │ 1.2.71            │ 1.2.83                 │ fastjson: autoType shutdown restriction bypass leads to      │
+│                                             │                  │          │                   │                        │ deserialization                                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25845                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003   │ HIGH     │ 2.13.2.1          │ 2.12.7.1, 2.13.4.1     │ jackson-databind: deep wrapper array nesting wrt             │
+│                                             │                  │          │                   │                        │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004   │          │                   │ 2.12.7.1, 2.13.4       │ jackson-databind: use of deeply nested arrays                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava                      │ CVE-2020-8908    │ LOW      │ 24.1.1-jre        │ 30.0                   │ guava: local information disclosure via temporary directory  │
+│                                             │                  │          │                   │                        │ created with unsafe permissions                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload       │ CVE-2023-24998   │ HIGH     │ 1.4               │ 1.5                    │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                             │                  │          │                   │                        │ parts                                                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-io:commons-io                       │ CVE-2021-29425   │ MEDIUM   │ 2.2               │ 2.7                    │ apache-commons-io: Limited path traversal in Apache Commons  │
+│                                             │                  │          │                   │                        │ IO 2.2 to 2.6                                                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2021-29425                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core   │ CVE-2022-45143   │ HIGH     │ 9.0.62            │ 9.0.69                 │ tomcat: JsonErrorReportValve injection                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-45143                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core             │ CVE-2022-22970   │ MEDIUM   │ 5.3.19            │ 5.2.22.RELEASE, 5.3.20 │ springframework: DoS via data binding to multipartFile or    │
+│                                             │                  │          │                   │                        │ servlet part                                                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-22971   │          │                   │                        │ springframework: DoS with STOMP over WebSocket               │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┤                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web              │ CVE-2016-1000027 │ CRITICAL │                   │ 6.0.0                  │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                             │                  │          │                   │                        │ method untrusted java deserialization                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                          │ CVE-2022-25857   │ HIGH     │ 1.29              │ 1.31                   │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                             │                  │          │                   │                        │ limitation for collections...                                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                             ├──────────────────┼──────────┤                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38749   │ MEDIUM   │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38750   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                             │                  │          │                   │                        │ ect                                                          │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38751   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38752   │          │                   │ 1.32                   │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.ArrayList.hashCode                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-41854   │          │                   │                        │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+sc-gateway/pom.xml (pom)
+========================
+Total: 10 (UNKNOWN: 0, LOW: 0, MEDIUM: 6, HIGH: 3, CRITICAL: 1)
+
+┌─────────────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬────────────────────┬──────────────────────────────────────────────────────────────┐
+│                   Library                   │  Vulnerability   │ Severity │ Installed Version │   Fixed Version    │                            Title                             │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003   │ HIGH     │ 2.13.2.1          │ 2.12.7.1, 2.13.4.1 │ jackson-databind: deep wrapper array nesting wrt             │
+│                                             │                  │          │                   │                    │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                             ├──────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004   │          │                   │ 2.12.7.1, 2.13.4   │ jackson-databind: use of deeply nested arrays                │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http  │ CVE-2022-31684   │ MEDIUM   │ 1.0.18            │ 1.0.24             │ reactor-netty-http: Log request headers in some cases of     │
+│                                             │                  │          │                   │                    │ invalid HTTP requests                                        │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-31684                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web              │ CVE-2016-1000027 │ CRITICAL │ 5.3.19            │ 6.0.0              │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                             │                  │          │                   │                    │ method untrusted java deserialization                        │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                          │ CVE-2022-25857   │ HIGH     │ 1.29              │ 1.31               │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                             │                  │          │                   │                    │ limitation for collections...                                │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                             ├──────────────────┼──────────┤                   │                    ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38749   │ MEDIUM   │                   │                    │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                    │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                             ├──────────────────┤          │                   │                    ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38750   │          │                   │                    │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                    │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                             │                  │          │                   │                    │ ect                                                          │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                             ├──────────────────┤          │                   │                    ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38751   │          │                   │                    │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                    │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                             ├──────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38752   │          │                   │ 1.32               │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                    │ java.base/java.util.ArrayList.hashCode                       │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                             ├──────────────────┤          │                   │                    ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-41854   │          │                   │                    │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                             │                  │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴────────────────────┴──────────────────────────────────────────────────────────────┘
+
+sc-openfeign/pom.xml (pom)
+==========================
+Total: 9 (UNKNOWN: 0, LOW: 0, MEDIUM: 6, HIGH: 2, CRITICAL: 1)
+
+┌───────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│                Library                │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload │ CVE-2023-24998   │ HIGH     │ 1.4               │ 1.5           │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                       │                  │          │                   │               │ parts                                                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-io:commons-io                 │ CVE-2021-29425   │ MEDIUM   │ 2.2               │ 2.7           │ apache-commons-io: Limited path traversal in Apache Commons  │
+│                                       │                  │          │                   │               │ IO 2.2 to 2.6                                                │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-29425                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web        │ CVE-2016-1000027 │ CRITICAL │ 5.3.19            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                       │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                    │ CVE-2022-25857   │ HIGH     │ 1.29              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                       │                  │          │                   │               │ limitation for collections...                                │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                       ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                       │                  │          │                   │               │ ect                                                          │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                       ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└───────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+sc-provider/pom.xml (pom)
+=========================
+Total: 15 (UNKNOWN: 0, LOW: 1, MEDIUM: 7, HIGH: 5, CRITICAL: 2)
+
+┌─────────────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                   Library                   │  Vulnerability   │ Severity │ Installed Version │     Fixed Version      │                            Title                             │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba.nacos:nacos-client              │ CVE-2021-43116   │ HIGH     │ 1.4.1             │                        │ Use of Hard-coded Credentials in Nacos                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2021-43116                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.alibaba:fastjson                        │ CVE-2022-25845   │ CRITICAL │ 1.2.71            │ 1.2.83                 │ fastjson: autoType shutdown restriction bypass leads to      │
+│                                             │                  │          │                   │                        │ deserialization                                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25845                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003   │ HIGH     │ 2.13.2.1          │ 2.12.7.1, 2.13.4.1     │ jackson-databind: deep wrapper array nesting wrt             │
+│                                             │                  │          │                   │                        │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004   │          │                   │ 2.12.7.1, 2.13.4       │ jackson-databind: use of deeply nested arrays                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava                      │ CVE-2020-8908    │ LOW      │ 24.1.1-jre        │ 30.0                   │ guava: local information disclosure via temporary directory  │
+│                                             │                  │          │                   │                        │ created with unsafe permissions                              │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core   │ CVE-2022-45143   │ HIGH     │ 9.0.62            │ 9.0.69                 │ tomcat: JsonErrorReportValve injection                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-45143                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core             │ CVE-2022-22970   │ MEDIUM   │ 5.3.19            │ 5.2.22.RELEASE, 5.3.20 │ springframework: DoS via data binding to multipartFile or    │
+│                                             │                  │          │                   │                        │ servlet part                                                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-22971   │          │                   │                        │ springframework: DoS with STOMP over WebSocket               │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+├─────────────────────────────────────────────┼──────────────────┼──────────┤                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web              │ CVE-2016-1000027 │ CRITICAL │                   │ 6.0.0                  │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                             │                  │          │                   │                        │ method untrusted java deserialization                        │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├─────────────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                          │ CVE-2022-25857   │ HIGH     │ 1.29              │ 1.31                   │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                             │                  │          │                   │                        │ limitation for collections...                                │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                             ├──────────────────┼──────────┤                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38749   │ MEDIUM   │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38750   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                             │                  │          │                   │                        │ ect                                                          │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38751   │          │                   │                        │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                             ├──────────────────┤          │                   ├────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-38752   │          │                   │ 1.32                   │ snakeyaml: Uncaught exception in                             │
+│                                             │                  │          │                   │                        │ java.base/java.util.ArrayList.hashCode                       │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                             ├──────────────────┤          │                   │                        ├──────────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-41854   │          │                   │                        │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                             │                  │          │                   │                        │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴────────────────────────┴──────────────────────────────────────────────────────────────┘

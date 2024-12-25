@@ -1,0 +1,752 @@
+Enumerating objects: 55092, done.
+Counting objects:   0% (1/55092)Counting objects:   1% (551/55092)Counting objects:   2% (1102/55092)Counting objects:   3% (1653/55092)Counting objects:   4% (2204/55092)Counting objects:   5% (2755/55092)Counting objects:   6% (3306/55092)Counting objects:   7% (3857/55092)Counting objects:   8% (4408/55092)Counting objects:   9% (4959/55092)Counting objects:  10% (5510/55092)Counting objects:  11% (6061/55092)Counting objects:  12% (6612/55092)Counting objects:  13% (7162/55092)Counting objects:  14% (7713/55092)Counting objects:  15% (8264/55092)Counting objects:  16% (8815/55092)Counting objects:  17% (9366/55092)Counting objects:  18% (9917/55092)Counting objects:  19% (10468/55092)Counting objects:  20% (11019/55092)Counting objects:  21% (11570/55092)Counting objects:  22% (12121/55092)Counting objects:  23% (12672/55092)Counting objects:  24% (13223/55092)Counting objects:  25% (13773/55092)Counting objects:  26% (14324/55092)Counting objects:  27% (14875/55092)Counting objects:  28% (15426/55092)Counting objects:  29% (15977/55092)Counting objects:  30% (16528/55092)Counting objects:  31% (17079/55092)Counting objects:  32% (17630/55092)Counting objects:  33% (18181/55092)Counting objects:  34% (18732/55092)Counting objects:  35% (19283/55092)Counting objects:  36% (19834/55092)Counting objects:  37% (20385/55092)Counting objects:  38% (20935/55092)Counting objects:  39% (21486/55092)Counting objects:  40% (22037/55092)Counting objects:  41% (22588/55092)Counting objects:  42% (23139/55092)Counting objects:  43% (23690/55092)Counting objects:  44% (24241/55092)Counting objects:  45% (24792/55092)Counting objects:  46% (25343/55092)Counting objects:  47% (25894/55092)Counting objects:  48% (26445/55092)Counting objects:  49% (26996/55092)Counting objects:  50% (27546/55092)Counting objects:  51% (28097/55092)Counting objects:  52% (28648/55092)Counting objects:  53% (29199/55092)Counting objects:  54% (29750/55092)Counting objects:  55% (30301/55092)Counting objects:  56% (30852/55092)Counting objects:  57% (31403/55092)Counting objects:  58% (31954/55092)Counting objects:  59% (32505/55092)Counting objects:  60% (33056/55092)Counting objects:  61% (33607/55092)Counting objects:  62% (34158/55092)Counting objects:  63% (34708/55092)Counting objects:  64% (35259/55092)Counting objects:  65% (35810/55092)Counting objects:  66% (36361/55092)Counting objects:  67% (36912/55092)Counting objects:  68% (37463/55092)Counting objects:  69% (38014/55092)Counting objects:  70% (38565/55092)Counting objects:  71% (39116/55092)Counting objects:  72% (39667/55092)Counting objects:  73% (40218/55092)Counting objects:  74% (40769/55092)Counting objects:  75% (41319/55092)Counting objects:  76% (41870/55092)Counting objects:  77% (42421/55092)Counting objects:  78% (42972/55092)Counting objects:  79% (43523/55092)Counting objects:  80% (44074/55092)Counting objects:  81% (44625/55092)Counting objects:  82% (45176/55092)Counting objects:  83% (45727/55092)Counting objects:  84% (46278/55092)Counting objects:  85% (46829/55092)Counting objects:  86% (47380/55092)Counting objects:  87% (47931/55092)Counting objects:  88% (48481/55092)Counting objects:  89% (49032/55092)Counting objects:  90% (49583/55092)Counting objects:  91% (50134/55092)Counting objects:  92% (50685/55092)Counting objects:  93% (51236/55092)Counting objects:  94% (51787/55092)Counting objects:  95% (52338/55092)Counting objects:  96% (52889/55092)Counting objects:  97% (53440/55092)Counting objects:  98% (53991/55092)Counting objects:  99% (54542/55092)Counting objects: 100% (55092/55092)Counting objects: 100% (55092/55092), done.
+Compressing objects:   0% (1/25447)Compressing objects:   1% (255/25447)Compressing objects:   2% (509/25447)Compressing objects:   3% (764/25447)Compressing objects:   4% (1018/25447)Compressing objects:   5% (1273/25447)Compressing objects:   6% (1527/25447)Compressing objects:   7% (1782/25447)Compressing objects:   8% (2036/25447)Compressing objects:   9% (2291/25447)Compressing objects:  10% (2545/25447)Compressing objects:  11% (2800/25447)Compressing objects:  11% (3042/25447)Compressing objects:  12% (3054/25447)Compressing objects:  13% (3309/25447)Compressing objects:  14% (3563/25447)Compressing objects:  15% (3818/25447)Compressing objects:  16% (4072/25447)Compressing objects:  17% (4326/25447)Compressing objects:  18% (4581/25447)Compressing objects:  19% (4835/25447)Compressing objects:  20% (5090/25447)Compressing objects:  21% (5344/25447)Compressing objects:  22% (5599/25447)Compressing objects:  23% (5853/25447)Compressing objects:  24% (6108/25447)Compressing objects:  25% (6362/25447)Compressing objects:  26% (6617/25447)Compressing objects:  27% (6871/25447)Compressing objects:  28% (7126/25447)Compressing objects:  29% (7380/25447)Compressing objects:  30% (7635/25447)Compressing objects:  31% (7889/25447)Compressing objects:  32% (8144/25447)Compressing objects:  32% (8206/25447)Compressing objects:  33% (8398/25447)Compressing objects:  34% (8652/25447)Compressing objects:  35% (8907/25447)Compressing objects:  36% (9161/25447)Compressing objects:  37% (9416/25447)Compressing objects:  38% (9670/25447)Compressing objects:  39% (9925/25447)Compressing objects:  40% (10179/25447)Compressing objects:  41% (10434/25447)Compressing objects:  42% (10688/25447)Compressing objects:  43% (10943/25447)Compressing objects:  43% (10990/25447)Compressing objects:  44% (11197/25447)Compressing objects:  45% (11452/25447)Compressing objects:  46% (11706/25447)Compressing objects:  47% (11961/25447)Compressing objects:  48% (12215/25447)Compressing objects:  49% (12470/25447)Compressing objects:  50% (12724/25447)Compressing objects:  51% (12978/25447)Compressing objects:  52% (13233/25447)Compressing objects:  53% (13487/25447)Compressing objects:  54% (13742/25447)Compressing objects:  55% (13996/25447)Compressing objects:  55% (14155/25447)Compressing objects:  56% (14251/25447)Compressing objects:  57% (14505/25447)Compressing objects:  58% (14760/25447)Compressing objects:  59% (15014/25447)Compressing objects:  60% (15269/25447)Compressing objects:  61% (15523/25447)Compressing objects:  62% (15778/25447)Compressing objects:  63% (16032/25447)Compressing objects:  64% (16287/25447)Compressing objects:  65% (16541/25447)Compressing objects:  66% (16796/25447)Compressing objects:  67% (17050/25447)Compressing objects:  68% (17304/25447)Compressing objects:  69% (17559/25447)Compressing objects:  70% (17813/25447)Compressing objects:  71% (18068/25447)Compressing objects:  72% (18322/25447)Compressing objects:  73% (18577/25447)Compressing objects:  74% (18831/25447)Compressing objects:  75% (19086/25447)Compressing objects:  76% (19340/25447)Compressing objects:  77% (19595/25447)Compressing objects:  78% (19849/25447)Compressing objects:  79% (20104/25447)Compressing objects:  80% (20358/25447)Compressing objects:  81% (20613/25447)Compressing objects:  82% (20867/25447)Compressing objects:  83% (21122/25447)Compressing objects:  84% (21376/25447)Compressing objects:  85% (21630/25447)Compressing objects:  86% (21885/25447)Compressing objects:  87% (22139/25447)Compressing objects:  88% (22394/25447)Compressing objects:  89% (22648/25447)Compressing objects:  90% (22903/25447)Compressing objects:  91% (23157/25447)Compressing objects:  92% (23412/25447)Compressing objects:  93% (23666/25447)Compressing objects:  94% (23921/25447)Compressing objects:  95% (24175/25447)Compressing objects:  96% (24430/25447)Compressing objects:  97% (24684/25447)Compressing objects:  98% (24939/25447)Compressing objects:  99% (25193/25447)Compressing objects: 100% (25447/25447)Compressing objects: 100% (25447/25447), done.
+Total 55092 (delta 31757), reused 46487 (delta 25833), pack-reused 0
+
+go.mod (gomod)
+==============
+Total: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+┌──────────────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│             Library              │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├──────────────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ github.com/aws/aws-sdk-go        │ CVE-2020-8911 │ MEDIUM   │ 1.44.189          │               │ aws/aws-sdk-go: CBC padding oracle issue in AWS S3 Crypto    │
+│                                  │               │          │                   │               │ SDK for golang...                                            │
+│                                  │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-8911                    │
+│                                  ├───────────────┼──────────┤                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                  │ CVE-2020-8912 │ LOW      │                   │               │ aws-sdk-go: In-band key negotiation issue in AWS S3 Crypto   │
+│                                  │               │          │                   │               │ SDK for golang...                                            │
+│                                  │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-8912                    │
+├──────────────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ github.com/prometheus/prometheus │ CVE-2019-3826 │ MEDIUM   │ 0.42.0            │ v2.7.1        │ prometheus: Stored DOM cross-site scripting (XSS) attack via │
+│                                  │               │          │                   │               │ crafted URL                                                  │
+│                                  │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2019-3826                    │
+└──────────────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+build-image/Dockerfile (dockerfile)
+===================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+cmd/cortex/Dockerfile (dockerfile)
+==================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+cmd/query-tee/Dockerfile (dockerfile)
+=====================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+cmd/test-exporter/Dockerfile (dockerfile)
+=========================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+cmd/thanosconvert/Dockerfile (dockerfile)
+=========================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+development/tsdb-blocks-storage-s3-gossip/dev.dockerfile (dockerfile)
+=====================================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 2, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./cortex ./' command instead of 'ADD ./cortex ./'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ development/tsdb-blocks-storage-s3-gossip/dev.dockerfile:9
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   9 [ ADD     ./cortex ./
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+development/tsdb-blocks-storage-s3-single-binary/dev.dockerfile (dockerfile)
+============================================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 2, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./cortex ./' command instead of 'ADD ./cortex ./'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ development/tsdb-blocks-storage-s3-single-binary/dev.dockerfile:5
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   5 [ ADD     ./cortex ./
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+development/tsdb-blocks-storage-s3/dev.dockerfile (dockerfile)
+==============================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 2, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./cortex ./' command instead of 'ADD ./cortex ./'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ development/tsdb-blocks-storage-s3/dev.dockerfile:9
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   9 [ ADD     ./cortex ./
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+development/tsdb-blocks-storage-swift-single-binary/dev.dockerfile (dockerfile)
+===============================================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 2, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./cortex ./' command instead of 'ADD ./cortex ./'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ development/tsdb-blocks-storage-swift-single-binary/dev.dockerfile:5
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   5 [ ADD     ./cortex ./
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+packaging/deb/debian-systemd/Dockerfile (dockerfile)
+====================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+packaging/fpm/Dockerfile (dockerfile)
+=====================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+packaging/rpm/centos-systemd/Dockerfile (dockerfile)
+====================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json (azure-arm)
+===========================================================================================
+Tests: 9 (SUCCESSES: 1, FAILURES: 8, EXCEPTIONS: 0)
+Failures: 8 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 8)
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:97-102
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+  97 ┌         "properties": {
+  98 │           "networkAcls": "[variables('networkAcls')]",
+  99 │           "supportsHttpsTrafficOnly": true,
+ 100 │           "encryption": "[variables('encryption')]",
+ 101 │           "accessTier": "Hot"
+ 102 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:145-150
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 145 ┌         "properties": {
+ 146 │           "networkAcls": "[variables('networkAcls')]",
+ 147 │           "supportsHttpsTrafficOnly": true,
+ 148 │           "encryption": "[variables('encryption')]",
+ 149 │           "accessTier": "Hot"
+ 150 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:162-167
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 162 ┌         "properties": {
+ 163 │           "networkAcls": "[variables('networkAcls')]",
+ 164 │           "supportsHttpsTrafficOnly": true,
+ 165 │           "encryption": "[variables('encryption')]",
+ 166 │           "accessTier": "Hot"
+ 167 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:179-185
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 179 ┌         "properties": {
+ 180 │           "isHnsEnabled": true,
+ 181 │           "networkAcls": "[variables('networkAcls')]",
+ 182 │           "supportsHttpsTrafficOnly": true,
+ 183 │           "encryption": "[variables('encryption')]",
+ 184 │           "accessTier": "Hot"
+ 185 └         }
+ ...   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:211-216
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 211 ┌         "properties": {
+ 212 │           "networkAcls": "[variables('networkAcls')]",
+ 213 │           "supportsHttpsTrafficOnly": true,
+ 214 │           "encryption": "[variables('encryption')]",
+ 215 │           "accessTier": "Hot"
+ 216 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:260-265
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 260 ┌         "properties": {
+ 261 │           "networkAcls": "[variables('networkAcls')]",
+ 262 │           "supportsHttpsTrafficOnly": true,
+ 263 │           "encryption": "[variables('encryption')]",
+ 264 │           "accessTier": "Hot"
+ 265 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:277-282
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 277 ┌         "properties": {
+ 278 │           "networkAcls": "[variables('networkAcls')]",
+ 279 │           "supportsHttpsTrafficOnly": true,
+ 280 │           "encryption": "[variables('encryption')]",
+ 281 │           "accessTier": "Hot"
+ 282 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+CRITICAL: Storage account uses an insecure TLS version.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Azure Storage currently supports three versions of the TLS protocol: 1.0, 1.1, and 1.2. 
+
+Azure Storage uses TLS 1.2 on public HTTPS endpoints, but TLS 1.0 and TLS 1.1 are still supported for backward compatibility.
+
+This check will warn if the minimum TLS is not set to TLS1_2.
+
+See https://avd.aquasec.com/misconfig/avd-azu-0011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/test-resources.json:294-299
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   {
+   .   
+ 294 ┌         "properties": {
+ 295 │           "networkAcls": "[variables('networkAcls')]",
+ 296 │           "supportsHttpsTrafficOnly": true,
+ 297 │           "encryption": "[variables('encryption')]",
+ 298 │           "accessTier": "Hot"
+ 299 └         }
+ ...   
+ 512     }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/golang-migrate/migrate/v4/Dockerfile (dockerfile)
+===================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/golang-migrate/migrate/v4/Dockerfile.circleci (dockerfile)
+============================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/golang-migrate/migrate/v4/Dockerfile.github-actions (dockerfile)
+==================================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/prometheus/alertmanager/template/Dockerfile (dockerfile)
+==========================================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'node'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/prometheus/alertmanager/template/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM node
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/prometheus/alertmanager/ui/Dockerfile (dockerfile)
+====================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/golang.org/x/net/http2/Dockerfile (dockerfile)
+=====================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: RUN should not be used to change directory: 'cd /root && git clone https://github.com/tatsuhiro-t/nghttp2.git'. Use 'WORKDIR' statement instead.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Use WORKDIR instead of proliferating instructions like 'RUN cd … && do-something', which are hard to read, troubleshoot, and maintain.
+
+See https://avd.aquasec.com/misconfig/ds013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/golang.org/x/net/http2/Dockerfile:29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  29 [ RUN cd /root && git clone https://github.com/tatsuhiro-t/nghttp2.git
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/go-openapi/validate/appveyor.yml (secrets)
+============================================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Slack (slack-web-hook)
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Slack Webhook
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/go-openapi/validate/appveyor.yml:26
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  24   notifications:
+  25     - provider: Slack
+  26 [     incoming_webhook: *****************************************************************************
+  27       auth_token:
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/go-openapi/analysis/appveyor.yml (secrets)
+============================================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Slack (slack-web-hook)
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Slack Webhook
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/go-openapi/analysis/appveyor.yml:26
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  24   notifications:
+  25     - provider: Slack
+  26 [     incoming_webhook: *****************************************************************************
+  27       auth_token:
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+vendor/github.com/go-openapi/spec/appveyor.yml (secrets)
+========================================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Slack (slack-web-hook)
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Slack Webhook
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ vendor/github.com/go-openapi/spec/appveyor.yml:26
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  24   notifications:
+  25     - provider: Slack
+  26 [     incoming_webhook: *****************************************************************************
+  27       auth_token:
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

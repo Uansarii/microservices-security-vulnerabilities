@@ -1,0 +1,12 @@
+name,dependency vulnerabilities,configuration vulnerabilities
+spinnaker,0,249
+cortex,6,50
+jaeger,0,37
+light-4j,42,0
+moleculer,0,4
+microservices-demo,0,472
+cliquet,12,0
+deep-framework,0,0
+scalecube-services,13,0
+lelylan,0,0
+pitstop,2,306

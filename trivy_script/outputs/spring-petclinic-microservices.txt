@@ -1,0 +1,407 @@
+Enumerating objects: 1127, done.
+Counting objects:   0% (1/1127)Counting objects:   1% (12/1127)Counting objects:   2% (23/1127)Counting objects:   3% (34/1127)Counting objects:   4% (46/1127)Counting objects:   5% (57/1127)Counting objects:   6% (68/1127)Counting objects:   7% (79/1127)Counting objects:   8% (91/1127)Counting objects:   9% (102/1127)Counting objects:  10% (113/1127)Counting objects:  11% (124/1127)Counting objects:  12% (136/1127)Counting objects:  13% (147/1127)Counting objects:  14% (158/1127)Counting objects:  15% (170/1127)Counting objects:  16% (181/1127)Counting objects:  17% (192/1127)Counting objects:  18% (203/1127)Counting objects:  19% (215/1127)Counting objects:  20% (226/1127)Counting objects:  21% (237/1127)Counting objects:  22% (248/1127)Counting objects:  23% (260/1127)Counting objects:  24% (271/1127)Counting objects:  25% (282/1127)Counting objects:  26% (294/1127)Counting objects:  27% (305/1127)Counting objects:  28% (316/1127)Counting objects:  29% (327/1127)Counting objects:  30% (339/1127)Counting objects:  31% (350/1127)Counting objects:  32% (361/1127)Counting objects:  33% (372/1127)Counting objects:  34% (384/1127)Counting objects:  35% (395/1127)Counting objects:  36% (406/1127)Counting objects:  37% (417/1127)Counting objects:  38% (429/1127)Counting objects:  39% (440/1127)Counting objects:  40% (451/1127)Counting objects:  41% (463/1127)Counting objects:  42% (474/1127)Counting objects:  43% (485/1127)Counting objects:  44% (496/1127)Counting objects:  45% (508/1127)Counting objects:  46% (519/1127)Counting objects:  47% (530/1127)Counting objects:  48% (541/1127)Counting objects:  49% (553/1127)Counting objects:  50% (564/1127)Counting objects:  51% (575/1127)Counting objects:  52% (587/1127)Counting objects:  53% (598/1127)Counting objects:  54% (609/1127)Counting objects:  55% (620/1127)Counting objects:  56% (632/1127)Counting objects:  57% (643/1127)Counting objects:  58% (654/1127)Counting objects:  59% (665/1127)Counting objects:  60% (677/1127)Counting objects:  61% (688/1127)Counting objects:  62% (699/1127)Counting objects:  63% (711/1127)Counting objects:  64% (722/1127)Counting objects:  65% (733/1127)Counting objects:  66% (744/1127)Counting objects:  67% (756/1127)Counting objects:  68% (767/1127)Counting objects:  69% (778/1127)Counting objects:  70% (789/1127)Counting objects:  71% (801/1127)Counting objects:  72% (812/1127)Counting objects:  73% (823/1127)Counting objects:  74% (834/1127)Counting objects:  75% (846/1127)Counting objects:  76% (857/1127)Counting objects:  77% (868/1127)Counting objects:  78% (880/1127)Counting objects:  79% (891/1127)Counting objects:  80% (902/1127)Counting objects:  81% (913/1127)Counting objects:  82% (925/1127)Counting objects:  83% (936/1127)Counting objects:  84% (947/1127)Counting objects:  85% (958/1127)Counting objects:  86% (970/1127)Counting objects:  87% (981/1127)Counting objects:  88% (992/1127)Counting objects:  89% (1004/1127)Counting objects:  90% (1015/1127)Counting objects:  91% (1026/1127)Counting objects:  92% (1037/1127)Counting objects:  93% (1049/1127)Counting objects:  94% (1060/1127)Counting objects:  95% (1071/1127)Counting objects:  96% (1082/1127)Counting objects:  97% (1094/1127)Counting objects:  98% (1105/1127)Counting objects:  99% (1116/1127)Counting objects: 100% (1127/1127)Counting objects: 100% (1127/1127), done.
+Compressing objects:   0% (1/569)Compressing objects:   1% (6/569)Compressing objects:   2% (12/569)Compressing objects:   3% (18/569)Compressing objects:   4% (23/569)Compressing objects:   5% (29/569)Compressing objects:   6% (35/569)Compressing objects:   7% (40/569)Compressing objects:   8% (46/569)Compressing objects:   9% (52/569)Compressing objects:  10% (57/569)Compressing objects:  11% (63/569)Compressing objects:  12% (69/569)Compressing objects:  13% (74/569)Compressing objects:  14% (80/569)Compressing objects:  15% (86/569)Compressing objects:  16% (92/569)Compressing objects:  17% (97/569)Compressing objects:  18% (103/569)Compressing objects:  19% (109/569)Compressing objects:  20% (114/569)Compressing objects:  21% (120/569)Compressing objects:  22% (126/569)Compressing objects:  23% (131/569)Compressing objects:  24% (137/569)Compressing objects:  25% (143/569)Compressing objects:  26% (148/569)Compressing objects:  27% (154/569)Compressing objects:  28% (160/569)Compressing objects:  29% (166/569)Compressing objects:  30% (171/569)Compressing objects:  31% (177/569)Compressing objects:  32% (183/569)Compressing objects:  33% (188/569)Compressing objects:  34% (194/569)Compressing objects:  35% (200/569)Compressing objects:  36% (205/569)Compressing objects:  37% (211/569)Compressing objects:  38% (217/569)Compressing objects:  39% (222/569)Compressing objects:  40% (228/569)Compressing objects:  41% (234/569)Compressing objects:  42% (239/569)Compressing objects:  43% (245/569)Compressing objects:  44% (251/569)Compressing objects:  45% (257/569)Compressing objects:  46% (262/569)Compressing objects:  47% (268/569)Compressing objects:  48% (274/569)Compressing objects:  49% (279/569)Compressing objects:  50% (285/569)Compressing objects:  51% (291/569)Compressing objects:  52% (296/569)Compressing objects:  53% (302/569)Compressing objects:  54% (308/569)Compressing objects:  55% (313/569)Compressing objects:  56% (319/569)Compressing objects:  57% (325/569)Compressing objects:  58% (331/569)Compressing objects:  59% (336/569)Compressing objects:  60% (342/569)Compressing objects:  61% (348/569)Compressing objects:  62% (353/569)Compressing objects:  63% (359/569)Compressing objects:  64% (365/569)Compressing objects:  65% (370/569)Compressing objects:  66% (376/569)Compressing objects:  67% (382/569)Compressing objects:  68% (387/569)Compressing objects:  69% (393/569)Compressing objects:  70% (399/569)Compressing objects:  71% (404/569)Compressing objects:  72% (410/569)Compressing objects:  73% (416/569)Compressing objects:  74% (422/569)Compressing objects:  75% (427/569)Compressing objects:  76% (433/569)Compressing objects:  77% (439/569)Compressing objects:  78% (444/569)Compressing objects:  79% (450/569)Compressing objects:  80% (456/569)Compressing objects:  81% (461/569)Compressing objects:  82% (467/569)Compressing objects:  83% (473/569)Compressing objects:  84% (478/569)Compressing objects:  85% (484/569)Compressing objects:  86% (490/569)Compressing objects:  87% (496/569)Compressing objects:  88% (501/569)Compressing objects:  89% (507/569)Compressing objects:  90% (513/569)Compressing objects:  91% (518/569)Compressing objects:  92% (524/569)Compressing objects:  93% (530/569)Compressing objects:  94% (535/569)Compressing objects:  95% (541/569)Compressing objects:  96% (547/569)Compressing objects:  97% (552/569)Compressing objects:  98% (558/569)Compressing objects:  99% (564/569)Compressing objects: 100% (569/569)Compressing objects: 100% (569/569), done.
+Total 1127 (delta 296), reused 936 (delta 169), pack-reused 0
+
+pom.xml (pom)
+=============
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-admin-server/pom.xml (pom)
+===========================================
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-api-gateway/pom.xml (pom)
+==========================================
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-customers-service/pom.xml (pom)
+================================================
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-discovery-server/pom.xml (pom)
+===============================================
+Total: 6 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 3, CRITICAL: 0)
+
+┌──────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│             Library              │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava           │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                  │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                  │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                  ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                  │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                  │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                  │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                  │                     │          │                   │                            │ Denial of Service...                                         │
+│                                  │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                  ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                  │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                  │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                  │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                  ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                  │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                  │                     │          │                   │                            │ collections or maps based on...                              │
+│                                  │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                  ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                  │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                  │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-vets-service/pom.xml (pom)
+===========================================
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+spring-petclinic-visits-service/pom.xml (pom)
+=============================================
+Total: 8 (UNKNOWN: 1, LOW: 1, MEDIUM: 1, HIGH: 5, CRITICAL: 0)
+
+┌──────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library                │    Vulnerability    │ Severity │ Installed Version │       Fixed Version        │                            Title                             │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.woodstox:woodstox-core │ CVE-2022-40151      │ HIGH     │ 6.2.1             │ 5.4.0, 6.4.0               │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   │                            ├──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava               │ CVE-2018-10237      │ MEDIUM   │ 19.0              │ 24.1.1-jre, 24.1.1-android │ guava: Unbounded memory allocation in AtomicDoubleArray and  │
+│                                      │                     │          │                   │                            │ CompoundOrdering classes allow remote attackers...           │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2018-10237                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2020-8908       │ LOW      │                   │ 30.0                       │ guava: local information disclosure via temporary directory  │
+│                                      │                     │          │                   │                            │ created with unsafe permissions                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├──────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.thoughtworks.xstream:xstream     │ CVE-2022-40151      │ HIGH     │ 1.4.19            │                            │ xstream: Xstream to serialise XML data was vulnerable to     │
+│                                      │                     │          │                   │                            │ Denial of Service...                                         │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40151                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-40152      │          │                   │                            │ woodstox-core: woodstox to serialise XML data was vulnerable │
+│                                      │                     │          │                   │                            │ to Denial of Service...                                      │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-40152                   │
+│                                      ├─────────────────────┤          │                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ CVE-2022-41966      │          │                   │ 1.4.20                     │ xstream: Denial of Service by injecting recursive            │
+│                                      │                     │          │                   │                            │ collections or maps based on...                              │
+│                                      │                     │          │                   │                            │ https://avd.aquasec.com/nvd/cve-2022-41966                   │
+│                                      ├─────────────────────┼──────────┤                   ├────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                      │ GHSA-3mq5-fq9h-gj7j │ UNKNOWN  │                   │                            │ Denial of Service due to parser crash                        │
+│                                      │                     │          │                   │                            │ https://github.com/advisories/GHSA-3mq5-fq9h-gj7j            │
+└──────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+docker/Dockerfile (dockerfile)
+==============================
+Tests: 25 (SUCCESSES: 21, FAILURES: 4, EXCEPTIONS: 0)
+Failures: 4 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 3, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: WORKDIR path 'application' should be absolute
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+For clarity and reliability, you should always use absolute paths for your WORKDIR.
+
+See https://avd.aquasec.com/misconfig/ds009
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/Dockerfile:2
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   2 [ WORKDIR application
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: WORKDIR path 'application' should be absolute
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+For clarity and reliability, you should always use absolute paths for your WORKDIR.
+
+See https://avd.aquasec.com/misconfig/ds009
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/Dockerfile:16
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  16 [ WORKDIR application
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker/grafana/Dockerfile (dockerfile)
+======================================
+Tests: 26 (SUCCESSES: 21, FAILURES: 5, EXCEPTIONS: 0)
+Failures: 5 (UNKNOWN: 0, LOW: 4, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./provisioning /etc/grafana/provisioning' command instead of 'ADD ./provisioning /etc/grafana/provisioning'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/grafana/Dockerfile:2
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   2 [ ADD ./provisioning /etc/grafana/provisioning
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./grafana.ini /etc/grafana/grafana.ini' command instead of 'ADD ./grafana.ini /etc/grafana/grafana.ini'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/grafana/Dockerfile:3
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   3 [ ADD ./grafana.ini /etc/grafana/grafana.ini
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY ./dashboards /var/lib/grafana/dashboards' command instead of 'ADD ./dashboards /var/lib/grafana/dashboards'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/grafana/Dockerfile:4
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   4 [ ADD ./dashboards /var/lib/grafana/dashboards
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker/prometheus/Dockerfile (dockerfile)
+=========================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 2, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Consider using 'COPY prometheus.yml /etc/prometheus/' command instead of 'ADD prometheus.yml /etc/prometheus/'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You should use COPY instead of ADD unless you want to extract a tar file. Note that an ADD command will extract a tar file, which adds the risk of Zip-based vulnerabilities. Accordingly, it is advised to use a COPY command, which does not extract tar files.
+
+See https://avd.aquasec.com/misconfig/ds005
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker/prometheus/Dockerfile:2
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   2 [ ADD prometheus.yml /etc/prometheus/
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

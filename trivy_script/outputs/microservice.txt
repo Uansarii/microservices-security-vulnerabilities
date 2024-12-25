@@ -1,0 +1,1131 @@
+Enumerating objects: 236, done.
+Counting objects:   0% (1/236)Counting objects:   1% (3/236)Counting objects:   2% (5/236)Counting objects:   3% (8/236)Counting objects:   4% (10/236)Counting objects:   5% (12/236)Counting objects:   6% (15/236)Counting objects:   7% (17/236)Counting objects:   8% (19/236)Counting objects:   9% (22/236)Counting objects:  10% (24/236)Counting objects:  11% (26/236)Counting objects:  12% (29/236)Counting objects:  13% (31/236)Counting objects:  14% (34/236)Counting objects:  15% (36/236)Counting objects:  16% (38/236)Counting objects:  17% (41/236)Counting objects:  18% (43/236)Counting objects:  19% (45/236)Counting objects:  20% (48/236)Counting objects:  21% (50/236)Counting objects:  22% (52/236)Counting objects:  23% (55/236)Counting objects:  24% (57/236)Counting objects:  25% (59/236)Counting objects:  26% (62/236)Counting objects:  27% (64/236)Counting objects:  28% (67/236)Counting objects:  29% (69/236)Counting objects:  30% (71/236)Counting objects:  31% (74/236)Counting objects:  32% (76/236)Counting objects:  33% (78/236)Counting objects:  34% (81/236)Counting objects:  35% (83/236)Counting objects:  36% (85/236)Counting objects:  37% (88/236)Counting objects:  38% (90/236)Counting objects:  39% (93/236)Counting objects:  40% (95/236)Counting objects:  41% (97/236)Counting objects:  42% (100/236)Counting objects:  43% (102/236)Counting objects:  44% (104/236)Counting objects:  45% (107/236)Counting objects:  46% (109/236)Counting objects:  47% (111/236)Counting objects:  48% (114/236)Counting objects:  49% (116/236)Counting objects:  50% (118/236)Counting objects:  51% (121/236)Counting objects:  52% (123/236)Counting objects:  53% (126/236)Counting objects:  54% (128/236)Counting objects:  55% (130/236)Counting objects:  56% (133/236)Counting objects:  57% (135/236)Counting objects:  58% (137/236)Counting objects:  59% (140/236)Counting objects:  60% (142/236)Counting objects:  61% (144/236)Counting objects:  62% (147/236)Counting objects:  63% (149/236)Counting objects:  64% (152/236)Counting objects:  65% (154/236)Counting objects:  66% (156/236)Counting objects:  67% (159/236)Counting objects:  68% (161/236)Counting objects:  69% (163/236)Counting objects:  70% (166/236)Counting objects:  71% (168/236)Counting objects:  72% (170/236)Counting objects:  73% (173/236)Counting objects:  74% (175/236)Counting objects:  75% (177/236)Counting objects:  76% (180/236)Counting objects:  77% (182/236)Counting objects:  78% (185/236)Counting objects:  79% (187/236)Counting objects:  80% (189/236)Counting objects:  81% (192/236)Counting objects:  82% (194/236)Counting objects:  83% (196/236)Counting objects:  84% (199/236)Counting objects:  85% (201/236)Counting objects:  86% (203/236)Counting objects:  87% (206/236)Counting objects:  88% (208/236)Counting objects:  89% (211/236)Counting objects:  90% (213/236)Counting objects:  91% (215/236)Counting objects:  92% (218/236)Counting objects:  93% (220/236)Counting objects:  94% (222/236)Counting objects:  95% (225/236)Counting objects:  96% (227/236)Counting objects:  97% (229/236)Counting objects:  98% (232/236)Counting objects:  99% (234/236)Counting objects: 100% (236/236)Counting objects: 100% (236/236), done.
+Compressing objects:   0% (1/145)Compressing objects:   1% (2/145)Compressing objects:   2% (3/145)Compressing objects:   3% (5/145)Compressing objects:   4% (6/145)Compressing objects:   5% (8/145)Compressing objects:   6% (9/145)Compressing objects:   7% (11/145)Compressing objects:   8% (12/145)Compressing objects:   9% (14/145)Compressing objects:  10% (15/145)Compressing objects:  11% (16/145)Compressing objects:  12% (18/145)Compressing objects:  13% (19/145)Compressing objects:  14% (21/145)Compressing objects:  15% (22/145)Compressing objects:  16% (24/145)Compressing objects:  17% (25/145)Compressing objects:  18% (27/145)Compressing objects:  19% (28/145)Compressing objects:  20% (29/145)Compressing objects:  21% (31/145)Compressing objects:  22% (32/145)Compressing objects:  23% (34/145)Compressing objects:  24% (35/145)Compressing objects:  25% (37/145)Compressing objects:  26% (38/145)Compressing objects:  27% (40/145)Compressing objects:  28% (41/145)Compressing objects:  29% (43/145)Compressing objects:  30% (44/145)Compressing objects:  31% (45/145)Compressing objects:  32% (47/145)Compressing objects:  33% (48/145)Compressing objects:  34% (50/145)Compressing objects:  35% (51/145)Compressing objects:  36% (53/145)Compressing objects:  37% (54/145)Compressing objects:  38% (56/145)Compressing objects:  39% (57/145)Compressing objects:  40% (58/145)Compressing objects:  41% (60/145)Compressing objects:  42% (61/145)Compressing objects:  43% (63/145)Compressing objects:  44% (64/145)Compressing objects:  45% (66/145)Compressing objects:  46% (67/145)Compressing objects:  47% (69/145)Compressing objects:  48% (70/145)Compressing objects:  49% (72/145)Compressing objects:  50% (73/145)Compressing objects:  51% (74/145)Compressing objects:  52% (76/145)Compressing objects:  53% (77/145)Compressing objects:  54% (79/145)Compressing objects:  55% (80/145)Compressing objects:  56% (82/145)Compressing objects:  57% (83/145)Compressing objects:  58% (85/145)Compressing objects:  59% (86/145)Compressing objects:  60% (87/145)Compressing objects:  61% (89/145)Compressing objects:  62% (90/145)Compressing objects:  63% (92/145)Compressing objects:  64% (93/145)Compressing objects:  65% (95/145)Compressing objects:  66% (96/145)Compressing objects:  67% (98/145)Compressing objects:  68% (99/145)Compressing objects:  69% (101/145)Compressing objects:  70% (102/145)Compressing objects:  71% (103/145)Compressing objects:  72% (105/145)Compressing objects:  73% (106/145)Compressing objects:  74% (108/145)Compressing objects:  75% (109/145)Compressing objects:  76% (111/145)Compressing objects:  77% (112/145)Compressing objects:  78% (114/145)Compressing objects:  79% (115/145)Compressing objects:  80% (116/145)Compressing objects:  81% (118/145)Compressing objects:  82% (119/145)Compressing objects:  83% (121/145)Compressing objects:  84% (122/145)Compressing objects:  85% (124/145)Compressing objects:  86% (125/145)Compressing objects:  87% (127/145)Compressing objects:  88% (128/145)Compressing objects:  89% (130/145)Compressing objects:  90% (131/145)Compressing objects:  91% (132/145)Compressing objects:  92% (134/145)Compressing objects:  93% (135/145)Compressing objects:  94% (137/145)Compressing objects:  95% (138/145)Compressing objects:  96% (140/145)Compressing objects:  97% (141/145)Compressing objects:  98% (143/145)Compressing objects:  99% (144/145)Compressing objects: 100% (145/145)Compressing objects: 100% (145/145), done.
+Total 236 (delta 49), reused 158 (delta 27), pack-reused 0
+
+microservice-demo/microservice-demo-catalog/pom.xml (pom)
+=========================================================
+Total: 41 (UNKNOWN: 3, LOW: 2, MEDIUM: 22, HIGH: 10, CRITICAL: 4)
+
+┌──────────────────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬─────────────────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                     Library                      │    Vulnerability    │ Severity │ Installed Version │                  Fixed Version                  │                            Title                             │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ ch.qos.logback:logback-core                      │ CVE-2021-42550      │ MEDIUM   │ 1.2.3             │ 1.2.9                                           │ logback: remote code execution through JNDI call from within │
+│                                                  │                     │          │                   │                                                 │ its configuration file...                                    │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-42550                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind      │ CVE-2020-36518      │ HIGH     │ 2.11.2            │ 2.12.6.1, 2.13.2.1                              │ jackson-databind: denial of service via a large depth of     │
+│                                                  │                     │          │                   │                                                 │ nested objects                                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-36518                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42003      │          │                   │ 2.12.7.1, 2.13.4.1                              │ jackson-databind: deep wrapper array nesting wrt             │
+│                                                  │                     │          │                   │                                                 │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42004      │          │                   │ 2.12.7.1, 2.13.4                                │ jackson-databind: use of deeply nested arrays                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ net.minidev:json-smart                           │ CVE-2021-31684      │          │ 2.3               │ 1.3.1, 2.4.1                                    │ json-smart: Denial of Service in JSONParserByteArray         │
+│                                                  │                     │          │                   │                                                 │ function                                                     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-31684                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-27568      │ MEDIUM   │                   │ 1.3.2, 2.3.1, 2.4.1                             │ json-smart: uncaught exception may lead to crash or          │
+│                                                  │                     │          │                   │                                                 │ information disclosure                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-27568                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core        │ CVE-2020-17527      │ HIGH     │ 9.0.37            │ 8.5.60, 9.0.40, 10.0.2                          │ tomcat: HTTP/2 request header mix-up                         │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17527                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25122      │          │                   │ 8.5.62, 9.0.42, 10.0.2                          │ tomcat: Request mix-up with h2c                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25122                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25329      │          │                   │ 7.0.107, 8.5.61, 9.0.41                         │ tomcat: Incomplete fix for CVE-2020-9484 (RCE via session    │
+│                                                  │                     │          │                   │                                                 │ persistence)                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25329                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-websocket   │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.codehaus.groovy:groovy                       │ CVE-2020-17521      │ MEDIUM   │ 2.5.13            │ 2.4.21, 2.5.14, 3.0.7                           │ groovy: OS temporary directory leads to information          │
+│                                                  │                     │          │                   │                                                 │ disclosure                                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17521                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.glassfish:jakarta.el                         │ CVE-2021-28170      │          │ 3.0.3             │                                                 │ jakarta-el: ELParserTokenManager enables invalid EL          │
+│                                                  │                     │          │                   │                                                 │ expressions to be evaluate                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-28170                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-core                     │ CVE-2020-25638      │ HIGH     │ 5.4.20.Final      │ 5.3.20.Final, 5.4.24.Final                      │ hibernate-core: SQL injection vulnerability when both        │
+│                                                  │                     │          │                   │                                                 │ hibernate.use_sql_comments and JPQL String literals are...   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-25638                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework.boot:spring-boot-starter-web │ CVE-2022-22965      │ CRITICAL │ 2.3.3.RELEASE     │ 2.6.6, 2.5.12                                   │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 2.5.12, 2.6.6                                   │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-beans                 │ CVE-2022-22965      │ CRITICAL │ 5.2.8.RELEASE     │ 5.2.20.RELEASE, 5.3.18                          │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core                  │ CVE-2021-22118      │ HIGH     │                   │ 5.2.15, 5.3.7                                   │ spring-web: (re)creating the temporary storage directory     │
+│                                                  │                     │          │                   │                                                 │ could result in a privilege...                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22118                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22060      │          │                   │ 5.3.14, 5.3.14                                  │ springframework: Additional Log Injection in Spring          │
+│                                                  │                     │          │                   │                                                 │ Framework (follow-up to CVE-2021-22096)                      │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22060                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22096      │          │                   │ 5.2.18, 5.3.11                                  │ springframework: malicious input leads to insertion of       │
+│                                                  │                     │          │                   │                                                 │ additional log entries                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22096                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22968      │          │                   │ 5.2.21, 5.3.19                                  │ Spring Framework: Data Binding Rules Vulnerability           │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22968                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22970      │          │                   │ 5.2.22.RELEASE, 5.3.20                          │ springframework: DoS via data binding to multipartFile or    │
+│                                                  │                     │          │                   │                                                 │ servlet part                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22971      │          │                   │                                                 │ springframework: DoS with STOMP over WebSocket               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-expression            │ CVE-2022-22950      │ MEDIUM   │                   │ 5.2.20, 5.3.16                                  │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web                   │ CVE-2016-1000027    │ CRITICAL │                   │ 6.0.0                                           │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                                  │                     │          │                   │                                                 │ method untrusted java deserialization                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-webmvc                │ CVE-2022-22965      │ CRITICAL │                   │ 5.2.20, 5.3.18                                  │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                               │ CVE-2022-25857      │ HIGH     │ 1.26              │ 1.31                                            │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                                  │                     │          │                   │                                                 │ limitation for collections...                                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                                  ├─────────────────────┼──────────┤                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38749      │ MEDIUM   │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38750      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                                  │                     │          │                   │                                                 │ ect                                                          │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38751      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38752      │          │                   │ 1.32                                            │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.ArrayList.hashCode                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-41854      │          │                   │                                                 │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└──────────────────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴─────────────────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+microservice-demo/microservice-demo-customer/pom.xml (pom)
+==========================================================
+Total: 41 (UNKNOWN: 3, LOW: 2, MEDIUM: 22, HIGH: 10, CRITICAL: 4)
+
+┌──────────────────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬─────────────────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                     Library                      │    Vulnerability    │ Severity │ Installed Version │                  Fixed Version                  │                            Title                             │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ ch.qos.logback:logback-core                      │ CVE-2021-42550      │ MEDIUM   │ 1.2.3             │ 1.2.9                                           │ logback: remote code execution through JNDI call from within │
+│                                                  │                     │          │                   │                                                 │ its configuration file...                                    │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-42550                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind      │ CVE-2020-36518      │ HIGH     │ 2.11.2            │ 2.12.6.1, 2.13.2.1                              │ jackson-databind: denial of service via a large depth of     │
+│                                                  │                     │          │                   │                                                 │ nested objects                                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-36518                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42003      │          │                   │ 2.12.7.1, 2.13.4.1                              │ jackson-databind: deep wrapper array nesting wrt             │
+│                                                  │                     │          │                   │                                                 │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42004      │          │                   │ 2.12.7.1, 2.13.4                                │ jackson-databind: use of deeply nested arrays                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ net.minidev:json-smart                           │ CVE-2021-31684      │          │ 2.3               │ 1.3.1, 2.4.1                                    │ json-smart: Denial of Service in JSONParserByteArray         │
+│                                                  │                     │          │                   │                                                 │ function                                                     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-31684                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-27568      │ MEDIUM   │                   │ 1.3.2, 2.3.1, 2.4.1                             │ json-smart: uncaught exception may lead to crash or          │
+│                                                  │                     │          │                   │                                                 │ information disclosure                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-27568                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core        │ CVE-2020-17527      │ HIGH     │ 9.0.37            │ 8.5.60, 9.0.40, 10.0.2                          │ tomcat: HTTP/2 request header mix-up                         │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17527                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25122      │          │                   │ 8.5.62, 9.0.42, 10.0.2                          │ tomcat: Request mix-up with h2c                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25122                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25329      │          │                   │ 7.0.107, 8.5.61, 9.0.41                         │ tomcat: Incomplete fix for CVE-2020-9484 (RCE via session    │
+│                                                  │                     │          │                   │                                                 │ persistence)                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25329                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-websocket   │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.codehaus.groovy:groovy                       │ CVE-2020-17521      │ MEDIUM   │ 2.5.13            │ 2.4.21, 2.5.14, 3.0.7                           │ groovy: OS temporary directory leads to information          │
+│                                                  │                     │          │                   │                                                 │ disclosure                                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17521                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.glassfish:jakarta.el                         │ CVE-2021-28170      │          │ 3.0.3             │                                                 │ jakarta-el: ELParserTokenManager enables invalid EL          │
+│                                                  │                     │          │                   │                                                 │ expressions to be evaluate                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-28170                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-core                     │ CVE-2020-25638      │ HIGH     │ 5.4.20.Final      │ 5.3.20.Final, 5.4.24.Final                      │ hibernate-core: SQL injection vulnerability when both        │
+│                                                  │                     │          │                   │                                                 │ hibernate.use_sql_comments and JPQL String literals are...   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-25638                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework.boot:spring-boot-starter-web │ CVE-2022-22965      │ CRITICAL │ 2.3.3.RELEASE     │ 2.6.6, 2.5.12                                   │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 2.5.12, 2.6.6                                   │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-beans                 │ CVE-2022-22965      │ CRITICAL │ 5.2.8.RELEASE     │ 5.2.20.RELEASE, 5.3.18                          │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core                  │ CVE-2021-22118      │ HIGH     │                   │ 5.2.15, 5.3.7                                   │ spring-web: (re)creating the temporary storage directory     │
+│                                                  │                     │          │                   │                                                 │ could result in a privilege...                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22118                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22060      │          │                   │ 5.3.14, 5.3.14                                  │ springframework: Additional Log Injection in Spring          │
+│                                                  │                     │          │                   │                                                 │ Framework (follow-up to CVE-2021-22096)                      │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22060                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22096      │          │                   │ 5.2.18, 5.3.11                                  │ springframework: malicious input leads to insertion of       │
+│                                                  │                     │          │                   │                                                 │ additional log entries                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22096                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22968      │          │                   │ 5.2.21, 5.3.19                                  │ Spring Framework: Data Binding Rules Vulnerability           │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22968                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22970      │          │                   │ 5.2.22.RELEASE, 5.3.20                          │ springframework: DoS via data binding to multipartFile or    │
+│                                                  │                     │          │                   │                                                 │ servlet part                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22971      │          │                   │                                                 │ springframework: DoS with STOMP over WebSocket               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-expression            │ CVE-2022-22950      │ MEDIUM   │                   │ 5.2.20, 5.3.16                                  │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web                   │ CVE-2016-1000027    │ CRITICAL │                   │ 6.0.0                                           │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                                  │                     │          │                   │                                                 │ method untrusted java deserialization                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-webmvc                │ CVE-2022-22965      │ CRITICAL │                   │ 5.2.20, 5.3.18                                  │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                               │ CVE-2022-25857      │ HIGH     │ 1.26              │ 1.31                                            │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                                  │                     │          │                   │                                                 │ limitation for collections...                                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                                  ├─────────────────────┼──────────┤                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38749      │ MEDIUM   │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38750      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                                  │                     │          │                   │                                                 │ ect                                                          │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38751      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38752      │          │                   │ 1.32                                            │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.ArrayList.hashCode                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-41854      │          │                   │                                                 │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└──────────────────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴─────────────────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+microservice-demo/microservice-demo-order/pom.xml (pom)
+=======================================================
+Total: 41 (UNKNOWN: 3, LOW: 2, MEDIUM: 22, HIGH: 10, CRITICAL: 4)
+
+┌──────────────────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬─────────────────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                     Library                      │    Vulnerability    │ Severity │ Installed Version │                  Fixed Version                  │                            Title                             │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ ch.qos.logback:logback-core                      │ CVE-2021-42550      │ MEDIUM   │ 1.2.3             │ 1.2.9                                           │ logback: remote code execution through JNDI call from within │
+│                                                  │                     │          │                   │                                                 │ its configuration file...                                    │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-42550                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind      │ CVE-2020-36518      │ HIGH     │ 2.11.2            │ 2.12.6.1, 2.13.2.1                              │ jackson-databind: denial of service via a large depth of     │
+│                                                  │                     │          │                   │                                                 │ nested objects                                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-36518                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42003      │          │                   │ 2.12.7.1, 2.13.4.1                              │ jackson-databind: deep wrapper array nesting wrt             │
+│                                                  │                     │          │                   │                                                 │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42004      │          │                   │ 2.12.7.1, 2.13.4                                │ jackson-databind: use of deeply nested arrays                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ net.minidev:json-smart                           │ CVE-2021-31684      │          │ 2.3               │ 1.3.1, 2.4.1                                    │ json-smart: Denial of Service in JSONParserByteArray         │
+│                                                  │                     │          │                   │                                                 │ function                                                     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-31684                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-27568      │ MEDIUM   │                   │ 1.3.2, 2.3.1, 2.4.1                             │ json-smart: uncaught exception may lead to crash or          │
+│                                                  │                     │          │                   │                                                 │ information disclosure                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-27568                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core        │ CVE-2020-17527      │ HIGH     │ 9.0.37            │ 8.5.60, 9.0.40, 10.0.2                          │ tomcat: HTTP/2 request header mix-up                         │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17527                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25122      │          │                   │ 8.5.62, 9.0.42, 10.0.2                          │ tomcat: Request mix-up with h2c                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25122                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25329      │          │                   │ 7.0.107, 8.5.61, 9.0.41                         │ tomcat: Incomplete fix for CVE-2020-9484 (RCE via session    │
+│                                                  │                     │          │                   │                                                 │ persistence)                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25329                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-websocket   │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.codehaus.groovy:groovy                       │ CVE-2020-17521      │ MEDIUM   │ 2.5.13            │ 2.4.21, 2.5.14, 3.0.7                           │ groovy: OS temporary directory leads to information          │
+│                                                  │                     │          │                   │                                                 │ disclosure                                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17521                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.glassfish:jakarta.el                         │ CVE-2021-28170      │          │ 3.0.3             │                                                 │ jakarta-el: ELParserTokenManager enables invalid EL          │
+│                                                  │                     │          │                   │                                                 │ expressions to be evaluate                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-28170                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-core                     │ CVE-2020-25638      │ HIGH     │ 5.4.20.Final      │ 5.3.20.Final, 5.4.24.Final                      │ hibernate-core: SQL injection vulnerability when both        │
+│                                                  │                     │          │                   │                                                 │ hibernate.use_sql_comments and JPQL String literals are...   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-25638                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework.boot:spring-boot-starter-web │ CVE-2022-22965      │ CRITICAL │ 2.3.3.RELEASE     │ 2.6.6, 2.5.12                                   │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 2.5.12, 2.6.6                                   │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-beans                 │ CVE-2022-22965      │ CRITICAL │ 5.2.8.RELEASE     │ 5.2.20.RELEASE, 5.3.18                          │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core                  │ CVE-2021-22118      │ HIGH     │                   │ 5.2.15, 5.3.7                                   │ spring-web: (re)creating the temporary storage directory     │
+│                                                  │                     │          │                   │                                                 │ could result in a privilege...                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22118                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22060      │          │                   │ 5.3.14, 5.3.14                                  │ springframework: Additional Log Injection in Spring          │
+│                                                  │                     │          │                   │                                                 │ Framework (follow-up to CVE-2021-22096)                      │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22060                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22096      │          │                   │ 5.2.18, 5.3.11                                  │ springframework: malicious input leads to insertion of       │
+│                                                  │                     │          │                   │                                                 │ additional log entries                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22096                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22968      │          │                   │ 5.2.21, 5.3.19                                  │ Spring Framework: Data Binding Rules Vulnerability           │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22968                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22970      │          │                   │ 5.2.22.RELEASE, 5.3.20                          │ springframework: DoS via data binding to multipartFile or    │
+│                                                  │                     │          │                   │                                                 │ servlet part                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22971      │          │                   │                                                 │ springframework: DoS with STOMP over WebSocket               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-expression            │ CVE-2022-22950      │ MEDIUM   │                   │ 5.2.20, 5.3.16                                  │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web                   │ CVE-2016-1000027    │ CRITICAL │                   │ 6.0.0                                           │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                                  │                     │          │                   │                                                 │ method untrusted java deserialization                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-webmvc                │ CVE-2022-22965      │ CRITICAL │                   │ 5.2.20, 5.3.18                                  │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                               │ CVE-2022-25857      │ HIGH     │ 1.26              │ 1.31                                            │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                                  │                     │          │                   │                                                 │ limitation for collections...                                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                                  ├─────────────────────┼──────────┤                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38749      │ MEDIUM   │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38750      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                                  │                     │          │                   │                                                 │ ect                                                          │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38751      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38752      │          │                   │ 1.32                                            │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.ArrayList.hashCode                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-41854      │          │                   │                                                 │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└──────────────────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴─────────────────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+microservice-demo/microservice-demo-zuul-server/pom.xml (pom)
+=============================================================
+Total: 37 (UNKNOWN: 3, LOW: 2, MEDIUM: 20, HIGH: 8, CRITICAL: 4)
+
+┌──────────────────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬─────────────────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                     Library                      │    Vulnerability    │ Severity │ Installed Version │                  Fixed Version                  │                            Title                             │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ ch.qos.logback:logback-core                      │ CVE-2021-42550      │ MEDIUM   │ 1.2.3             │ 1.2.9                                           │ logback: remote code execution through JNDI call from within │
+│                                                  │                     │          │                   │                                                 │ its configuration file...                                    │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-42550                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind      │ CVE-2020-36518      │ HIGH     │ 2.11.2            │ 2.12.6.1, 2.13.2.1                              │ jackson-databind: denial of service via a large depth of     │
+│                                                  │                     │          │                   │                                                 │ nested objects                                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-36518                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42003      │          │                   │ 2.12.7.1, 2.13.4.1                              │ jackson-databind: deep wrapper array nesting wrt             │
+│                                                  │                     │          │                   │                                                 │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42004      │          │                   │ 2.12.7.1, 2.13.4                                │ jackson-databind: use of deeply nested arrays                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core        │ CVE-2020-17527      │          │ 9.0.37            │ 8.5.60, 9.0.40, 10.0.2                          │ tomcat: HTTP/2 request header mix-up                         │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17527                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25122      │          │                   │ 8.5.62, 9.0.42, 10.0.2                          │ tomcat: Request mix-up with h2c                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25122                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25329      │          │                   │ 7.0.107, 8.5.61, 9.0.41                         │ tomcat: Incomplete fix for CVE-2020-9484 (RCE via session    │
+│                                                  │                     │          │                   │                                                 │ persistence)                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25329                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-websocket   │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.glassfish:jakarta.el                         │ CVE-2021-28170      │ MEDIUM   │ 3.0.3             │                                                 │ jakarta-el: ELParserTokenManager enables invalid EL          │
+│                                                  │                     │          │                   │                                                 │ expressions to be evaluate                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-28170                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework.boot:spring-boot-starter-web │ CVE-2022-22965      │ CRITICAL │ 2.3.3.RELEASE     │ 2.6.6, 2.5.12                                   │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 2.5.12, 2.6.6                                   │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-beans                 │ CVE-2022-22965      │ CRITICAL │ 5.2.8.RELEASE     │ 5.2.20.RELEASE, 5.3.18                          │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core                  │ CVE-2021-22118      │ HIGH     │                   │ 5.2.15, 5.3.7                                   │ spring-web: (re)creating the temporary storage directory     │
+│                                                  │                     │          │                   │                                                 │ could result in a privilege...                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22118                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22060      │          │                   │ 5.3.14, 5.3.14                                  │ springframework: Additional Log Injection in Spring          │
+│                                                  │                     │          │                   │                                                 │ Framework (follow-up to CVE-2021-22096)                      │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22060                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22096      │          │                   │ 5.2.18, 5.3.11                                  │ springframework: malicious input leads to insertion of       │
+│                                                  │                     │          │                   │                                                 │ additional log entries                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22096                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22968      │          │                   │ 5.2.21, 5.3.19                                  │ Spring Framework: Data Binding Rules Vulnerability           │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22968                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22970      │          │                   │ 5.2.22.RELEASE, 5.3.20                          │ springframework: DoS via data binding to multipartFile or    │
+│                                                  │                     │          │                   │                                                 │ servlet part                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22971      │          │                   │                                                 │ springframework: DoS with STOMP over WebSocket               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-expression            │ CVE-2022-22950      │ MEDIUM   │                   │ 5.2.20, 5.3.16                                  │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web                   │ CVE-2016-1000027    │ CRITICAL │                   │ 6.0.0                                           │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                                  │                     │          │                   │                                                 │ method untrusted java deserialization                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-webmvc                │ CVE-2022-22965      │ CRITICAL │                   │ 5.2.20, 5.3.18                                  │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                               │ CVE-2022-25857      │ HIGH     │ 1.26              │ 1.31                                            │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                                  │                     │          │                   │                                                 │ limitation for collections...                                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                                  ├─────────────────────┼──────────┤                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38749      │ MEDIUM   │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38750      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                                  │                     │          │                   │                                                 │ ect                                                          │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38751      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38752      │          │                   │ 1.32                                            │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.ArrayList.hashCode                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-41854      │          │                   │                                                 │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└──────────────────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴─────────────────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+microservice-demo/pom.xml (pom)
+===============================
+Total: 41 (UNKNOWN: 3, LOW: 2, MEDIUM: 22, HIGH: 10, CRITICAL: 4)
+
+┌──────────────────────────────────────────────────┬─────────────────────┬──────────┬───────────────────┬─────────────────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                     Library                      │    Vulnerability    │ Severity │ Installed Version │                  Fixed Version                  │                            Title                             │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ ch.qos.logback:logback-core                      │ CVE-2021-42550      │ MEDIUM   │ 1.2.3             │ 1.2.9                                           │ logback: remote code execution through JNDI call from within │
+│                                                  │                     │          │                   │                                                 │ its configuration file...                                    │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-42550                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind      │ CVE-2020-36518      │ HIGH     │ 2.11.2            │ 2.12.6.1, 2.13.2.1                              │ jackson-databind: denial of service via a large depth of     │
+│                                                  │                     │          │                   │                                                 │ nested objects                                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-36518                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42003      │          │                   │ 2.12.7.1, 2.13.4.1                              │ jackson-databind: deep wrapper array nesting wrt             │
+│                                                  │                     │          │                   │                                                 │ UNWRAP_SINGLE_VALUE_ARRAYS                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42003                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-42004      │          │                   │ 2.12.7.1, 2.13.4                                │ jackson-databind: use of deeply nested arrays                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-42004                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ net.minidev:json-smart                           │ CVE-2021-31684      │          │ 2.3               │ 1.3.1, 2.4.1                                    │ json-smart: Denial of Service in JSONParserByteArray         │
+│                                                  │                     │          │                   │                                                 │ function                                                     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-31684                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-27568      │ MEDIUM   │                   │ 1.3.2, 2.3.1, 2.4.1                             │ json-smart: uncaught exception may lead to crash or          │
+│                                                  │                     │          │                   │                                                 │ information disclosure                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-27568                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-core        │ CVE-2020-17527      │ HIGH     │ 9.0.37            │ 8.5.60, 9.0.40, 10.0.2                          │ tomcat: HTTP/2 request header mix-up                         │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17527                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25122      │          │                   │ 8.5.62, 9.0.42, 10.0.2                          │ tomcat: Request mix-up with h2c                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25122                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-25329      │          │                   │ 7.0.107, 8.5.61, 9.0.41                         │ tomcat: Incomplete fix for CVE-2020-9484 (RCE via session    │
+│                                                  │                     │          │                   │                                                 │ persistence)                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-25329                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.tomcat.embed:tomcat-embed-websocket   │ CVE-2021-24122      │ MEDIUM   │                   │ 10.0.0-M10, 9.0.40, 8.5.60, 7.0.107             │ tomcat: Information disclosure when using NTFS file system   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-24122                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-43980      │ LOW      │                   │                                                 │ Apache Tomcat: Information disclosure                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-43980                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.codehaus.groovy:groovy                       │ CVE-2020-17521      │ MEDIUM   │ 2.5.13            │ 2.4.21, 2.5.14, 3.0.7                           │ groovy: OS temporary directory leads to information          │
+│                                                  │                     │          │                   │                                                 │ disclosure                                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-17521                   │
+├──────────────────────────────────────────────────┼─────────────────────┤          ├───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.glassfish:jakarta.el                         │ CVE-2021-28170      │          │ 3.0.3             │                                                 │ jakarta-el: ELParserTokenManager enables invalid EL          │
+│                                                  │                     │          │                   │                                                 │ expressions to be evaluate                                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-28170                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-core                     │ CVE-2020-25638      │ HIGH     │ 5.4.20.Final      │ 5.3.20.Final, 5.4.24.Final                      │ hibernate-core: SQL injection vulnerability when both        │
+│                                                  │                     │          │                   │                                                 │ hibernate.use_sql_comments and JPQL String literals are...   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2020-25638                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework.boot:spring-boot-starter-web │ CVE-2022-22965      │ CRITICAL │ 2.3.3.RELEASE     │ 2.6.6, 2.5.12                                   │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 2.5.12, 2.6.6                                   │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-beans                 │ CVE-2022-22965      │ CRITICAL │ 5.2.8.RELEASE     │ 5.2.20.RELEASE, 5.3.18                          │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-core                  │ CVE-2021-22118      │ HIGH     │                   │ 5.2.15, 5.3.7                                   │ spring-web: (re)creating the temporary storage directory     │
+│                                                  │                     │          │                   │                                                 │ could result in a privilege...                               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22118                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22060      │          │                   │ 5.3.14, 5.3.14                                  │ springframework: Additional Log Injection in Spring          │
+│                                                  │                     │          │                   │                                                 │ Framework (follow-up to CVE-2021-22096)                      │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22060                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2021-22096      │          │                   │ 5.2.18, 5.3.11                                  │ springframework: malicious input leads to insertion of       │
+│                                                  │                     │          │                   │                                                 │ additional log entries                                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2021-22096                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22968      │          │                   │ 5.2.21, 5.3.19                                  │ Spring Framework: Data Binding Rules Vulnerability           │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22968                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22970      │          │                   │ 5.2.22.RELEASE, 5.3.20                          │ springframework: DoS via data binding to multipartFile or    │
+│                                                  │                     │          │                   │                                                 │ servlet part                                                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22970                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22971      │          │                   │                                                 │ springframework: DoS with STOMP over WebSocket               │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22971                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ GHSA-36p3-wjmg-h94x │ UNKNOWN  │                   │ 5.2.20, 5.3.18                                  │ Improper Neutralization of Special Elements used in an OS    │
+│                                                  │                     │          │                   │                                                 │ Command ('OS Command...                                      │
+│                                                  │                     │          │                   │                                                 │ https://github.com/advisories/GHSA-36p3-wjmg-h94x            │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-expression            │ CVE-2022-22950      │ MEDIUM   │                   │ 5.2.20, 5.3.16                                  │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web                   │ CVE-2016-1000027    │ CRITICAL │                   │ 6.0.0                                           │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                                  │                     │          │                   │                                                 │ method untrusted java deserialization                        │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-webmvc                │ CVE-2022-22965      │ CRITICAL │                   │ 5.2.20, 5.3.18                                  │ spring-framework: RCE via Data Binding on JDK 9+             │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22965                   │
+│                                                  ├─────────────────────┼──────────┤                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2020-5421       │ MEDIUM   │                   │ 4.3.29.RELEASE, 5.0.19.RELEASE, 5.1.18.RELEASE, │ springframework: RFD protection bypass via jsessionid        │
+│                                                  │                     │          │                   │ 5.2.9.RELEASE                                   │ https://avd.aquasec.com/nvd/cve-2020-5421                    │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-22950      │          │                   │ 5.2.20.RELEASE, 5.3.17                          │ spring-expression: Denial of service via specially crafted   │
+│                                                  │                     │          │                   │                                                 │ SpEL expression                                              │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-22950                   │
+├──────────────────────────────────────────────────┼─────────────────────┼──────────┼───────────────────┼─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                               │ CVE-2022-25857      │ HIGH     │ 1.26              │ 1.31                                            │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                                  │                     │          │                   │                                                 │ limitation for collections...                                │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                                  ├─────────────────────┼──────────┤                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38749      │ MEDIUM   │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38750      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                                  │                     │          │                   │                                                 │ ect                                                          │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38751      │          │                   │                                                 │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                                  ├─────────────────────┤          │                   ├─────────────────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-38752      │          │                   │ 1.32                                            │ snakeyaml: Uncaught exception in                             │
+│                                                  │                     │          │                   │                                                 │ java.base/java.util.ArrayList.hashCode                       │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                                  ├─────────────────────┤          │                   │                                                 ├──────────────────────────────────────────────────────────────┤
+│                                                  │ CVE-2022-41854      │          │                   │                                                 │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                                  │                     │          │                   │                                                 │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└──────────────────────────────────────────────────┴─────────────────────┴──────────┴───────────────────┴─────────────────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+docker-vagrant/catalog-app/Dockerfile (dockerfile)
+==================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/catalog-app/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/customer-app/Dockerfile (dockerfile)
+===================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/customer-app/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/eureka/Dockerfile (dockerfile)
+=============================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/eureka/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/java/Dockerfile (dockerfile)
+===========================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/order-app/Dockerfile (dockerfile)
+================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/order-app/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/turbine/Dockerfile (dockerfile)
+==============================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/turbine/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+docker-vagrant/zuul/Dockerfile (dockerfile)
+===========================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'java'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ docker-vagrant/zuul/Dockerfile:1
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 [ FROM java
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-catalog/Dockerfile (dockerfile)
+===================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-customer/Dockerfile (dockerfile)
+====================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-eureka-server/Dockerfile (dockerfile)
+=========================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-order/Dockerfile (dockerfile)
+=================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-turbine-server/Dockerfile (dockerfile)
+==========================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+microservice-demo/microservice-demo-zuul-server/Dockerfile (dockerfile)
+=======================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

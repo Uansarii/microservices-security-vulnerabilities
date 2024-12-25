@@ -1,0 +1,476 @@
+Enumerating objects: 29141, done.
+Counting objects:   0% (1/29141)Counting objects:   1% (292/29141)Counting objects:   2% (583/29141)Counting objects:   3% (875/29141)Counting objects:   4% (1166/29141)Counting objects:   5% (1458/29141)Counting objects:   6% (1749/29141)Counting objects:   7% (2040/29141)Counting objects:   8% (2332/29141)Counting objects:   9% (2623/29141)Counting objects:  10% (2915/29141)Counting objects:  11% (3206/29141)Counting objects:  12% (3497/29141)Counting objects:  13% (3789/29141)Counting objects:  14% (4080/29141)Counting objects:  15% (4372/29141)Counting objects:  16% (4663/29141)Counting objects:  17% (4954/29141)Counting objects:  18% (5246/29141)Counting objects:  19% (5537/29141)Counting objects:  20% (5829/29141)Counting objects:  21% (6120/29141)Counting objects:  22% (6412/29141)Counting objects:  23% (6703/29141)Counting objects:  24% (6994/29141)Counting objects:  25% (7286/29141)Counting objects:  26% (7577/29141)Counting objects:  27% (7869/29141)Counting objects:  28% (8160/29141)Counting objects:  29% (8451/29141)Counting objects:  30% (8743/29141)Counting objects:  31% (9034/29141)Counting objects:  32% (9326/29141)Counting objects:  33% (9617/29141)Counting objects:  34% (9908/29141)Counting objects:  35% (10200/29141)Counting objects:  36% (10491/29141)Counting objects:  37% (10783/29141)Counting objects:  38% (11074/29141)Counting objects:  39% (11365/29141)Counting objects:  40% (11657/29141)Counting objects:  41% (11948/29141)Counting objects:  42% (12240/29141)Counting objects:  43% (12531/29141)Counting objects:  44% (12823/29141)Counting objects:  45% (13114/29141)Counting objects:  46% (13405/29141)Counting objects:  47% (13697/29141)Counting objects:  48% (13988/29141)Counting objects:  49% (14280/29141)Counting objects:  50% (14571/29141)Counting objects:  51% (14862/29141)Counting objects:  52% (15154/29141)Counting objects:  53% (15445/29141)Counting objects:  54% (15737/29141)Counting objects:  55% (16028/29141)Counting objects:  56% (16319/29141)Counting objects:  57% (16611/29141)Counting objects:  58% (16902/29141)Counting objects:  59% (17194/29141)Counting objects:  60% (17485/29141)Counting objects:  61% (17777/29141)Counting objects:  62% (18068/29141)Counting objects:  63% (18359/29141)Counting objects:  64% (18651/29141)Counting objects:  65% (18942/29141)Counting objects:  66% (19234/29141)Counting objects:  67% (19525/29141)Counting objects:  68% (19816/29141)Counting objects:  69% (20108/29141)Counting objects:  70% (20399/29141)Counting objects:  71% (20691/29141)Counting objects:  72% (20982/29141)Counting objects:  73% (21273/29141)Counting objects:  74% (21565/29141)Counting objects:  75% (21856/29141)Counting objects:  76% (22148/29141)Counting objects:  77% (22439/29141)Counting objects:  78% (22730/29141)Counting objects:  79% (23022/29141)Counting objects:  80% (23313/29141)Counting objects:  81% (23605/29141)Counting objects:  82% (23896/29141)Counting objects:  83% (24188/29141)Counting objects:  84% (24479/29141)Counting objects:  85% (24770/29141)Counting objects:  86% (25062/29141)Counting objects:  87% (25353/29141)Counting objects:  88% (25645/29141)Counting objects:  89% (25936/29141)Counting objects:  90% (26227/29141)Counting objects:  91% (26519/29141)Counting objects:  92% (26810/29141)Counting objects:  93% (27102/29141)Counting objects:  94% (27393/29141)Counting objects:  95% (27684/29141)Counting objects:  96% (27976/29141)Counting objects:  97% (28267/29141)Counting objects:  98% (28559/29141)Counting objects:  99% (28850/29141)Counting objects: 100% (29141/29141)Counting objects: 100% (29141/29141), done.
+Compressing objects:   0% (1/16811)Compressing objects:   1% (169/16811)Compressing objects:   2% (337/16811)Compressing objects:   3% (505/16811)Compressing objects:   4% (673/16811)Compressing objects:   5% (841/16811)Compressing objects:   6% (1009/16811)Compressing objects:   7% (1177/16811)Compressing objects:   8% (1345/16811)Compressing objects:   9% (1513/16811)Compressing objects:  10% (1682/16811)Compressing objects:  11% (1850/16811)Compressing objects:  12% (2018/16811)Compressing objects:  13% (2186/16811)Compressing objects:  14% (2354/16811)Compressing objects:  15% (2522/16811)Compressing objects:  16% (2690/16811)Compressing objects:  17% (2858/16811)Compressing objects:  18% (3026/16811)Compressing objects:  19% (3195/16811)Compressing objects:  20% (3363/16811)Compressing objects:  21% (3531/16811)Compressing objects:  22% (3699/16811)Compressing objects:  23% (3867/16811)Compressing objects:  24% (4035/16811)Compressing objects:  25% (4203/16811)Compressing objects:  26% (4371/16811)Compressing objects:  27% (4539/16811)Compressing objects:  28% (4708/16811)Compressing objects:  29% (4876/16811)Compressing objects:  30% (5044/16811)Compressing objects:  31% (5212/16811)Compressing objects:  32% (5380/16811)Compressing objects:  33% (5548/16811)Compressing objects:  34% (5716/16811)Compressing objects:  35% (5884/16811)Compressing objects:  36% (6052/16811)Compressing objects:  37% (6221/16811)Compressing objects:  38% (6389/16811)Compressing objects:  39% (6557/16811)Compressing objects:  40% (6725/16811)Compressing objects:  41% (6893/16811)Compressing objects:  42% (7061/16811)Compressing objects:  43% (7229/16811)Compressing objects:  44% (7397/16811)Compressing objects:  45% (7565/16811)Compressing objects:  46% (7734/16811)Compressing objects:  47% (7902/16811)Compressing objects:  48% (8070/16811)Compressing objects:  49% (8238/16811)Compressing objects:  50% (8406/16811)Compressing objects:  51% (8574/16811)Compressing objects:  52% (8742/16811)Compressing objects:  53% (8910/16811)Compressing objects:  54% (9078/16811)Compressing objects:  55% (9247/16811)Compressing objects:  56% (9415/16811)Compressing objects:  57% (9583/16811)Compressing objects:  58% (9751/16811)Compressing objects:  59% (9919/16811)Compressing objects:  60% (10087/16811)Compressing objects:  61% (10255/16811)Compressing objects:  62% (10423/16811)Compressing objects:  63% (10591/16811)Compressing objects:  64% (10760/16811)Compressing objects:  65% (10928/16811)Compressing objects:  66% (11096/16811)Compressing objects:  67% (11264/16811)Compressing objects:  68% (11432/16811)Compressing objects:  69% (11600/16811)Compressing objects:  70% (11768/16811)Compressing objects:  71% (11936/16811)Compressing objects:  72% (12104/16811)Compressing objects:  73% (12273/16811)Compressing objects:  74% (12441/16811)Compressing objects:  75% (12609/16811)Compressing objects:  76% (12777/16811)Compressing objects:  77% (12945/16811)Compressing objects:  78% (13113/16811)Compressing objects:  79% (13281/16811)Compressing objects:  80% (13449/16811)Compressing objects:  81% (13617/16811)Compressing objects:  82% (13786/16811)Compressing objects:  83% (13954/16811)Compressing objects:  84% (14122/16811)Compressing objects:  85% (14290/16811)Compressing objects:  86% (14458/16811)Compressing objects:  87% (14626/16811)Compressing objects:  88% (14794/16811)Compressing objects:  89% (14962/16811)Compressing objects:  90% (15130/16811)Compressing objects:  91% (15299/16811)Compressing objects:  92% (15467/16811)Compressing objects:  93% (15635/16811)Compressing objects:  94% (15803/16811)Compressing objects:  95% (15971/16811)Compressing objects:  96% (16139/16811)Compressing objects:  97% (16307/16811)Compressing objects:  98% (16475/16811)Compressing objects:  99% (16643/16811)Compressing objects: 100% (16811/16811)Compressing objects: 100% (16811/16811), done.
+Total 29141 (delta 11267), reused 24194 (delta 6926), pack-reused 0
+
+api-key/pom.xml (pom)
+=====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+audit/pom.xml (pom)
+===================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+basic-auth/pom.xml (pom)
+========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+body/pom.xml (pom)
+==================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+client/pom.xml (pom)
+====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+config-reload/pom.xml (pom)
+===========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+content/pom.xml (pom)
+=====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+correlation/pom.xml (pom)
+=========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+cors/pom.xml (pom)
+==================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+deref-token/pom.xml (pom)
+=========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+dump/pom.xml (pom)
+==================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+egress-router/pom.xml (pom)
+===========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+encode-decode/pom.xml (pom)
+===========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+exception/pom.xml (pom)
+=======================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+gateway/pom.xml (pom)
+=====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+handler/pom.xml (pom)
+=====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+header/pom.xml (pom)
+====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+health/pom.xml (pom)
+====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+http-entity/pom.xml (pom)
+=========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+http-string/pom.xml (pom)
+=========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+info/pom.xml (pom)
+==================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ingress-proxy/pom.xml (pom)
+===========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ip-whitelist/pom.xml (pom)
+==========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+jaeger-tracing/pom.xml (pom)
+============================
+Total: 3 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 1)
+
+┌────────────────────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│              Library               │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core          │ CVE-2022-4492  │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                                    │                │          │                   │               │ by the undertow...                                           │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+├────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.jetbrains.kotlin:kotlin-stdlib │ CVE-2020-29582 │ MEDIUM   │ 1.4.10            │ 1.4.21        │ kotlin: vulnerable Java API was used for temporary file and  │
+│                                    │                │          │                   │               │ folder creation...                                           │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-29582                   │
+│                                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                    │ CVE-2022-24329 │          │                   │ 1.6.0         │ kotlin: Not possible to lock dependencies for Multiplatform  │
+│                                    │                │          │                   │               │ Gradle Projects                                              │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-24329                   │
+└────────────────────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+logger-config/pom.xml (pom)
+===========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+metrics/pom.xml (pom)
+=====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+pom.xml (pom)
+=============
+Total: 3 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 1)
+
+┌────────────────────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│              Library               │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core          │ CVE-2022-4492  │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                                    │                │          │                   │               │ by the undertow...                                           │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+├────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.jetbrains.kotlin:kotlin-stdlib │ CVE-2020-29582 │ MEDIUM   │ 1.4.10            │ 1.4.21        │ kotlin: vulnerable Java API was used for temporary file and  │
+│                                    │                │          │                   │               │ folder creation...                                           │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-29582                   │
+│                                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                    │ CVE-2022-24329 │          │                   │ 1.6.0         │ kotlin: Not possible to lock dependencies for Multiplatform  │
+│                                    │                │          │                   │               │ Gradle Projects                                              │
+│                                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-24329                   │
+└────────────────────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+prometheus/pom.xml (pom)
+========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+rate-limit/pom.xml (pom)
+========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+request-transformer/pom.xml (pom)
+=================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+resource/pom.xml (pom)
+======================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+response-transformer/pom.xml (pom)
+==================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+rule-loader/pom.xml (pom)
+=========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+sanitizer/pom.xml (pom)
+=======================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+security/pom.xml (pom)
+======================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+server/pom.xml (pom)
+====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+status/pom.xml (pom)
+====================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+traceability/pom.xml (pom)
+==========================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 0, CRITICAL: 1)
+
+┌───────────────────────────┬───────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│          Library          │ Vulnerability │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────┼───────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ io.undertow:undertow-core │ CVE-2022-4492 │ CRITICAL │ 2.3.3.Final       │               │ undertow: Server identity in https connection is not checked │
+│                           │               │          │                   │               │ by the undertow...                                           │
+│                           │               │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4492                    │
+└───────────────────────────┴───────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘

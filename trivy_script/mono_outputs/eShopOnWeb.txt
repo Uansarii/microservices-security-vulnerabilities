@@ -1,0 +1,70 @@
+Enumerating objects: 2244, done.
+Counting objects:   0% (1/2244)Counting objects:   1% (23/2244)Counting objects:   2% (45/2244)Counting objects:   3% (68/2244)Counting objects:   4% (90/2244)Counting objects:   5% (113/2244)Counting objects:   6% (135/2244)Counting objects:   7% (158/2244)Counting objects:   8% (180/2244)Counting objects:   9% (202/2244)Counting objects:  10% (225/2244)Counting objects:  11% (247/2244)Counting objects:  12% (270/2244)Counting objects:  13% (292/2244)Counting objects:  14% (315/2244)Counting objects:  15% (337/2244)Counting objects:  16% (360/2244)Counting objects:  17% (382/2244)Counting objects:  18% (404/2244)Counting objects:  19% (427/2244)Counting objects:  20% (449/2244)Counting objects:  21% (472/2244)Counting objects:  22% (494/2244)Counting objects:  23% (517/2244)Counting objects:  24% (539/2244)Counting objects:  25% (561/2244)Counting objects:  26% (584/2244)Counting objects:  27% (606/2244)Counting objects:  28% (629/2244)Counting objects:  29% (651/2244)Counting objects:  30% (674/2244)Counting objects:  31% (696/2244)Counting objects:  32% (719/2244)Counting objects:  33% (741/2244)Counting objects:  34% (763/2244)Counting objects:  35% (786/2244)Counting objects:  36% (808/2244)Counting objects:  37% (831/2244)Counting objects:  38% (853/2244)Counting objects:  39% (876/2244)Counting objects:  40% (898/2244)Counting objects:  41% (921/2244)Counting objects:  42% (943/2244)Counting objects:  43% (965/2244)Counting objects:  44% (988/2244)Counting objects:  45% (1010/2244)Counting objects:  46% (1033/2244)Counting objects:  47% (1055/2244)Counting objects:  48% (1078/2244)Counting objects:  49% (1100/2244)Counting objects:  50% (1122/2244)Counting objects:  51% (1145/2244)Counting objects:  52% (1167/2244)Counting objects:  53% (1190/2244)Counting objects:  54% (1212/2244)Counting objects:  55% (1235/2244)Counting objects:  56% (1257/2244)Counting objects:  57% (1280/2244)Counting objects:  58% (1302/2244)Counting objects:  59% (1324/2244)Counting objects:  60% (1347/2244)Counting objects:  61% (1369/2244)Counting objects:  62% (1392/2244)Counting objects:  63% (1414/2244)Counting objects:  64% (1437/2244)Counting objects:  65% (1459/2244)Counting objects:  66% (1482/2244)Counting objects:  67% (1504/2244)Counting objects:  68% (1526/2244)Counting objects:  69% (1549/2244)Counting objects:  70% (1571/2244)Counting objects:  71% (1594/2244)Counting objects:  72% (1616/2244)Counting objects:  73% (1639/2244)Counting objects:  74% (1661/2244)Counting objects:  75% (1683/2244)Counting objects:  76% (1706/2244)Counting objects:  77% (1728/2244)Counting objects:  78% (1751/2244)Counting objects:  79% (1773/2244)Counting objects:  80% (1796/2244)Counting objects:  81% (1818/2244)Counting objects:  82% (1841/2244)Counting objects:  83% (1863/2244)Counting objects:  84% (1885/2244)Counting objects:  85% (1908/2244)Counting objects:  86% (1930/2244)Counting objects:  87% (1953/2244)Counting objects:  88% (1975/2244)Counting objects:  89% (1998/2244)Counting objects:  90% (2020/2244)Counting objects:  91% (2043/2244)Counting objects:  92% (2065/2244)Counting objects:  93% (2087/2244)Counting objects:  94% (2110/2244)Counting objects:  95% (2132/2244)Counting objects:  96% (2155/2244)Counting objects:  97% (2177/2244)Counting objects:  98% (2200/2244)Counting objects:  99% (2222/2244)Counting objects: 100% (2244/2244)Counting objects: 100% (2244/2244), done.
+Compressing objects:   0% (1/1433)Compressing objects:   1% (15/1433)Compressing objects:   2% (29/1433)Compressing objects:   3% (43/1433)Compressing objects:   4% (58/1433)Compressing objects:   5% (72/1433)Compressing objects:   6% (86/1433)Compressing objects:   7% (101/1433)Compressing objects:   8% (115/1433)Compressing objects:   9% (129/1433)Compressing objects:  10% (144/1433)Compressing objects:  11% (158/1433)Compressing objects:  12% (172/1433)Compressing objects:  13% (187/1433)Compressing objects:  14% (201/1433)Compressing objects:  15% (215/1433)Compressing objects:  16% (230/1433)Compressing objects:  17% (244/1433)Compressing objects:  18% (258/1433)Compressing objects:  19% (273/1433)Compressing objects:  20% (287/1433)Compressing objects:  21% (301/1433)Compressing objects:  22% (316/1433)Compressing objects:  23% (330/1433)Compressing objects:  24% (344/1433)Compressing objects:  25% (359/1433)Compressing objects:  26% (373/1433)Compressing objects:  27% (387/1433)Compressing objects:  28% (402/1433)Compressing objects:  29% (416/1433)Compressing objects:  30% (430/1433)Compressing objects:  31% (445/1433)Compressing objects:  32% (459/1433)Compressing objects:  33% (473/1433)Compressing objects:  34% (488/1433)Compressing objects:  35% (502/1433)Compressing objects:  36% (516/1433)Compressing objects:  37% (531/1433)Compressing objects:  38% (545/1433)Compressing objects:  39% (559/1433)Compressing objects:  40% (574/1433)Compressing objects:  41% (588/1433)Compressing objects:  42% (602/1433)Compressing objects:  43% (617/1433)Compressing objects:  44% (631/1433)Compressing objects:  45% (645/1433)Compressing objects:  46% (660/1433)Compressing objects:  47% (674/1433)Compressing objects:  48% (688/1433)Compressing objects:  49% (703/1433)Compressing objects:  50% (717/1433)Compressing objects:  51% (731/1433)Compressing objects:  52% (746/1433)Compressing objects:  53% (760/1433)Compressing objects:  54% (774/1433)Compressing objects:  55% (789/1433)Compressing objects:  56% (803/1433)Compressing objects:  57% (817/1433)Compressing objects:  58% (832/1433)Compressing objects:  58% (845/1433)Compressing objects:  59% (846/1433)Compressing objects:  60% (860/1433)Compressing objects:  61% (875/1433)Compressing objects:  62% (889/1433)Compressing objects:  63% (903/1433)Compressing objects:  64% (918/1433)Compressing objects:  65% (932/1433)Compressing objects:  66% (946/1433)Compressing objects:  67% (961/1433)Compressing objects:  68% (975/1433)Compressing objects:  69% (989/1433)Compressing objects:  70% (1004/1433)Compressing objects:  71% (1018/1433)Compressing objects:  72% (1032/1433)Compressing objects:  73% (1047/1433)Compressing objects:  74% (1061/1433)Compressing objects:  75% (1075/1433)Compressing objects:  76% (1090/1433)Compressing objects:  77% (1104/1433)Compressing objects:  78% (1118/1433)Compressing objects:  79% (1133/1433)Compressing objects:  80% (1147/1433)Compressing objects:  81% (1161/1433)Compressing objects:  82% (1176/1433)Compressing objects:  83% (1190/1433)Compressing objects:  84% (1204/1433)Compressing objects:  85% (1219/1433)Compressing objects:  86% (1233/1433)Compressing objects:  87% (1247/1433)Compressing objects:  88% (1262/1433)Compressing objects:  89% (1276/1433)Compressing objects:  90% (1290/1433)Compressing objects:  91% (1305/1433)Compressing objects:  92% (1319/1433)Compressing objects:  93% (1333/1433)Compressing objects:  94% (1348/1433)Compressing objects:  95% (1362/1433)Compressing objects:  96% (1376/1433)Compressing objects:  97% (1391/1433)Compressing objects:  98% (1405/1433)Compressing objects:  99% (1419/1433)Compressing objects: 100% (1433/1433)Compressing objects: 100% (1433/1433), done.
+Total 2244 (delta 1096), reused 1514 (delta 699), pack-reused 0
+
+.devcontainer/Dockerfile (dockerfile)
+=====================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+src/PublicApi/Dockerfile (dockerfile)
+=====================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+src/Web/Dockerfile (dockerfile)
+===============================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

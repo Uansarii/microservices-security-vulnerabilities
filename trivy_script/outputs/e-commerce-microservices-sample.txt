@@ -1,0 +1,2463 @@
+Enumerating objects: 291, done.
+Counting objects:   0% (1/291)Counting objects:   1% (3/291)Counting objects:   2% (6/291)Counting objects:   3% (9/291)Counting objects:   4% (12/291)Counting objects:   5% (15/291)Counting objects:   6% (18/291)Counting objects:   7% (21/291)Counting objects:   8% (24/291)Counting objects:   9% (27/291)Counting objects:  10% (30/291)Counting objects:  11% (33/291)Counting objects:  12% (35/291)Counting objects:  13% (38/291)Counting objects:  14% (41/291)Counting objects:  15% (44/291)Counting objects:  16% (47/291)Counting objects:  17% (50/291)Counting objects:  18% (53/291)Counting objects:  19% (56/291)Counting objects:  20% (59/291)Counting objects:  21% (62/291)Counting objects:  22% (65/291)Counting objects:  23% (67/291)Counting objects:  24% (70/291)Counting objects:  25% (73/291)Counting objects:  26% (76/291)Counting objects:  27% (79/291)Counting objects:  28% (82/291)Counting objects:  29% (85/291)Counting objects:  30% (88/291)Counting objects:  31% (91/291)Counting objects:  32% (94/291)Counting objects:  33% (97/291)Counting objects:  34% (99/291)Counting objects:  35% (102/291)Counting objects:  36% (105/291)Counting objects:  37% (108/291)Counting objects:  38% (111/291)Counting objects:  39% (114/291)Counting objects:  40% (117/291)Counting objects:  41% (120/291)Counting objects:  42% (123/291)Counting objects:  43% (126/291)Counting objects:  44% (129/291)Counting objects:  45% (131/291)Counting objects:  46% (134/291)Counting objects:  47% (137/291)Counting objects:  48% (140/291)Counting objects:  49% (143/291)Counting objects:  50% (146/291)Counting objects:  51% (149/291)Counting objects:  52% (152/291)Counting objects:  53% (155/291)Counting objects:  54% (158/291)Counting objects:  55% (161/291)Counting objects:  56% (163/291)Counting objects:  57% (166/291)Counting objects:  58% (169/291)Counting objects:  59% (172/291)Counting objects:  60% (175/291)Counting objects:  61% (178/291)Counting objects:  62% (181/291)Counting objects:  63% (184/291)Counting objects:  64% (187/291)Counting objects:  65% (190/291)Counting objects:  66% (193/291)Counting objects:  67% (195/291)Counting objects:  68% (198/291)Counting objects:  69% (201/291)Counting objects:  70% (204/291)Counting objects:  71% (207/291)Counting objects:  72% (210/291)Counting objects:  73% (213/291)Counting objects:  74% (216/291)Counting objects:  75% (219/291)Counting objects:  76% (222/291)Counting objects:  77% (225/291)Counting objects:  78% (227/291)Counting objects:  79% (230/291)Counting objects:  80% (233/291)Counting objects:  81% (236/291)Counting objects:  82% (239/291)Counting objects:  83% (242/291)Counting objects:  84% (245/291)Counting objects:  85% (248/291)Counting objects:  86% (251/291)Counting objects:  87% (254/291)Counting objects:  88% (257/291)Counting objects:  89% (259/291)Counting objects:  90% (262/291)Counting objects:  91% (265/291)Counting objects:  92% (268/291)Counting objects:  93% (271/291)Counting objects:  94% (274/291)Counting objects:  95% (277/291)Counting objects:  96% (280/291)Counting objects:  97% (283/291)Counting objects:  98% (286/291)Counting objects:  99% (289/291)Counting objects: 100% (291/291)Counting objects: 100% (291/291), done.
+Compressing objects:   0% (1/210)Compressing objects:   1% (3/210)Compressing objects:   2% (5/210)Compressing objects:   3% (7/210)Compressing objects:   4% (9/210)Compressing objects:   5% (11/210)Compressing objects:   6% (13/210)Compressing objects:   7% (15/210)Compressing objects:   8% (17/210)Compressing objects:   9% (19/210)Compressing objects:  10% (21/210)Compressing objects:  11% (24/210)Compressing objects:  12% (26/210)Compressing objects:  13% (28/210)Compressing objects:  14% (30/210)Compressing objects:  15% (32/210)Compressing objects:  16% (34/210)Compressing objects:  17% (36/210)Compressing objects:  18% (38/210)Compressing objects:  19% (40/210)Compressing objects:  20% (42/210)Compressing objects:  21% (45/210)Compressing objects:  22% (47/210)Compressing objects:  23% (49/210)Compressing objects:  24% (51/210)Compressing objects:  25% (53/210)Compressing objects:  26% (55/210)Compressing objects:  27% (57/210)Compressing objects:  28% (59/210)Compressing objects:  29% (61/210)Compressing objects:  30% (63/210)Compressing objects:  31% (66/210)Compressing objects:  32% (68/210)Compressing objects:  33% (70/210)Compressing objects:  34% (72/210)Compressing objects:  35% (74/210)Compressing objects:  36% (76/210)Compressing objects:  37% (78/210)Compressing objects:  38% (80/210)Compressing objects:  39% (82/210)Compressing objects:  40% (84/210)Compressing objects:  41% (87/210)Compressing objects:  42% (89/210)Compressing objects:  43% (91/210)Compressing objects:  44% (93/210)Compressing objects:  45% (95/210)Compressing objects:  46% (97/210)Compressing objects:  47% (99/210)Compressing objects:  48% (101/210)Compressing objects:  49% (103/210)Compressing objects:  50% (105/210)Compressing objects:  51% (108/210)Compressing objects:  52% (110/210)Compressing objects:  53% (112/210)Compressing objects:  54% (114/210)Compressing objects:  55% (116/210)Compressing objects:  56% (118/210)Compressing objects:  57% (120/210)Compressing objects:  58% (122/210)Compressing objects:  59% (124/210)Compressing objects:  60% (126/210)Compressing objects:  61% (129/210)Compressing objects:  62% (131/210)Compressing objects:  63% (133/210)Compressing objects:  64% (135/210)Compressing objects:  65% (137/210)Compressing objects:  66% (139/210)Compressing objects:  67% (141/210)Compressing objects:  68% (143/210)Compressing objects:  69% (145/210)Compressing objects:  70% (147/210)Compressing objects:  71% (150/210)Compressing objects:  72% (152/210)Compressing objects:  73% (154/210)Compressing objects:  74% (156/210)Compressing objects:  75% (158/210)Compressing objects:  76% (160/210)Compressing objects:  77% (162/210)Compressing objects:  78% (164/210)Compressing objects:  79% (166/210)Compressing objects:  80% (168/210)Compressing objects:  81% (171/210)Compressing objects:  82% (173/210)Compressing objects:  83% (175/210)Compressing objects:  84% (177/210)Compressing objects:  85% (179/210)Compressing objects:  86% (181/210)Compressing objects:  87% (183/210)Compressing objects:  88% (185/210)Compressing objects:  89% (187/210)Compressing objects:  90% (189/210)Compressing objects:  91% (192/210)Compressing objects:  92% (194/210)Compressing objects:  93% (196/210)Compressing objects:  94% (198/210)Compressing objects:  95% (200/210)Compressing objects:  96% (202/210)Compressing objects:  97% (204/210)Compressing objects:  98% (206/210)Compressing objects:  99% (208/210)Compressing objects: 100% (210/210)Compressing objects: 100% (210/210), done.
+Total 291 (delta 59), reused 227 (delta 37), pack-reused 0
+
+store-ui/package-lock.json (npm)
+================================
+Total: 11 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 9, CRITICAL: 1)
+
+┌──────────────────────┬────────────────┬──────────┬───────────────────┬─────────────────────┬──────────────────────────────────────────────────────────────┐
+│       Library        │ Vulnerability  │ Severity │ Installed Version │    Fixed Version    │                            Title                             │
+├──────────────────────┼────────────────┼──────────┼───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ decode-uri-component │ CVE-2022-38900 │ LOW      │ 0.2.0             │ 0.2.1               │ decode-uri-component: improper input validation resulting in │
+│                      │                │          │                   │                     │ DoS                                                          │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-38900                   │
+├──────────────────────┼────────────────┼──────────┼───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ json5                │ CVE-2022-46175 │ HIGH     │ 1.0.1             │ 1.0.2, 2.2.2        │ json5: Prototype Pollution in JSON5 via Parse Method         │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-46175                   │
+│                      │                │          ├───────────────────┤                     │                                                              │
+│                      │                │          │ 2.2.1             │                     │                                                              │
+│                      │                │          │                   │                     │                                                              │
+├──────────────────────┼────────────────┼──────────┼───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ loader-utils         │ CVE-2022-37601 │ CRITICAL │ 2.0.2             │ 1.4.1, 2.0.3        │ loader-utils: prototype pollution in function parseQuery in  │
+│                      │                │          │                   │                     │ parseQuery.js                                                │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-37601                   │
+│                      ├────────────────┼──────────┤                   ├─────────────────────┼──────────────────────────────────────────────────────────────┤
+│                      │ CVE-2022-37599 │ HIGH     │                   │ 3.2.1, 2.0.4, 1.4.2 │ A Regular expression denial of service (ReDoS) flaw was      │
+│                      │                │          │                   │                     │ found in Funct...                                            │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-37599                   │
+│                      ├────────────────┤          │                   │                     ├──────────────────────────────────────────────────────────────┤
+│                      │ CVE-2022-37603 │          │                   │                     │ loader-utils:Regular expression denial of service            │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-37603                   │
+│                      ├────────────────┤          ├───────────────────┤                     ├──────────────────────────────────────────────────────────────┤
+│                      │ CVE-2022-37599 │          │ 3.2.0             │                     │ A Regular expression denial of service (ReDoS) flaw was      │
+│                      │                │          │                   │                     │ found in Funct...                                            │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-37599                   │
+│                      ├────────────────┤          │                   │                     ├──────────────────────────────────────────────────────────────┤
+│                      │ CVE-2022-37603 │          │                   │                     │ loader-utils:Regular expression denial of service            │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-37603                   │
+├──────────────────────┼────────────────┤          ├───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ minimatch            │ CVE-2022-3517  │          │ 3.0.4             │ 3.0.5               │ nodejs-minimatch: ReDoS via the braceExpand function         │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-3517                    │
+├──────────────────────┼────────────────┤          ├───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ nth-check            │ CVE-2021-3803  │          │ 1.0.2             │ 2.0.1               │ nodejs-nth-check: inefficient regular expression complexity  │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2021-3803                    │
+├──────────────────────┼────────────────┤          ├───────────────────┼─────────────────────┼──────────────────────────────────────────────────────────────┤
+│ terser               │ CVE-2022-25858 │          │ 5.14.1            │ 5.14.2, 4.8.1       │ terser: insecure use of regular expressions leads to ReDoS   │
+│                      │                │          │                   │                     │ https://avd.aquasec.com/nvd/cve-2022-25858                   │
+└──────────────────────┴────────────────┴──────────┴───────────────────┴─────────────────────┴──────────────────────────────────────────────────────────────┘
+
+users-cna-microservice/Pipfile.lock (pipenv)
+============================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+┌───────────┬─────────────────────┬──────────┬───────────────────┬───────────────┬───────────────────────────────────────────────────────────┐
+│  Library  │    Vulnerability    │ Severity │ Installed Version │ Fixed Version │                           Title                           │
+├───────────┼─────────────────────┼──────────┼───────────────────┼───────────────┼───────────────────────────────────────────────────────────┤
+│ starlette │ GHSA-74m5-2c7w-9w3x │ MEDIUM   │ 0.19.1            │ 0.25.0        │ MultipartParser denial of service with too many fields or │
+│           │                     │          │                   │               │ files                                                     │
+│           │                     │          │                   │               │ https://github.com/advisories/GHSA-74m5-2c7w-9w3x         │
+└───────────┴─────────────────────┴──────────┴───────────────────┴───────────────┴───────────────────────────────────────────────────────────┘
+
+cart-cna-microservice/Dockerfile (dockerfile)
+=============================================
+Tests: 24 (SUCCESSES: 23, FAILURES: 1, EXCEPTIONS: 0)
+Failures: 1 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 0, CRITICAL: 0)
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/apps/base/cart/deployment.yaml (kubernetes)
+=====================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'cart' of Deployment 'cart-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'cart' of Deployment 'cart-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'cart' of Deployment 'cart-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'cart' of Deployment 'cart-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/cart/deployment.yaml:15-37
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: cart
+  16 │         image: cart:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: SPRING_REDIS_HOST  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: cart-configmap   ## This must match the name of the configmap
+  23 └               key: SPRING_REDIS_HOST  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/apps/base/products/deployment.yaml (kubernetes)
+=========================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'products' of Deployment 'products-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'products' of Deployment 'products-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'products' of Deployment 'products-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'products' of Deployment 'products-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/products/deployment.yaml:15-32
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: products
+  16 │         image: products:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: MONGO_URI  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: products-configmap   ## This must match the name of the configmap
+  23 └               key: MONGO_URI  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/apps/base/search/deployment.yaml (kubernetes)
+=======================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'search' of Deployment 'search-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'search' of Deployment 'search-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'search' of Deployment 'search-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'search' of Deployment 'search-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/search/deployment.yaml:15-27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: search
+  16 │         image: search:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         env:
+  19 │         - name: ELASTIC_URL  ## Define the name of the variable
+  20 │           valueFrom:
+  21 │             configMapKeyRef:
+  22 │               name: search-configmap   ## This must match the name of the configmap
+  23 └               key: ELASTIC_URL  ## The key to fetch
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/apps/base/store-ui/deployment.yaml (kubernetes)
+=========================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'store-ui' of Deployment 'store-ui-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'store-ui' of Deployment 'store-ui-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/store-ui/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: store-ui
+  16 │         image: store-ui:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 80
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/apps/base/users/deployment.yaml (kubernetes)
+======================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'users' of Deployment 'users-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'users' of Deployment 'users-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'users' of Deployment 'users-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'users' of Deployment 'users-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/apps/base/users/deployment.yaml:15-21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: users
+  16 │         image: users:latest
+  17 │         imagePullPolicy: IfNotPresent
+  18 │         ports:
+  19 │         - name: http
+  20 │           containerPort: 9090
+  21 └           protocol: TCP
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/shared-services/base/elasticsearch/deployment.yaml (kubernetes)
+=========================================================================
+Tests: 153 (SUCCESSES: 127, FAILURES: 26, EXCEPTIONS: 0)
+Failures: 26 (UNKNOWN: 0, LOW: 20, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Container 'es' of Deployment 'es-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'es' of Deployment 'es-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'increase-vm-max-map' of Deployment 'es-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.privileged' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Privileged containers share namespaces with the host system and do not offer any security. They should be used exclusively for system containers that require high privileges.
+
+See https://avd.aquasec.com/misconfig/ksv017
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'es' of Deployment 'es-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'increase-vm-max-map' of Deployment 'es-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:15-24
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: es
+  16 │         image: elasticsearch:8.2.3
+  17 │         ports:
+  18 │         - containerPort: 9200
+  19 │         - containerPort: 9300
+  20 │         env:
+  21 │         - name: xpack.security.enabled
+  22 │           value: "false"
+  23 │         - name: discovery.type
+  24 └           value: "single-node"
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/elasticsearch/deployment.yaml:27-31
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  27 ┌       - name: increase-vm-max-map
+  28 │         image: busybox
+  29 │         command: ["sysctl", "-w", "vm.max_map_count=262144"]
+  30 │         securityContext:
+  31 └           privileged: true
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/shared-services/base/mongodb/deployment.yaml (kubernetes)
+===================================================================
+Tests: 141 (SUCCESSES: 128, FAILURES: 13, EXCEPTIONS: 0)
+Failures: 13 (UNKNOWN: 0, LOW: 10, MEDIUM: 3, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'mongo' of Deployment 'mongo-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'mongo' of Deployment 'mongo-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'mongo' of Deployment 'mongo-deployment' should specify an image tag
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+It is best to avoid using the ':latest' image tag when deploying containers in production. Doing so makes it hard to track which version of the image is running, and hard to roll back the version.
+
+See https://avd.aquasec.com/misconfig/ksv013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'mongo' of Deployment 'mongo-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/mongodb/deployment.yaml:15-29
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: mongo
+  16 │         image: mongo:latest
+  17 │         ports:
+  18 │         - containerPort: 27017
+  19 │         env:
+  20 │           - name: MONGO_INITDB_ROOT_USERNAME
+  21 │             valueFrom:
+  22 │               secretKeyRef:
+  23 └                 name: mongodb-secret
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/k8s/shared-services/base/redis/deployment.yaml (kubernetes)
+=================================================================
+Tests: 141 (SUCCESSES: 129, FAILURES: 12, EXCEPTIONS: 0)
+Failures: 12 (UNKNOWN: 0, LOW: 10, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: Container 'redis' of Deployment 'redis-deployment' should set 'securityContext.allowPrivilegeEscalation' to false
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+A program inside the container can elevate its own privileges and run as root, which might give the program control over the container and node.
+
+See https://avd.aquasec.com/misconfig/ksv001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should add 'ALL' to 'securityContext.capabilities.drop'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The container should drop all default capabilities and add only those that are needed for its execution.
+
+See https://avd.aquasec.com/misconfig/ksv003
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'resources.limits.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing CPU limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv011
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: Container 'redis' of Deployment 'redis-deployment' should set 'securityContext.runAsNonRoot' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+'runAsNonRoot' forces the running image to run as a non-root user to ensure least privileges.
+
+See https://avd.aquasec.com/misconfig/ksv012
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'securityContext.readOnlyRootFilesystem' to true
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+An immutable root file system prevents applications from writing to their local disk. This can limit intrusions, as attackers will not be able to tamper with the file system or write foreign executables to disk.
+
+See https://avd.aquasec.com/misconfig/ksv014
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'resources.requests.cpu'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have resource requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv015
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'resources.requests.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When containers have memory requests specified, the scheduler can make better decisions about which nodes to place pods on, and how to deal with resource contention.
+
+See https://avd.aquasec.com/misconfig/ksv016
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'resources.limits.memory'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Enforcing memory limits prevents DoS via resource exhaustion.
+
+See https://avd.aquasec.com/misconfig/ksv018
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'securityContext.runAsUser' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with user ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv020
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Container 'redis' of Deployment 'redis-deployment' should set 'securityContext.runAsGroup' > 10000
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Force the container to run with group ID > 10000 to avoid conflicts with the host’s user table.
+
+See https://avd.aquasec.com/misconfig/ksv021
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Either Pod or Container should set 'securityContext.seccompProfile.type' to 'RuntimeDefault'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+The RuntimeDefault/Localhost seccomp profile must be required, or allow specific additional profiles.
+
+See https://avd.aquasec.com/misconfig/ksv030
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: container should drop all
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Containers must drop ALL capabilities, and are only permitted to add back the NET_BIND_SERVICE capability.
+
+See https://avd.aquasec.com/misconfig/ksv106
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/k8s/shared-services/base/redis/deployment.yaml:15-18
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  15 ┌       - name: redis
+  16 │         image: redis:7-alpine
+  17 │         ports:
+  18 └         - containerPort: 6379
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+infra/terraform/modules/vpc/main.tf (terraform)
+===============================================
+Tests: 3 (SUCCESSES: 1, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 2, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: VPC Flow Logs is not enabled for VPC
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+VPC Flow Logs provide visibility into network traffic that traverses the VPC and can be used to detect anomalous traffic or insight during security workflows.
+
+See https://avd.aquasec.com/misconfig/avd-aws-0178
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/terraform/modules/vpc/main.tf:1-4
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 ┌ resource "aws_vpc" "Main" {            # Creating VPC here
+   2 │   cidr_block       = var.main_vpc_cidr # Defining the CIDR block use 10.0.0.0/24 for demo
+   3 │   instance_tenancy = "default"
+   4 └ }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+MEDIUM: VPC Flow Logs is not enabled for VPC
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+VPC Flow Logs provide visibility into network traffic that traverses the VPC and can be used to detect anomalous traffic or insight during security workflows.
+
+See https://avd.aquasec.com/misconfig/avd-aws-0178
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ infra/terraform/modules/vpc/main.tf:1-4
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1 ┌ resource "aws_vpc" "Main" {            # Creating VPC here
+   2 │   cidr_block       = var.main_vpc_cidr # Defining the CIDR block use 10.0.0.0/24 for demo
+   3 │   instance_tenancy = "default"
+   4 └ }
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+products-cna-microservice/Dockerfile (dockerfile)
+=================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+search-cna-microservice/Dockerfile (dockerfile)
+===============================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+store-ui/Dockerfile (dockerfile)
+================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+users-cna-microservice/Dockerfile (dockerfile)
+==============================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+

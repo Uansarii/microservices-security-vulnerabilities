@@ -1,0 +1,108 @@
+Enumerating objects: 11177, done.
+Counting objects:   0% (1/11177)Counting objects:   1% (112/11177)Counting objects:   2% (224/11177)Counting objects:   3% (336/11177)Counting objects:   4% (448/11177)Counting objects:   5% (559/11177)Counting objects:   6% (671/11177)Counting objects:   7% (783/11177)Counting objects:   8% (895/11177)Counting objects:   9% (1006/11177)Counting objects:  10% (1118/11177)Counting objects:  11% (1230/11177)Counting objects:  12% (1342/11177)Counting objects:  13% (1454/11177)Counting objects:  14% (1565/11177)Counting objects:  15% (1677/11177)Counting objects:  16% (1789/11177)Counting objects:  17% (1901/11177)Counting objects:  18% (2012/11177)Counting objects:  19% (2124/11177)Counting objects:  20% (2236/11177)Counting objects:  21% (2348/11177)Counting objects:  22% (2459/11177)Counting objects:  23% (2571/11177)Counting objects:  24% (2683/11177)Counting objects:  25% (2795/11177)Counting objects:  26% (2907/11177)Counting objects:  27% (3018/11177)Counting objects:  28% (3130/11177)Counting objects:  29% (3242/11177)Counting objects:  30% (3354/11177)Counting objects:  31% (3465/11177)Counting objects:  32% (3577/11177)Counting objects:  33% (3689/11177)Counting objects:  34% (3801/11177)Counting objects:  35% (3912/11177)Counting objects:  36% (4024/11177)Counting objects:  37% (4136/11177)Counting objects:  38% (4248/11177)Counting objects:  39% (4360/11177)Counting objects:  40% (4471/11177)Counting objects:  41% (4583/11177)Counting objects:  42% (4695/11177)Counting objects:  43% (4807/11177)Counting objects:  44% (4918/11177)Counting objects:  45% (5030/11177)Counting objects:  46% (5142/11177)Counting objects:  47% (5254/11177)Counting objects:  48% (5365/11177)Counting objects:  49% (5477/11177)Counting objects:  50% (5589/11177)Counting objects:  51% (5701/11177)Counting objects:  52% (5813/11177)Counting objects:  53% (5924/11177)Counting objects:  54% (6036/11177)Counting objects:  55% (6148/11177)Counting objects:  56% (6260/11177)Counting objects:  57% (6371/11177)Counting objects:  58% (6483/11177)Counting objects:  59% (6595/11177)Counting objects:  60% (6707/11177)Counting objects:  61% (6818/11177)Counting objects:  62% (6930/11177)Counting objects:  63% (7042/11177)Counting objects:  64% (7154/11177)Counting objects:  65% (7266/11177)Counting objects:  66% (7377/11177)Counting objects:  67% (7489/11177)Counting objects:  68% (7601/11177)Counting objects:  69% (7713/11177)Counting objects:  70% (7824/11177)Counting objects:  71% (7936/11177)Counting objects:  72% (8048/11177)Counting objects:  73% (8160/11177)Counting objects:  74% (8271/11177)Counting objects:  75% (8383/11177)Counting objects:  76% (8495/11177)Counting objects:  77% (8607/11177)Counting objects:  78% (8719/11177)Counting objects:  79% (8830/11177)Counting objects:  80% (8942/11177)Counting objects:  81% (9054/11177)Counting objects:  82% (9166/11177)Counting objects:  83% (9277/11177)Counting objects:  84% (9389/11177)Counting objects:  85% (9501/11177)Counting objects:  86% (9613/11177)Counting objects:  87% (9724/11177)Counting objects:  88% (9836/11177)Counting objects:  89% (9948/11177)Counting objects:  90% (10060/11177)Counting objects:  91% (10172/11177)Counting objects:  92% (10283/11177)Counting objects:  93% (10395/11177)Counting objects:  94% (10507/11177)Counting objects:  95% (10619/11177)Counting objects:  96% (10730/11177)Counting objects:  97% (10842/11177)Counting objects:  98% (10954/11177)Counting objects:  99% (11066/11177)Counting objects: 100% (11177/11177)Counting objects: 100% (11177/11177), done.
+Compressing objects:   0% (1/6163)Compressing objects:   1% (62/6163)Compressing objects:   2% (124/6163)Compressing objects:   3% (185/6163)Compressing objects:   4% (247/6163)Compressing objects:   5% (309/6163)Compressing objects:   6% (370/6163)Compressing objects:   7% (432/6163)Compressing objects:   8% (494/6163)Compressing objects:   9% (555/6163)Compressing objects:  10% (617/6163)Compressing objects:  11% (678/6163)Compressing objects:  12% (740/6163)Compressing objects:  13% (802/6163)Compressing objects:  14% (863/6163)Compressing objects:  15% (925/6163)Compressing objects:  16% (987/6163)Compressing objects:  17% (1048/6163)Compressing objects:  18% (1110/6163)Compressing objects:  19% (1171/6163)Compressing objects:  20% (1233/6163)Compressing objects:  21% (1295/6163)Compressing objects:  22% (1356/6163)Compressing objects:  23% (1418/6163)Compressing objects:  24% (1480/6163)Compressing objects:  25% (1541/6163)Compressing objects:  26% (1603/6163)Compressing objects:  27% (1665/6163)Compressing objects:  28% (1726/6163)Compressing objects:  29% (1788/6163)Compressing objects:  30% (1849/6163)Compressing objects:  31% (1911/6163)Compressing objects:  32% (1973/6163)Compressing objects:  33% (2034/6163)Compressing objects:  34% (2096/6163)Compressing objects:  35% (2158/6163)Compressing objects:  36% (2219/6163)Compressing objects:  37% (2281/6163)Compressing objects:  38% (2342/6163)Compressing objects:  39% (2404/6163)Compressing objects:  40% (2466/6163)Compressing objects:  41% (2527/6163)Compressing objects:  42% (2589/6163)Compressing objects:  43% (2651/6163)Compressing objects:  44% (2712/6163)Compressing objects:  45% (2774/6163)Compressing objects:  46% (2835/6163)Compressing objects:  47% (2897/6163)Compressing objects:  48% (2959/6163)Compressing objects:  49% (3020/6163)Compressing objects:  50% (3082/6163)Compressing objects:  51% (3144/6163)Compressing objects:  52% (3205/6163)Compressing objects:  53% (3267/6163)Compressing objects:  54% (3329/6163)Compressing objects:  55% (3390/6163)Compressing objects:  56% (3452/6163)Compressing objects:  57% (3513/6163)Compressing objects:  58% (3575/6163)Compressing objects:  59% (3637/6163)Compressing objects:  60% (3698/6163)Compressing objects:  61% (3760/6163)Compressing objects:  62% (3822/6163)Compressing objects:  63% (3883/6163)Compressing objects:  64% (3945/6163)Compressing objects:  65% (4006/6163)Compressing objects:  66% (4068/6163)Compressing objects:  67% (4130/6163)Compressing objects:  68% (4191/6163)Compressing objects:  69% (4253/6163)Compressing objects:  70% (4315/6163)Compressing objects:  71% (4376/6163)Compressing objects:  72% (4438/6163)Compressing objects:  73% (4499/6163)Compressing objects:  74% (4561/6163)Compressing objects:  75% (4623/6163)Compressing objects:  76% (4684/6163)Compressing objects:  77% (4746/6163)Compressing objects:  78% (4808/6163)Compressing objects:  79% (4869/6163)Compressing objects:  80% (4931/6163)Compressing objects:  81% (4993/6163)Compressing objects:  82% (5054/6163)Compressing objects:  83% (5116/6163)Compressing objects:  84% (5177/6163)Compressing objects:  85% (5239/6163)Compressing objects:  86% (5301/6163)Compressing objects:  87% (5362/6163)Compressing objects:  88% (5424/6163)Compressing objects:  89% (5486/6163)Compressing objects:  90% (5547/6163)Compressing objects:  91% (5609/6163)Compressing objects:  92% (5670/6163)Compressing objects:  93% (5732/6163)Compressing objects:  94% (5794/6163)Compressing objects:  95% (5855/6163)Compressing objects:  96% (5917/6163)Compressing objects:  97% (5979/6163)Compressing objects:  98% (6040/6163)Compressing objects:  99% (6102/6163)Compressing objects: 100% (6163/6163)Compressing objects: 100% (6163/6163), done.
+Total 11177 (delta 4529), reused 8517 (delta 2431), pack-reused 0
+
+pom.xml (pom)
+=============
+Total: 3 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬────────────────────┬──────────────────────────────────────────────────────────┐
+│                   Library                   │ Vulnerability  │ Severity │ Installed Version │   Fixed Version    │                          Title                           │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003 │ HIGH     │ 2.13.3            │ 2.12.7.1, 2.13.4.1 │ jackson-databind: deep wrapper array nesting wrt         │
+│                                             │                │          │                   │                    │ UNWRAP_SINGLE_VALUE_ARRAYS                               │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42003               │
+│                                             ├────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004 │          │                   │ 2.12.7.1, 2.13.4   │ jackson-databind: use of deeply nested arrays            │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42004               │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http  │ CVE-2022-31684 │ MEDIUM   │ 1.0.23            │ 1.0.24             │ reactor-netty-http: Log request headers in some cases of │
+│                                             │                │          │                   │                    │ invalid HTTP requests                                    │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-31684               │
+└─────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴────────────────────┴──────────────────────────────────────────────────────────┘
+
+services-bytebuf-codec/pom.xml (pom)
+====================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+┌────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────┐
+│                  Library                   │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                          Title                           │
+├────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http │ CVE-2022-31684 │ MEDIUM   │ 1.0.23            │ 1.0.24        │ reactor-netty-http: Log request headers in some cases of │
+│                                            │                │          │                   │               │ invalid HTTP requests                                    │
+│                                            │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-31684               │
+└────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────┘
+
+services-examples/pom.xml (pom)
+===============================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+┌────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────┐
+│                  Library                   │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                          Title                           │
+├────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http │ CVE-2022-31684 │ MEDIUM   │ 1.0.23            │ 1.0.24        │ reactor-netty-http: Log request headers in some cases of │
+│                                            │                │          │                   │               │ invalid HTTP requests                                    │
+│                                            │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-31684               │
+└────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────┘
+
+services-security/pom.xml (pom)
+===============================
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬────────────────────┬──────────────────────────────────────────────────┐
+│                   Library                   │ Vulnerability  │ Severity │ Installed Version │   Fixed Version    │                      Title                       │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003 │ HIGH     │ 2.13.3            │ 2.12.7.1, 2.13.4.1 │ jackson-databind: deep wrapper array nesting wrt │
+│                                             │                │          │                   │                    │ UNWRAP_SINGLE_VALUE_ARRAYS                       │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42003       │
+│                                             ├────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004 │          │                   │ 2.12.7.1, 2.13.4   │ jackson-databind: use of deeply nested arrays    │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42004       │
+└─────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴────────────────────┴──────────────────────────────────────────────────┘
+
+services-transport-parent/pom.xml (pom)
+=======================================
+Total: 3 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬────────────────────┬──────────────────────────────────────────────────────────┐
+│                   Library                   │ Vulnerability  │ Severity │ Installed Version │   Fixed Version    │                          Title                           │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003 │ HIGH     │ 2.13.3            │ 2.12.7.1, 2.13.4.1 │ jackson-databind: deep wrapper array nesting wrt         │
+│                                             │                │          │                   │                    │ UNWRAP_SINGLE_VALUE_ARRAYS                               │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42003               │
+│                                             ├────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004 │          │                   │ 2.12.7.1, 2.13.4   │ jackson-databind: use of deeply nested arrays            │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42004               │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http  │ CVE-2022-31684 │ MEDIUM   │ 1.0.23            │ 1.0.24             │ reactor-netty-http: Log request headers in some cases of │
+│                                             │                │          │                   │                    │ invalid HTTP requests                                    │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-31684               │
+└─────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴────────────────────┴──────────────────────────────────────────────────────────┘
+
+services-transport-parent/services-transport-jackson/pom.xml (pom)
+==================================================================
+Total: 2 (UNKNOWN: 0, LOW: 0, MEDIUM: 0, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬────────────────────┬──────────────────────────────────────────────────┐
+│                   Library                   │ Vulnerability  │ Severity │ Installed Version │   Fixed Version    │                      Title                       │
+├─────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼────────────────────┼──────────────────────────────────────────────────┤
+│ com.fasterxml.jackson.core:jackson-databind │ CVE-2022-42003 │ HIGH     │ 2.13.3            │ 2.12.7.1, 2.13.4.1 │ jackson-databind: deep wrapper array nesting wrt │
+│                                             │                │          │                   │                    │ UNWRAP_SINGLE_VALUE_ARRAYS                       │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42003       │
+│                                             ├────────────────┤          │                   ├────────────────────┼──────────────────────────────────────────────────┤
+│                                             │ CVE-2022-42004 │          │                   │ 2.12.7.1, 2.13.4   │ jackson-databind: use of deeply nested arrays    │
+│                                             │                │          │                   │                    │ https://avd.aquasec.com/nvd/cve-2022-42004       │
+└─────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴────────────────────┴──────────────────────────────────────────────────┘
+
+services-transport-parent/services-transport-rsocket/pom.xml (pom)
+==================================================================
+Total: 1 (UNKNOWN: 0, LOW: 0, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+┌────────────────────────────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────┐
+│                  Library                   │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                          Title                           │
+├────────────────────────────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────┤
+│ io.projectreactor.netty:reactor-netty-http │ CVE-2022-31684 │ MEDIUM   │ 1.0.23            │ 1.0.24        │ reactor-netty-http: Log request headers in some cases of │
+│                                            │                │          │                   │               │ invalid HTTP requests                                    │
+│                                            │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-31684               │
+└────────────────────────────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────┘

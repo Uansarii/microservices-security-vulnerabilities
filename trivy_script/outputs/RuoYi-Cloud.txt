@@ -1,0 +1,846 @@
+Enumerating objects: 4879, done.
+Counting objects:   0% (1/4879)Counting objects:   1% (49/4879)Counting objects:   2% (98/4879)Counting objects:   3% (147/4879)Counting objects:   4% (196/4879)Counting objects:   5% (244/4879)Counting objects:   6% (293/4879)Counting objects:   7% (342/4879)Counting objects:   8% (391/4879)Counting objects:   9% (440/4879)Counting objects:  10% (488/4879)Counting objects:  11% (537/4879)Counting objects:  12% (586/4879)Counting objects:  13% (635/4879)Counting objects:  14% (684/4879)Counting objects:  15% (732/4879)Counting objects:  16% (781/4879)Counting objects:  17% (830/4879)Counting objects:  18% (879/4879)Counting objects:  19% (928/4879)Counting objects:  20% (976/4879)Counting objects:  21% (1025/4879)Counting objects:  22% (1074/4879)Counting objects:  23% (1123/4879)Counting objects:  24% (1171/4879)Counting objects:  25% (1220/4879)Counting objects:  26% (1269/4879)Counting objects:  27% (1318/4879)Counting objects:  28% (1367/4879)Counting objects:  29% (1415/4879)Counting objects:  30% (1464/4879)Counting objects:  31% (1513/4879)Counting objects:  32% (1562/4879)Counting objects:  33% (1611/4879)Counting objects:  34% (1659/4879)Counting objects:  35% (1708/4879)Counting objects:  36% (1757/4879)Counting objects:  37% (1806/4879)Counting objects:  38% (1855/4879)Counting objects:  39% (1903/4879)Counting objects:  40% (1952/4879)Counting objects:  41% (2001/4879)Counting objects:  42% (2050/4879)Counting objects:  43% (2098/4879)Counting objects:  44% (2147/4879)Counting objects:  45% (2196/4879)Counting objects:  46% (2245/4879)Counting objects:  47% (2294/4879)Counting objects:  48% (2342/4879)Counting objects:  49% (2391/4879)Counting objects:  50% (2440/4879)Counting objects:  51% (2489/4879)Counting objects:  52% (2538/4879)Counting objects:  53% (2586/4879)Counting objects:  54% (2635/4879)Counting objects:  55% (2684/4879)Counting objects:  56% (2733/4879)Counting objects:  57% (2782/4879)Counting objects:  58% (2830/4879)Counting objects:  59% (2879/4879)Counting objects:  60% (2928/4879)Counting objects:  61% (2977/4879)Counting objects:  62% (3025/4879)Counting objects:  63% (3074/4879)Counting objects:  64% (3123/4879)Counting objects:  65% (3172/4879)Counting objects:  66% (3221/4879)Counting objects:  67% (3269/4879)Counting objects:  68% (3318/4879)Counting objects:  69% (3367/4879)Counting objects:  70% (3416/4879)Counting objects:  71% (3465/4879)Counting objects:  72% (3513/4879)Counting objects:  73% (3562/4879)Counting objects:  74% (3611/4879)Counting objects:  75% (3660/4879)Counting objects:  76% (3709/4879)Counting objects:  77% (3757/4879)Counting objects:  78% (3806/4879)Counting objects:  79% (3855/4879)Counting objects:  80% (3904/4879)Counting objects:  81% (3952/4879)Counting objects:  82% (4001/4879)Counting objects:  83% (4050/4879)Counting objects:  84% (4099/4879)Counting objects:  85% (4148/4879)Counting objects:  86% (4196/4879)Counting objects:  87% (4245/4879)Counting objects:  88% (4294/4879)Counting objects:  89% (4343/4879)Counting objects:  90% (4392/4879)Counting objects:  91% (4440/4879)Counting objects:  92% (4489/4879)Counting objects:  93% (4538/4879)Counting objects:  94% (4587/4879)Counting objects:  95% (4636/4879)Counting objects:  96% (4684/4879)Counting objects:  97% (4733/4879)Counting objects:  98% (4782/4879)Counting objects:  99% (4831/4879)Counting objects: 100% (4879/4879)Counting objects: 100% (4879/4879), done.
+Compressing objects:   0% (1/2603)Compressing objects:   1% (27/2603)Compressing objects:   2% (53/2603)Compressing objects:   3% (79/2603)Compressing objects:   4% (105/2603)Compressing objects:   5% (131/2603)Compressing objects:   6% (157/2603)Compressing objects:   7% (183/2603)Compressing objects:   8% (209/2603)Compressing objects:   9% (235/2603)Compressing objects:  10% (261/2603)Compressing objects:  11% (287/2603)Compressing objects:  12% (313/2603)Compressing objects:  13% (339/2603)Compressing objects:  14% (365/2603)Compressing objects:  15% (391/2603)Compressing objects:  16% (417/2603)Compressing objects:  17% (443/2603)Compressing objects:  18% (469/2603)Compressing objects:  19% (495/2603)Compressing objects:  20% (521/2603)Compressing objects:  21% (547/2603)Compressing objects:  22% (573/2603)Compressing objects:  23% (599/2603)Compressing objects:  24% (625/2603)Compressing objects:  25% (651/2603)Compressing objects:  26% (677/2603)Compressing objects:  27% (703/2603)Compressing objects:  28% (729/2603)Compressing objects:  29% (755/2603)Compressing objects:  30% (781/2603)Compressing objects:  31% (807/2603)Compressing objects:  32% (833/2603)Compressing objects:  33% (859/2603)Compressing objects:  34% (886/2603)Compressing objects:  35% (912/2603)Compressing objects:  36% (938/2603)Compressing objects:  37% (964/2603)Compressing objects:  38% (990/2603)Compressing objects:  39% (1016/2603)Compressing objects:  40% (1042/2603)Compressing objects:  41% (1068/2603)Compressing objects:  42% (1094/2603)Compressing objects:  43% (1120/2603)Compressing objects:  44% (1146/2603)Compressing objects:  45% (1172/2603)Compressing objects:  46% (1198/2603)Compressing objects:  47% (1224/2603)Compressing objects:  48% (1250/2603)Compressing objects:  49% (1276/2603)Compressing objects:  50% (1302/2603)Compressing objects:  51% (1328/2603)Compressing objects:  52% (1354/2603)Compressing objects:  53% (1380/2603)Compressing objects:  54% (1406/2603)Compressing objects:  55% (1432/2603)Compressing objects:  56% (1458/2603)Compressing objects:  57% (1484/2603)Compressing objects:  58% (1510/2603)Compressing objects:  59% (1536/2603)Compressing objects:  60% (1562/2603)Compressing objects:  61% (1588/2603)Compressing objects:  62% (1614/2603)Compressing objects:  63% (1640/2603)Compressing objects:  64% (1666/2603)Compressing objects:  65% (1692/2603)Compressing objects:  66% (1718/2603)Compressing objects:  67% (1745/2603)Compressing objects:  68% (1771/2603)Compressing objects:  69% (1797/2603)Compressing objects:  70% (1823/2603)Compressing objects:  71% (1849/2603)Compressing objects:  72% (1875/2603)Compressing objects:  73% (1901/2603)Compressing objects:  74% (1927/2603)Compressing objects:  75% (1953/2603)Compressing objects:  76% (1979/2603)Compressing objects:  77% (2005/2603)Compressing objects:  78% (2031/2603)Compressing objects:  79% (2057/2603)Compressing objects:  80% (2083/2603)Compressing objects:  81% (2109/2603)Compressing objects:  82% (2135/2603)Compressing objects:  83% (2161/2603)Compressing objects:  84% (2187/2603)Compressing objects:  85% (2213/2603)Compressing objects:  86% (2239/2603)Compressing objects:  87% (2265/2603)Compressing objects:  88% (2291/2603)Compressing objects:  89% (2317/2603)Compressing objects:  90% (2343/2603)Compressing objects:  91% (2369/2603)Compressing objects:  92% (2395/2603)Compressing objects:  93% (2421/2603)Compressing objects:  94% (2447/2603)Compressing objects:  95% (2473/2603)Compressing objects:  96% (2499/2603)Compressing objects:  97% (2525/2603)Compressing objects:  98% (2551/2603)Compressing objects:  99% (2577/2603)Compressing objects: 100% (2603/2603)Compressing objects: 100% (2603/2603), done.
+Total 4879 (delta 1992), reused 3785 (delta 1157), pack-reused 0
+
+pom.xml (pom)
+=============
+Total: 19 (UNKNOWN: 0, LOW: 1, MEDIUM: 10, HIGH: 7, CRITICAL: 1)
+
+┌───────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬──────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│                Library                │  Vulnerability   │ Severity │ Installed Version │            Fixed Version             │                            Title                             │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava                │ CVE-2020-8908    │ LOW      │ 27.0.1-jre        │ 30.0                                 │ guava: local information disclosure via temporary directory  │
+│                                       │                  │          │                   │                                      │ created with unsafe permissions                              │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.ruoyi:ruoyi                       │ CVE-2022-32065   │ MEDIUM   │ 3.6.2             │ 4.7.4                                │ RuoYi 4.7.3 vulnerable to arbitrary file upload in           │
+│                                       │                  │          │                   │                                      │ background management module                                 │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-32065                   │
+├───────────────────────────────────────┼──────────────────┤          │                   ├──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ com.ruoyi:ruoyi-common                │ CVE-2022-4348    │          │                   │                                      │ RuoYi-Cloud Cross-site Scripting vulnerability               │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-4348                    │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-beanutils:commons-beanutils   │ CVE-2019-10086   │ HIGH     │ 1.9.3             │ 1.9.4                                │ apache-commons-beanutils: does not suppresses the class      │
+│                                       │                  │          │                   │                                      │ property in PropertyUtilsBean by default                     │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2019-10086                   │
+├───────────────────────────────────────┼──────────────────┤          ├───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload │ CVE-2023-24998   │          │ 1.4               │ 1.5                                  │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                       │                  │          │                   │                                      │ parts                                                        │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├───────────────────────────────────────┼──────────────────┤          ├───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.commons:commons-compress   │ CVE-2021-35515   │          │ 1.19              │ 1.21                                 │ apache-commons-compress: infinite loop when reading a        │
+│                                       │                  │          │                   │                                      │ specially crafted 7Z archive                                 │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2021-35515                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35516   │          │                   │                                      │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │                                      │ reading a specially crafted 7Z archive                       │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2021-35516                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35517   │          │                   │                                      │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │                                      │ reading a specially crafted TAR archive                      │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2021-35517                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-36090   │          │                   │                                      │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │                                      │ reading a specially crafted ZIP archive                      │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2021-36090                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.poi:poi                    │ CVE-2022-26336   │ MEDIUM   │ 4.1.2             │ 5.2.1                                │ poi-scratchpad: A carefully crafted TNEF file can cause an   │
+│                                       │                  │          │                   │                                      │ out of memory...                                             │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-26336                   │
+├───────────────────────────────────────┤                  │          │                   │                                      │                                                              │
+│ org.apache.poi:poi-ooxml              │                  │          │                   │                                      │                                                              │
+│                                       │                  │          │                   │                                      │                                                              │
+│                                       │                  │          │                   │                                      │                                                              │
+├───────────────────────────────────────┼──────────────────┤          ├───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-validator     │ CVE-2020-10693   │          │ 6.0.8.Final       │ 6.0.20.Final, 6.1.5.Final, 7.0.0.CR1 │ hibernate-validator: Improper input validation in the        │
+│                                       │                  │          │                   │                                      │ interpolation of constraint error messages                   │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2020-10693                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web        │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0                                │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                       │                  │          │                   │                                      │ method untrusted java deserialization                        │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                    │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31                                 │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                       │                  │          │                   │                                      │ limitation for collections...                                │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                       ├──────────────────┼──────────┤                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38749   │ MEDIUM   │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │                                      │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38750   │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │                                      │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                       │                  │          │                   │                                      │ ect                                                          │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38751   │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │                                      │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                       ├──────────────────┤          │                   ├──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38752   │          │                   │ 1.32                                 │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │                                      │ java.base/java.util.ArrayList.hashCode                       │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                       ├──────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-41854   │          │                   │                                      │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                       │                  │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└───────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴──────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-api/pom.xml (pom)
+=======================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-api/ruoyi-api-system/pom.xml (pom)
+========================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-auth/pom.xml (pom)
+========================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/pom.xml (pom)
+==========================
+Total: 16 (UNKNOWN: 0, LOW: 1, MEDIUM: 8, HIGH: 6, CRITICAL: 1)
+
+┌───────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│                Library                │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava                │ CVE-2020-8908    │ LOW      │ 27.0.1-jre        │ 30.0          │ guava: local information disclosure via temporary directory  │
+│                                       │                  │          │                   │               │ created with unsafe permissions                              │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ com.ruoyi:ruoyi-common                │ CVE-2022-4348    │ MEDIUM   │ 3.6.2             │               │ RuoYi-Cloud Cross-site Scripting vulnerability               │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-4348                    │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload │ CVE-2023-24998   │ HIGH     │ 1.4               │ 1.5           │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                       │                  │          │                   │               │ parts                                                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├───────────────────────────────────────┼──────────────────┤          ├───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.commons:commons-compress   │ CVE-2021-35515   │          │ 1.19              │ 1.21          │ apache-commons-compress: infinite loop when reading a        │
+│                                       │                  │          │                   │               │ specially crafted 7Z archive                                 │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35515                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35516   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted 7Z archive                       │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35516                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35517   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted TAR archive                      │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35517                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-36090   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted ZIP archive                      │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-36090                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.poi:poi                    │ CVE-2022-26336   │ MEDIUM   │ 4.1.2             │ 5.2.1         │ poi-scratchpad: A carefully crafted TNEF file can cause an   │
+│                                       │                  │          │                   │               │ out of memory...                                             │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-26336                   │
+├───────────────────────────────────────┤                  │          │                   │               │                                                              │
+│ org.apache.poi:poi-ooxml              │                  │          │                   │               │                                                              │
+│                                       │                  │          │                   │               │                                                              │
+│                                       │                  │          │                   │               │                                                              │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web        │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                       │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                    │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                       │                  │          │                   │               │ limitation for collections...                                │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                       ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                       │                  │          │                   │               │ ect                                                          │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                       ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└───────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-core/pom.xml (pom)
+============================================
+Total: 14 (UNKNOWN: 0, LOW: 0, MEDIUM: 7, HIGH: 6, CRITICAL: 1)
+
+┌───────────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│                Library                │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-fileupload:commons-fileupload │ CVE-2023-24998   │ HIGH     │ 1.4               │ 1.5           │ Apache Commons FileUpload: FileUpload DoS with excessive     │
+│                                       │                  │          │                   │               │ parts                                                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2023-24998                   │
+├───────────────────────────────────────┼──────────────────┤          ├───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.commons:commons-compress   │ CVE-2021-35515   │          │ 1.19              │ 1.21          │ apache-commons-compress: infinite loop when reading a        │
+│                                       │                  │          │                   │               │ specially crafted 7Z archive                                 │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35515                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35516   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted 7Z archive                       │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35516                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-35517   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted TAR archive                      │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-35517                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2021-36090   │          │                   │               │ apache-commons-compress: excessive memory allocation when    │
+│                                       │                  │          │                   │               │ reading a specially crafted ZIP archive                      │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2021-36090                   │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.apache.poi:poi                    │ CVE-2022-26336   │ MEDIUM   │ 4.1.2             │ 5.2.1         │ poi-scratchpad: A carefully crafted TNEF file can cause an   │
+│                                       │                  │          │                   │               │ out of memory...                                             │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-26336                   │
+├───────────────────────────────────────┤                  │          │                   │               │                                                              │
+│ org.apache.poi:poi-ooxml              │                  │          │                   │               │                                                              │
+│                                       │                  │          │                   │               │                                                              │
+│                                       │                  │          │                   │               │                                                              │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web        │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                       │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├───────────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                    │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                       │                  │          │                   │               │ limitation for collections...                                │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                       ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                       │                  │          │                   │               │ ect                                                          │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                       ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                       │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                       ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                       │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                       │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└───────────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-datascope/pom.xml (pom)
+=================================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-datasource/pom.xml (pom)
+==================================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-log/pom.xml (pom)
+===========================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-redis/pom.xml (pom)
+=============================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-seata/pom.xml (pom)
+=============================================
+Total: 8 (UNKNOWN: 0, LOW: 1, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ com.google.guava:guava         │ CVE-2020-8908    │ LOW      │ 27.0.1-jre        │ 30.0          │ guava: local information disclosure via temporary directory  │
+│                                │                  │          │                   │               │ created with unsafe permissions                              │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2020-8908                    │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-security/pom.xml (pom)
+================================================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-common/ruoyi-common-swagger/pom.xml (pom)
+===============================================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-gateway/pom.xml (pom)
+===========================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-modules/pom.xml (pom)
+===========================
+Total: 8 (UNKNOWN: 0, LOW: 0, MEDIUM: 6, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────┬────────────────┬──────────┬───────────────────┬──────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library               │ Vulnerability  │ Severity │ Installed Version │            Fixed Version             │                            Title                             │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-beanutils:commons-beanutils │ CVE-2019-10086 │ HIGH     │ 1.9.3             │ 1.9.4                                │ apache-commons-beanutils: does not suppresses the class      │
+│                                     │                │          │                   │                                      │ property in PropertyUtilsBean by default                     │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2019-10086                   │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-validator   │ CVE-2020-10693 │ MEDIUM   │ 6.0.8.Final       │ 6.0.20.Final, 6.1.5.Final, 7.0.0.CR1 │ hibernate-validator: Improper input validation in the        │
+│                                     │                │          │                   │                                      │ interpolation of constraint error messages                   │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2020-10693                   │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                  │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31                                 │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                     │                │          │                   │                                      │ limitation for collections...                                │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                     ├────────────────┼──────────┤                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38749 │ MEDIUM   │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38750 │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                     │                │          │                   │                                      │ ect                                                          │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38751 │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                     ├────────────────┤          │                   ├──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38752 │          │                   │ 1.32                                 │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ java.base/java.util.ArrayList.hashCode                       │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-41854 │          │                   │                                      │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────┴────────────────┴──────────┴───────────────────┴──────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-modules/ruoyi-file/pom.xml (pom)
+======================================
+Total: 8 (UNKNOWN: 0, LOW: 0, MEDIUM: 6, HIGH: 2, CRITICAL: 0)
+
+┌─────────────────────────────────────┬────────────────┬──────────┬───────────────────┬──────────────────────────────────────┬──────────────────────────────────────────────────────────────┐
+│               Library               │ Vulnerability  │ Severity │ Installed Version │            Fixed Version             │                            Title                             │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ commons-beanutils:commons-beanutils │ CVE-2019-10086 │ HIGH     │ 1.9.3             │ 1.9.4                                │ apache-commons-beanutils: does not suppresses the class      │
+│                                     │                │          │                   │                                      │ property in PropertyUtilsBean by default                     │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2019-10086                   │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.hibernate:hibernate-validator   │ CVE-2020-10693 │ MEDIUM   │ 6.0.8.Final       │ 6.0.20.Final, 6.1.5.Final, 7.0.0.CR1 │ hibernate-validator: Improper input validation in the        │
+│                                     │                │          │                   │                                      │ interpolation of constraint error messages                   │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2020-10693                   │
+├─────────────────────────────────────┼────────────────┼──────────┼───────────────────┼──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml                  │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31                                 │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                     │                │          │                   │                                      │ limitation for collections...                                │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                     ├────────────────┼──────────┤                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38749 │ MEDIUM   │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38750 │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                     │                │          │                   │                                      │ ect                                                          │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38751 │          │                   │                                      │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                     ├────────────────┤          │                   ├──────────────────────────────────────┼──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-38752 │          │                   │ 1.32                                 │ snakeyaml: Uncaught exception in                             │
+│                                     │                │          │                   │                                      │ java.base/java.util.ArrayList.hashCode                       │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                     ├────────────────┤          │                   │                                      ├──────────────────────────────────────────────────────────────┤
+│                                     │ CVE-2022-41854 │          │                   │                                      │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                     │                │          │                   │                                      │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└─────────────────────────────────────┴────────────────┴──────────┴───────────────────┴──────────────────────────────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-modules/ruoyi-gen/pom.xml (pom)
+=====================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-modules/ruoyi-job/pom.xml (pom)
+=====================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-modules/ruoyi-system/pom.xml (pom)
+========================================
+Total: 6 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 0)
+
+┌────────────────────┬────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│      Library       │ Vulnerability  │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────┼────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml │ CVE-2022-25857 │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                    │                │          │                   │               │ limitation for collections...                                │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                    ├────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38749 │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38750 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                    │                │          │                   │               │ ect                                                          │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38751 │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                    ├────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-38752 │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                    │                │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                    ├────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                    │ CVE-2022-41854 │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                    │                │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────┴────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-visual/pom.xml (pom)
+==========================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘
+
+ruoyi-visual/ruoyi-monitor/pom.xml (pom)
+========================================
+Total: 7 (UNKNOWN: 0, LOW: 0, MEDIUM: 5, HIGH: 1, CRITICAL: 1)
+
+┌────────────────────────────────┬──────────────────┬──────────┬───────────────────┬───────────────┬──────────────────────────────────────────────────────────────┐
+│            Library             │  Vulnerability   │ Severity │ Installed Version │ Fixed Version │                            Title                             │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.springframework:spring-web │ CVE-2016-1000027 │ CRITICAL │ 5.3.24            │ 6.0.0         │ spring: HttpInvokerServiceExporter readRemoteInvocation      │
+│                                │                  │          │                   │               │ method untrusted java deserialization                        │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2016-1000027                 │
+├────────────────────────────────┼──────────────────┼──────────┼───────────────────┼───────────────┼──────────────────────────────────────────────────────────────┤
+│ org.yaml:snakeyaml             │ CVE-2022-25857   │ HIGH     │ 1.30              │ 1.31          │ snakeyaml: Denial of Service due to missing nested depth     │
+│                                │                  │          │                   │               │ limitation for collections...                                │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-25857                   │
+│                                ├──────────────────┼──────────┤                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38749   │ MEDIUM   │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.composer.Composer.composeSequenceNode     │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38749                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38750   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ org.yaml.snakeyaml.constructor.BaseConstructor.constructObj- │
+│                                │                  │          │                   │               │ ect                                                          │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38750                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38751   │          │                   │               │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.regex.Pattern$Ques.match                 │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38751                   │
+│                                ├──────────────────┤          │                   ├───────────────┼──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-38752   │          │                   │ 1.32          │ snakeyaml: Uncaught exception in                             │
+│                                │                  │          │                   │               │ java.base/java.util.ArrayList.hashCode                       │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-38752                   │
+│                                ├──────────────────┤          │                   │               ├──────────────────────────────────────────────────────────────┤
+│                                │ CVE-2022-41854   │          │                   │               │ dev-java/snakeyaml: DoS via stack overflow                   │
+│                                │                  │          │                   │               │ https://avd.aquasec.com/nvd/cve-2022-41854                   │
+└────────────────────────────────┴──────────────────┴──────────┴───────────────────┴───────────────┴──────────────────────────────────────────────────────────────┘

@@ -1,0 +1,11 @@
+https://github.com/spinnaker/spinnaker
+https://github.com/cortexproject/cortex
+https://github.com/jaegertracing/jaeger
+https://github.com/networknt/light-4j
+https://github.com/moleculerjs/moleculer
+https://github.com/microservices-demo/microservices-demo
+https://github.com/mozilla-services/cliquet
+https://github.com/MitocGroup/deep-framework
+https://github.com/scalecube/scalecube-services
+https://github.com/lelylan/lelylan
+https://github.com/EdwinVW/pitstop

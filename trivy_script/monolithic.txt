@@ -1,0 +1,7 @@
+https://github.com/dotnet-architecture/eShopOnWeb
+https://github.com/OpenMage/magento-mirror
+https://github.com/ikismail/ShoppingCart
+https://github.com/jhipster/jhipster
+https://github.com/revel/revel
+https://github.com/spring-projects/spring-petclinic
+https://github.com/withstars/Books-Management-System

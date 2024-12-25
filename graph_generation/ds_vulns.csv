@@ -1,0 +1,44 @@
+Vulnerability,Code,Date,Repetitions
+Cross-Site Request Forgery,CWE-352,19/07/2006,116
+Non-final static fields should not be public,JAVA-S1050,,112
+Spring component introduces unmanaged state,JAVA-S1060,,84
+Use of Cryptographically Weak Pseudo-Random Number Generator,CWE-338,19/07/2006,46
+Deserialization of Untrusted Data,CWE-502,19/07/2006,39
+Use of a Broken or Risky Cryptographic Algorithm,CWE-327,19/07/2006,26
+Use of Inherently Dangerous Function,CWE-242,19/07/2006,25
+Exposure of Sensitive Information to an Unauthorized Actor,CWE-200,19/07/2006,24
+Mutable fields should not directly be returned,JAVA-S1049,,24
+Insertion of Sensitive Information Into Sent Data,CWE-201,19/07/2006,23
+Improper Check or Handling of Exceptional Conditions,CWE-703,09/09/2008,22
+Improper Removal of Sensitive Information Before Storage or Transfer,CWE-212,19/07/2006,22
+Cleartext Transmission of Sensitive Information,CWE-319,19/07/2006,20
+Improperly Controlled Modification of Dynamically-Determined Object Attributes,CWE-915,26/01/2013,20
+eval() should not be used,JS-0060,,19
+Uncontrolled Resource Consumption,CWE-400,19/07/2006,13
+Cryptographic Issues,CWE-310,19/07/2006,13
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CWE-79,19/07/2006,9
+Incorrect Default Permissions,CWE-276,19/07/2006,8
+Inadequate Encryption Strength,CWE-326,19/07/2006,8
+Same Seed in Pseudo-Random Number Generator (PRNG),CWE-336,19/07/2006,5
+Predictable Seed in Pseudo-Random Number Generator (PRNG),CWE-337,19/07/2006,5
+Server-Side Request Forgery (SSRF),CWE-918,17/02/2013,4
+Channel Accessible by Non-Endpoint,CWE-300,19/07/2006,4
+Found weak hashing functions,JS-D003,,4
+External Control of File Name or Path,CWE-73,19/07/2006,3
+Improper Control of Generation of Code ('Code Injection'),CWE-94,19/07/2006,3
+Use interpolation expressions instead of the v-html attribute,JS-0693,,3
+Assert statement used outside of tests,BAN-B101,,3
+Improper Certificate Validation,CWE-295,19/07/2006,2
+Avoid using deprecated or outdated libraries,JS-S1005,,2
+A TrustManager/HostnameVerifier that accepts all certificates is a security risk,JAVA-S1002,,2
+Audit: Consider using System.URI instead of strings,CS-A1000,,2
+Improper Input Validation,CWE-20,19/07/2006,2
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CWE-22,19/07/2006,2
+Improper Control of Resource Identifiers ('Resource Injection'),CWE-99,19/07/2006,2
+Improper Restriction of Names for Files and Other Resources,CWE-641,30/01/2008,2
+Insecure Temporary File,CWE-377,19/07/2006,1
+Audit: Binding to all interfaces detected with hardcoded values,BAN-B104,,1
+Audit: Starting a process with a partial executable path,BAN-B607,,1
+Paths in chained antMatchers invocations are not ordered by specificity,JAVA-S1064,,1
+Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,CWE-614,07/05/2007,1
+Secrets detected in source code,SCT-1000,,1

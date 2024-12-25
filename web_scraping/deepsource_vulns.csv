@@ -1,0 +1,43 @@
+Cross-Site Request Forgery (CSRF),CWE-352,2006-07-19
+,JAVA-S1050,
+,JAVA-S1060,
+Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG),CWE-338,2006-07-19
+Deserialization of Untrusted Data,CWE-502,2006-07-19
+Use of a Broken or Risky Cryptographic Algorithm,CWE-327,2006-07-19
+Use of Inherently Dangerous Function,CWE-242,2006-07-19
+Exposure of Sensitive Information to an Unauthorized Actor,CWE-200,2006-07-19
+,JAVA-S1049,
+Insertion of Sensitive Information Into Sent Data,CWE-201,2006-07-19
+Improper Check or Handling of Exceptional Conditions,CWE-703,2008-09-09
+Improper Removal of Sensitive Information Before Storage or Transfer,CWE-212,2006-07-19
+Cleartext Transmission of Sensitive Information,CWE-319,2006-07-19
+Improperly Controlled Modification of Dynamically-Determined Object Attributes,CWE-915,2013-01-26
+,JS-0060,
+Uncontrolled Resource Consumption,CWE-400,2006-07-19
+Cryptographic Issues,CWE-310,2006-07-19
+Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting'),CWE-79,2006-07-19
+Incorrect Default Permissions,CWE-276,2006-07-19
+Inadequate Encryption Strength,CWE-326,2006-07-19
+Same Seed in Pseudo-Random Number Generator (PRNG),CWE-336,2006-07-19
+Predictable Seed in Pseudo-Random Number Generator (PRNG),CWE-337,2006-07-19
+Server-Side Request Forgery (SSRF),CWE-918,2013-02-17
+Channel Accessible by Non-Endpoint,CWE-300,2006-07-19
+,JS-D003,
+External Control of File Name or Path,CWE-73,2006-07-19
+Improper Control of Generation of Code ('Code Injection'),CWE-94,2006-07-19
+,JS-0693,
+,BAN-B101,
+Improper Certificate Validation,CWE-295,2006-07-19
+,JS-S1005,
+,JAVA-S1002,
+,CS-A1000,
+Improper Input Validation,CWE-20,2006-07-19
+Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'),CWE-22,2006-07-19
+Improper Control of Resource Identifiers ('Resource Injection'),CWE-99,2006-07-19
+Improper Restriction of Names for Files and Other Resources,CWE-641,2008-01-30
+Insecure Temporary File,CWE-377,2006-07-19
+,BAN-B104,
+,BAN-B607,
+,JAVA-S1064,
+Sensitive Cookie in HTTPS Session Without 'Secure' Attribute,CWE-614,2007-05-07
+,SCT-1000,

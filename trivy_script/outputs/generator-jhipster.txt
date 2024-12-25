@@ -1,0 +1,95 @@
+Enumerating objects: 70670, done.
+Counting objects:   0% (1/70670)Counting objects:   1% (707/70670)Counting objects:   2% (1414/70670)Counting objects:   3% (2121/70670)Counting objects:   4% (2827/70670)Counting objects:   5% (3534/70670)Counting objects:   6% (4241/70670)Counting objects:   7% (4947/70670)Counting objects:   8% (5654/70670)Counting objects:   9% (6361/70670)Counting objects:  10% (7067/70670)Counting objects:  11% (7774/70670)Counting objects:  12% (8481/70670)Counting objects:  13% (9188/70670)Counting objects:  14% (9894/70670)Counting objects:  15% (10601/70670)Counting objects:  16% (11308/70670)Counting objects:  17% (12014/70670)Counting objects:  18% (12721/70670)Counting objects:  19% (13428/70670)Counting objects:  20% (14134/70670)Counting objects:  21% (14841/70670)Counting objects:  22% (15548/70670)Counting objects:  23% (16255/70670)Counting objects:  24% (16961/70670)Counting objects:  25% (17668/70670)Counting objects:  26% (18375/70670)Counting objects:  27% (19081/70670)Counting objects:  28% (19788/70670)Counting objects:  29% (20495/70670)Counting objects:  30% (21201/70670)Counting objects:  31% (21908/70670)Counting objects:  32% (22615/70670)Counting objects:  33% (23322/70670)Counting objects:  34% (24028/70670)Counting objects:  35% (24735/70670)Counting objects:  36% (25442/70670)Counting objects:  37% (26148/70670)Counting objects:  38% (26855/70670)Counting objects:  39% (27562/70670)Counting objects:  40% (28268/70670)Counting objects:  41% (28975/70670)Counting objects:  42% (29682/70670)Counting objects:  43% (30389/70670)Counting objects:  44% (31095/70670)Counting objects:  45% (31802/70670)Counting objects:  46% (32509/70670)Counting objects:  47% (33215/70670)Counting objects:  48% (33922/70670)Counting objects:  49% (34629/70670)Counting objects:  50% (35335/70670)Counting objects:  51% (36042/70670)Counting objects:  52% (36749/70670)Counting objects:  53% (37456/70670)Counting objects:  54% (38162/70670)Counting objects:  55% (38869/70670)Counting objects:  56% (39576/70670)Counting objects:  57% (40282/70670)Counting objects:  58% (40989/70670)Counting objects:  59% (41696/70670)Counting objects:  60% (42402/70670)Counting objects:  61% (43109/70670)Counting objects:  62% (43816/70670)Counting objects:  63% (44523/70670)Counting objects:  64% (45229/70670)Counting objects:  65% (45936/70670)Counting objects:  66% (46643/70670)Counting objects:  67% (47349/70670)Counting objects:  68% (48056/70670)Counting objects:  69% (48763/70670)Counting objects:  70% (49469/70670)Counting objects:  71% (50176/70670)Counting objects:  72% (50883/70670)Counting objects:  73% (51590/70670)Counting objects:  74% (52296/70670)Counting objects:  75% (53003/70670)Counting objects:  76% (53710/70670)Counting objects:  77% (54416/70670)Counting objects:  78% (55123/70670)Counting objects:  79% (55830/70670)Counting objects:  80% (56536/70670)Counting objects:  81% (57243/70670)Counting objects:  82% (57950/70670)Counting objects:  83% (58657/70670)Counting objects:  84% (59363/70670)Counting objects:  85% (60070/70670)Counting objects:  86% (60777/70670)Counting objects:  87% (61483/70670)Counting objects:  88% (62190/70670)Counting objects:  89% (62897/70670)Counting objects:  90% (63603/70670)Counting objects:  91% (64310/70670)Counting objects:  92% (65017/70670)Counting objects:  93% (65724/70670)Counting objects:  94% (66430/70670)Counting objects:  95% (67137/70670)Counting objects:  96% (67844/70670)Counting objects:  97% (68550/70670)Counting objects:  98% (69257/70670)Counting objects:  99% (69964/70670)Counting objects: 100% (70670/70670)Counting objects: 100% (70670/70670), done.
+Compressing objects:   0% (1/37315)Compressing objects:   1% (374/37315)Compressing objects:   2% (747/37315)Compressing objects:   3% (1120/37315)Compressing objects:   4% (1493/37315)Compressing objects:   5% (1866/37315)Compressing objects:   6% (2239/37315)Compressing objects:   7% (2613/37315)Compressing objects:   8% (2986/37315)Compressing objects:   9% (3359/37315)Compressing objects:  10% (3732/37315)Compressing objects:  11% (4105/37315)Compressing objects:  12% (4478/37315)Compressing objects:  13% (4851/37315)Compressing objects:  14% (5225/37315)Compressing objects:  15% (5598/37315)Compressing objects:  16% (5971/37315)Compressing objects:  17% (6344/37315)Compressing objects:  17% (6515/37315)Compressing objects:  18% (6717/37315)Compressing objects:  19% (7090/37315)Compressing objects:  20% (7463/37315)Compressing objects:  21% (7837/37315)Compressing objects:  22% (8210/37315)Compressing objects:  23% (8583/37315)Compressing objects:  24% (8956/37315)Compressing objects:  25% (9329/37315)Compressing objects:  26% (9702/37315)Compressing objects:  26% (10070/37315)Compressing objects:  27% (10076/37315)Compressing objects:  28% (10449/37315)Compressing objects:  29% (10822/37315)Compressing objects:  30% (11195/37315)Compressing objects:  31% (11568/37315)Compressing objects:  31% (11585/37315)Compressing objects:  32% (11941/37315)Compressing objects:  33% (12314/37315)Compressing objects:  34% (12688/37315)Compressing objects:  35% (13061/37315)Compressing objects:  36% (13434/37315)Compressing objects:  37% (13807/37315)Compressing objects:  38% (14180/37315)Compressing objects:  38% (14309/37315)Compressing objects:  39% (14553/37315)Compressing objects:  40% (14926/37315)Compressing objects:  41% (15300/37315)Compressing objects:  41% (15401/37315)Compressing objects:  42% (15673/37315)Compressing objects:  43% (16046/37315)Compressing objects:  44% (16419/37315)Compressing objects:  45% (16792/37315)Compressing objects:  46% (17165/37315)Compressing objects:  47% (17539/37315)Compressing objects:  48% (17912/37315)Compressing objects:  49% (18285/37315)Compressing objects:  50% (18658/37315)Compressing objects:  51% (19031/37315)Compressing objects:  52% (19404/37315)Compressing objects:  53% (19777/37315)Compressing objects:  54% (20151/37315)Compressing objects:  55% (20524/37315)Compressing objects:  56% (20897/37315)Compressing objects:  57% (21270/37315)Compressing objects:  58% (21643/37315)Compressing objects:  59% (22016/37315)Compressing objects:  60% (22389/37315)Compressing objects:  61% (22763/37315)Compressing objects:  62% (23136/37315)Compressing objects:  63% (23509/37315)Compressing objects:  64% (23882/37315)Compressing objects:  65% (24255/37315)Compressing objects:  66% (24628/37315)Compressing objects:  67% (25002/37315)Compressing objects:  68% (25375/37315)Compressing objects:  69% (25748/37315)Compressing objects:  70% (26121/37315)Compressing objects:  71% (26494/37315)Compressing objects:  72% (26867/37315)Compressing objects:  73% (27240/37315)Compressing objects:  74% (27614/37315)Compressing objects:  75% (27987/37315)Compressing objects:  76% (28360/37315)Compressing objects:  77% (28733/37315)Compressing objects:  78% (29106/37315)Compressing objects:  79% (29479/37315)Compressing objects:  80% (29852/37315)Compressing objects:  81% (30226/37315)Compressing objects:  82% (30599/37315)Compressing objects:  83% (30972/37315)Compressing objects:  84% (31345/37315)Compressing objects:  85% (31718/37315)Compressing objects:  86% (32091/37315)Compressing objects:  87% (32465/37315)Compressing objects:  88% (32838/37315)Compressing objects:  89% (33211/37315)Compressing objects:  90% (33584/37315)Compressing objects:  91% (33957/37315)Compressing objects:  92% (34330/37315)Compressing objects:  93% (34703/37315)Compressing objects:  94% (35077/37315)Compressing objects:  95% (35450/37315)Compressing objects:  96% (35823/37315)Compressing objects:  97% (36196/37315)Compressing objects:  98% (36569/37315)Compressing objects:  99% (36942/37315)Compressing objects: 100% (37315/37315)Compressing objects: 100% (37315/37315), done.
+Total 70670 (delta 43370), reused 49456 (delta 26753), pack-reused 0
+
+Dockerfile (dockerfile)
+=======================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 0, CRITICAL: 0)
+
+MEDIUM: RUN should not be used to change directory: 'cd /home/jhipster/generator-jhipster &&   npm ci &&   npm install -g /home/jhipster/generator-jhipster &&   chown -R jhipster:jhipster     /home/jhipster     /usr/local/lib/node_modules &&   rm -rf     /home/jhipster/.cache/     /var/lib/apt/lists/*     /tmp/*     /var/tmp/*'. Use 'WORKDIR' statement instead.
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Use WORKDIR instead of proliferating instructions like 'RUN cd … && do-something', which are hard to read, troubleshoot, and maintain.
+
+See https://avd.aquasec.com/misconfig/ds013
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ Dockerfile:56-70
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  56 ┌ RUN \
+  57 │   # install jhipster
+  58 │   cd /home/jhipster/generator-jhipster && \
+  59 │   npm ci && \
+  60 │   npm install -g /home/jhipster/generator-jhipster && \
+  61 │   # fix jhipster user permissions
+  62 │   chown -R jhipster:jhipster \
+  63 │     /home/jhipster \
+  64 └     /usr/local/lib/node_modules && \
+  ..   
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+generators/server/templates/.devcontainer/Dockerfile.ejs (dockerfile)
+=====================================================================
+Tests: 24 (SUCCESSES: 22, FAILURES: 2, EXCEPTIONS: 0)
+Failures: 2 (UNKNOWN: 0, LOW: 1, MEDIUM: 0, HIGH: 1, CRITICAL: 0)
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+
+generators/server/templates/Dockerfile (dockerfile)
+===================================================
+Tests: 24 (SUCCESSES: 21, FAILURES: 3, EXCEPTIONS: 0)
+Failures: 3 (UNKNOWN: 0, LOW: 1, MEDIUM: 1, HIGH: 1, CRITICAL: 0)
+
+MEDIUM: Specify a tag in the 'FROM' statement for image 'swaggerapi/swagger-editor'
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+When using a 'FROM' statement you should use a specific tag to avoid uncontrolled behavior when the image is updated.
+
+See https://avd.aquasec.com/misconfig/ds001
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ generators/server/templates/Dockerfile:76
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  76 [ FROM swaggerapi/swagger-editor:latest
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+HIGH: Specify at least 1 USER command in Dockerfile with non-root user as argument
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+Running containers with 'root' user can lead to a container escape situation. It is a best practice to run containers as non-root users, which can be done by adding a 'USER' statement to the Dockerfile.
+
+See https://avd.aquasec.com/misconfig/ds002
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+LOW: Add HEALTHCHECK instruction in your Dockerfile
+═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+You shoud add HEALTHCHECK instruction in your docker container images to perform the health check on running containers.
+
+See https://avd.aquasec.com/misconfig/ds026
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+
